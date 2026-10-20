@@ -1,0 +1,1020 @@
+{
+  "title": "Dark Psychology vs. Healthy Boundaries: How to Spot Emotional Manipulation",
+  "scope": "landscape episode only, thumbnail excluded",
+  "timing_status": "pending processed narration alignment",
+  "scene_sheets": [
+    {
+      "sheet_id": "S01",
+      "title": "The apology trap",
+      "entry_phrase": "Have you ever walked away from a conversation...",
+      "panels": [
+        {
+          "id": "S01_P01",
+          "description": "Right: leaving a conversation, shoulders folded."
+        },
+        {
+          "id": "S01_P02",
+          "description": "Left: apologetic hands, uncertain expression."
+        },
+        {
+          "id": "S01_P03",
+          "description": "Right: recalling a tense exchange."
+        },
+        {
+          "id": "S01_P04",
+          "description": "Left: gently explaining hurt feelings."
+        },
+        {
+          "id": "S01_P05",
+          "description": "Right: companion turning away defensively."
+        },
+        {
+          "id": "S01_P06",
+          "description": "Left: shrinking beneath an empty speech bubble."
+        },
+        {
+          "id": "S01_P07",
+          "description": "Right: three small overlapping empty bubbles."
+        },
+        {
+          "id": "S01_P08",
+          "description": "Left: starting to speak, then hesitating."
+        },
+        {
+          "id": "S01_P09",
+          "description": "Right: exhausted, seated alone."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S02",
+      "title": "Self-doubt and the repeating pattern",
+      "entry_phrase": "You started questioning your own memory.",
+      "panels": [
+        {
+          "id": "S02_P01",
+          "description": "Left: studying a blurred memory fragment."
+        },
+        {
+          "id": "S02_P02",
+          "description": "Right: hesitant hand against chest."
+        },
+        {
+          "id": "S02_P03",
+          "description": "Left: holding an uneasy, fragile heart."
+        },
+        {
+          "id": "S02_P04",
+          "description": "Right: comforting the person who upset them."
+        },
+        {
+          "id": "S02_P05",
+          "description": "Left: two ordinary people misunderstanding each other."
+        },
+        {
+          "id": "S02_P06",
+          "description": "Right: same disagreement appearing in repeated vignettes."
+        },
+        {
+          "id": "S02_P07",
+          "description": "Left: personal space pressed by another figure."
+        },
+        {
+          "id": "S02_P08",
+          "description": "Right: carrying both people’s emotional baggage."
+        },
+        {
+          "id": "S02_P09",
+          "description": "Left: bending posture to keep peace."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S03",
+      "title": "What healthy disagreement allows",
+      "entry_phrase": "Today, we're going to look at the difference",
+      "panels": [
+        {
+          "id": "S03_P01",
+          "description": "Right: calm observer examining relationship fragments."
+        },
+        {
+          "id": "S03_P02",
+          "description": "Left: suspicious glance softening into curiosity."
+        },
+        {
+          "id": "S03_P03",
+          "description": "Right: two equal-sized people across a table."
+        },
+        {
+          "id": "S03_P04",
+          "description": "Left: raising a concern with open palm."
+        },
+        {
+          "id": "S03_P05",
+          "description": "Right: companion listening, visibly uncomfortable."
+        },
+        {
+          "id": "S03_P06",
+          "description": "Left: companion explaining their perspective."
+        },
+        {
+          "id": "S03_P07",
+          "description": "Right: both expressing different feelings."
+        },
+        {
+          "id": "S03_P08",
+          "description": "Left: two chairs with equal breathing room."
+        },
+        {
+          "id": "S03_P09",
+          "description": "Right: both remaining upright after disagreement."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S04",
+      "title": "When the concern disappears",
+      "entry_phrase": "Now imagine a different response.",
+      "panels": [
+        {
+          "id": "S04_P01",
+          "description": "Left: concern offered in an empty bubble."
+        },
+        {
+          "id": "S04_P02",
+          "description": "Right: companion responding with pointed finger."
+        },
+        {
+          "id": "S04_P03",
+          "description": "Left: startled by oversized empty reply bubble."
+        },
+        {
+          "id": "S04_P04",
+          "description": "Right: defending themselves with both hands."
+        },
+        {
+          "id": "S04_P05",
+          "description": "Left: original small bubble drifting unnoticed."
+        },
+        {
+          "id": "S04_P06",
+          "description": "Right: emotional weight shifting onto protagonist."
+        },
+        {
+          "id": "S04_P07",
+          "description": "Left: conversation ending, concern still unresolved."
+        },
+        {
+          "id": "S04_P08",
+          "description": "Right: repeated exchanges leaving protagonist exhausted."
+        },
+        {
+          "id": "S04_P09",
+          "description": "Left: equal conversation beside crowded one-sided exchange."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S05",
+      "title": "Gaslighting is not every disagreement",
+      "entry_phrase": "Let's talk about gaslighting.",
+      "panels": [
+        {
+          "id": "S05_P01",
+          "description": "Right: examining a hazy memory carefully."
+        },
+        {
+          "id": "S05_P02",
+          "description": "Left: two people recalling different fragments."
+        },
+        {
+          "id": "S05_P03",
+          "description": "Right: calmly comparing two blank messages."
+        },
+        {
+          "id": "S05_P04",
+          "description": "Left: uncertain memory, not broken identity."
+        },
+        {
+          "id": "S05_P05",
+          "description": "Right: standing beside a blank clock dial."
+        },
+        {
+          "id": "S05_P06",
+          "description": "Left: waiting alone beside an empty chair."
+        },
+        {
+          "id": "S05_P07",
+          "description": "Right: companion finally arriving."
+        },
+        {
+          "id": "S05_P08",
+          "description": "Left: raising the previously agreed meeting time."
+        },
+        {
+          "id": "S05_P09",
+          "description": "Right: companion gesturing disagreement, neutral expression."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S06",
+      "title": "Repeated denial undermines self-trust",
+      "entry_phrase": "But they insist you're imagining things.",
+      "panels": [
+        {
+          "id": "S06_P01",
+          "description": "Left: protagonist holding a memory fragment."
+        },
+        {
+          "id": "S06_P02",
+          "description": "Right: companion waving that fragment aside."
+        },
+        {
+          "id": "S06_P03",
+          "description": "Left: two mismatched blank message slips."
+        },
+        {
+          "id": "S06_P04",
+          "description": "Right: recurring denial shown in three vignettes."
+        },
+        {
+          "id": "S06_P05",
+          "description": "Left: past conversation fading into paper haze."
+        },
+        {
+          "id": "S06_P06",
+          "description": "Right: protagonist doubting a once-clear recollection."
+        },
+        {
+          "id": "S06_P07",
+          "description": "Left: hand lowered before speaking."
+        },
+        {
+          "id": "S06_P08",
+          "description": "Right: asking companion to interpret shared experience."
+        },
+        {
+          "id": "S06_P09",
+          "description": "Left: small figure surrounded by drifting fragments."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S07",
+      "title": "Evidence and accountability",
+      "entry_phrase": "That's the important distinction.",
+      "panels": [
+        {
+          "id": "S07_P01",
+          "description": "Right: stepping back to examine repeated interactions."
+        },
+        {
+          "id": "S07_P02",
+          "description": "Left: arranging blank agreement slips thoughtfully."
+        },
+        {
+          "id": "S07_P03",
+          "description": "Right: writing privately in a plain notebook."
+        },
+        {
+          "id": "S07_P04",
+          "description": "Left: reading a saved blank phone message."
+        },
+        {
+          "id": "S07_P05",
+          "description": "Right: two people comparing the same evidence."
+        },
+        {
+          "id": "S07_P06",
+          "description": "Left: companion acknowledging a mistake openly."
+        },
+        {
+          "id": "S07_P07",
+          "description": "Right: shared memory fragments becoming coherent."
+        },
+        {
+          "id": "S07_P08",
+          "description": "Left: honest conversation with relaxed shoulders."
+        },
+        {
+          "id": "S07_P09",
+          "description": "Right: standing steadily beside their own recollection."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S08",
+      "title": "Intense affection is not automatically manipulation",
+      "entry_phrase": "Now let's look at another pattern.",
+      "panels": [
+        {
+          "id": "S08_P01",
+          "description": "Left: new acquaintance greeting warmly."
+        },
+        {
+          "id": "S08_P02",
+          "description": "Right: delighted by an affectionate message."
+        },
+        {
+          "id": "S08_P03",
+          "description": "Left: phone surrounded by small empty bubbles."
+        },
+        {
+          "id": "S08_P04",
+          "description": "Right: receiving a thoughtful gift."
+        },
+        {
+          "id": "S08_P05",
+          "description": "Left: imagining a shared future warmly."
+        },
+        {
+          "id": "S08_P06",
+          "description": "Right: feeling seen and valued."
+        },
+        {
+          "id": "S08_P07",
+          "description": "Left: two expressive people enjoying closeness."
+        },
+        {
+          "id": "S08_P08",
+          "description": "Right: couple moving at a mutually comfortable pace."
+        },
+        {
+          "id": "S08_P09",
+          "description": "Left: affection crowding personal space, unease beginning."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S09",
+      "title": "When affection becomes a debt",
+      "entry_phrase": "Imagine you tell this person...",
+      "panels": [
+        {
+          "id": "S09_P01",
+          "description": "Right: gentle open palm requesting slower pace."
+        },
+        {
+          "id": "S09_P02",
+          "description": "Left: companion disappointed by that request."
+        },
+        {
+          "id": "S09_P03",
+          "description": "Right: gifts piled beside an uncomfortable protagonist."
+        },
+        {
+          "id": "S09_P04",
+          "description": "Left: companion presenting gifts as an obligation."
+        },
+        {
+          "id": "S09_P05",
+          "description": "Right: affectionate ribbon becoming taut between people."
+        },
+        {
+          "id": "S09_P06",
+          "description": "Left: protagonist clutching heart, conflicted."
+        },
+        {
+          "id": "S09_P07",
+          "description": "Right: generous gift casting a heavy shadow."
+        },
+        {
+          "id": "S09_P08",
+          "description": "Left: taking a small step back."
+        },
+        {
+          "id": "S09_P09",
+          "description": "Right: companion standing close despite the request."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S10",
+      "title": "The push-pull cycle",
+      "entry_phrase": "Later, perhaps after a disagreement, their warmth disappears.",
+      "panels": [
+        {
+          "id": "S10_P01",
+          "description": "Left: previously warm companion now distant."
+        },
+        {
+          "id": "S10_P02",
+          "description": "Right: protagonist reaching toward withdrawn attention."
+        },
+        {
+          "id": "S10_P03",
+          "description": "Left: protagonist beginning to walk away."
+        },
+        {
+          "id": "S10_P04",
+          "description": "Right: warm attention suddenly returning."
+        },
+        {
+          "id": "S10_P05",
+          "description": "Left: receiving another extravagant promise."
+        },
+        {
+          "id": "S10_P06",
+          "description": "Right: hopeful glance toward remembered closeness."
+        },
+        {
+          "id": "S10_P07",
+          "description": "Left: exhausted between warm and distant encounters."
+        },
+        {
+          "id": "S10_P08",
+          "description": "Right: saying no while watching the response."
+        },
+        {
+          "id": "S10_P09",
+          "description": "Left: two people respecting a slower shared pace."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S11",
+      "title": "Traits are not a diagnosis",
+      "entry_phrase": "Now, let's talk about narcissistic traits.",
+      "panels": [
+        {
+          "id": "S11_P01",
+          "description": "Right: online crowd holding blank oversized labels."
+        },
+        {
+          "id": "S11_P02",
+          "description": "Left: protagonist setting an empty label aside."
+        },
+        {
+          "id": "S11_P03",
+          "description": "Right: an ordinary moment of selfish behavior."
+        },
+        {
+          "id": "S11_P04",
+          "description": "Left: defensiveness during a difficult conversation."
+        },
+        {
+          "id": "S11_P05",
+          "description": "Right: seeking attention without villainous styling."
+        },
+        {
+          "id": "S11_P06",
+          "description": "Left: professional listening in a calm consultation."
+        },
+        {
+          "id": "S11_P07",
+          "description": "Right: observer watching a concrete interaction."
+        },
+        {
+          "id": "S11_P08",
+          "description": "Left: looking beyond simplistic labels."
+        },
+        {
+          "id": "S11_P09",
+          "description": "Right: two equal human figures, nuanced expressions."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S12",
+      "title": "Observe behavior, not imagined motives",
+      "entry_phrase": "For example...",
+      "panels": [
+        {
+          "id": "S12_P01",
+          "description": "Left: companion taking the only comfortable chair."
+        },
+        {
+          "id": "S12_P02",
+          "description": "Right: protagonist’s needs left outside shared space."
+        },
+        {
+          "id": "S12_P03",
+          "description": "Left: one person claiming a shared achievement."
+        },
+        {
+          "id": "S12_P04",
+          "description": "Right: responsibility passed toward the other person."
+        },
+        {
+          "id": "S12_P05",
+          "description": "Left: reasonable feedback met with dismissive posture."
+        },
+        {
+          "id": "S12_P06",
+          "description": "Right: protagonist recoiling from humiliating response."
+        },
+        {
+          "id": "S12_P07",
+          "description": "Left: two people’s needs held at equal height."
+        },
+        {
+          "id": "S12_P08",
+          "description": "Right: one difficult moment within a wider story."
+        },
+        {
+          "id": "S12_P09",
+          "description": "Left: repeated interactions examined together."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S13",
+      "title": "Accountability and change",
+      "entry_phrase": "What matters is the pattern.",
+      "panels": [
+        {
+          "id": "S13_P01",
+          "description": "Right: companion pausing to reflect."
+        },
+        {
+          "id": "S13_P02",
+          "description": "Left: apology offered with open hands."
+        },
+        {
+          "id": "S13_P03",
+          "description": "Right: blame pushed back toward protagonist."
+        },
+        {
+          "id": "S13_P04",
+          "description": "Left: small considerate action repairing trust."
+        },
+        {
+          "id": "S13_P05",
+          "description": "Right: familiar conflict returning unchanged."
+        },
+        {
+          "id": "S13_P06",
+          "description": "Left: protagonist calmly observing the recurrence."
+        },
+        {
+          "id": "S13_P07",
+          "description": "Right: setting down an unused blank label."
+        },
+        {
+          "id": "S13_P08",
+          "description": "Left: recognizing hurt without judging hidden motives."
+        },
+        {
+          "id": "S13_P09",
+          "description": "Right: making a self-protective decision calmly."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S14",
+      "title": "What a boundary actually means",
+      "entry_phrase": "Now here's where healthy boundaries become important.",
+      "panels": [
+        {
+          "id": "S14_P01",
+          "description": "Left: relaxed stance with personal breathing room."
+        },
+        {
+          "id": "S14_P02",
+          "description": "Right: setting aside a controlling grip gesture."
+        },
+        {
+          "id": "S14_P03",
+          "description": "Left: anger acknowledged without retaliation."
+        },
+        {
+          "id": "S14_P04",
+          "description": "Right: stating a limit with open palm."
+        },
+        {
+          "id": "S14_P05",
+          "description": "Left: two people beginning a difficult conversation."
+        },
+        {
+          "id": "S14_P06",
+          "description": "Right: protagonist responding to an insulting gesture."
+        },
+        {
+          "id": "S14_P07",
+          "description": "Left: calmly moving their own chair back."
+        },
+        {
+          "id": "S14_P08",
+          "description": "Right: leaving through an open doorway."
+        },
+        {
+          "id": "S14_P09",
+          "description": "Left: returning later with both people calmer."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S15",
+      "title": "Your choices, not ownership",
+      "entry_phrase": "Notice the difference.",
+      "panels": [
+        {
+          "id": "S15_P01",
+          "description": "Right: companion angry, protagonist still composed."
+        },
+        {
+          "id": "S15_P02",
+          "description": "Left: allowing emotion without joining insults."
+        },
+        {
+          "id": "S15_P03",
+          "description": "Right: two people holding different empty bubbles."
+        },
+        {
+          "id": "S15_P04",
+          "description": "Left: each person with room to disagree."
+        },
+        {
+          "id": "S15_P05",
+          "description": "Right: protagonist choosing whether to remain."
+        },
+        {
+          "id": "S15_P06",
+          "description": "Left: companion attempting to steer another’s direction."
+        },
+        {
+          "id": "S15_P07",
+          "description": "Right: protagonist choosing their own direction."
+        },
+        {
+          "id": "S15_P08",
+          "description": "Left: two separate paths remaining side by side."
+        },
+        {
+          "id": "S15_P09",
+          "description": "Right: closeness without either person gripping another."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S16",
+      "title": "Following through is hard",
+      "entry_phrase": "And sometimes...",
+      "panels": [
+        {
+          "id": "S16_P01",
+          "description": "Left: calmly preparing to leave an argument."
+        },
+        {
+          "id": "S16_P02",
+          "description": "Right: still seated as evening shadows lengthen."
+        },
+        {
+          "id": "S16_P03",
+          "description": "Left: asking for time with hesitant open palm."
+        },
+        {
+          "id": "S16_P04",
+          "description": "Right: overwhelmed by repeated requests."
+        },
+        {
+          "id": "S16_P05",
+          "description": "Left: agreeing reluctantly, shoulders tense."
+        },
+        {
+          "id": "S16_P06",
+          "description": "Right: relieved reunion obscuring an unresolved concern."
+        },
+        {
+          "id": "S16_P07",
+          "description": "Left: meeting their own distress with compassion."
+        },
+        {
+          "id": "S16_P08",
+          "description": "Right: standing on firmer ground thoughtfully."
+        },
+        {
+          "id": "S16_P09",
+          "description": "Left: taking one small self-directed step."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S17",
+      "title": "Healthy disappointment versus guilt",
+      "entry_phrase": "There's another important distinction.",
+      "panels": [
+        {
+          "id": "S17_P01",
+          "description": "Right: ordinary misunderstanding between caring people."
+        },
+        {
+          "id": "S17_P02",
+          "description": "Left: two people repairing an uncomfortable moment."
+        },
+        {
+          "id": "S17_P03",
+          "description": "Right: exhausted protagonist declining a friend’s request."
+        },
+        {
+          "id": "S17_P04",
+          "description": "Left: disappointed friend still listening."
+        },
+        {
+          "id": "S17_P05",
+          "description": "Right: friends considering another day together."
+        },
+        {
+          "id": "S17_P06",
+          "description": "Left: friend respecting the final answer."
+        },
+        {
+          "id": "S17_P07",
+          "description": "Right: guilt-inducing reply crowding protagonist."
+        },
+        {
+          "id": "S17_P08",
+          "description": "Left: gift history weighing on a current decision."
+        },
+        {
+          "id": "S17_P09",
+          "description": "Right: protagonist keeping their answer with compassion."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S18",
+      "title": "Feelings without total responsibility",
+      "entry_phrase": "The issue isn't that they feel disappointed.",
+      "panels": [
+        {
+          "id": "S18_P01",
+          "description": "Left: friend disappointed, protagonist remaining kind."
+        },
+        {
+          "id": "S18_P02",
+          "description": "Right: pressure turning an offered favor into burden."
+        },
+        {
+          "id": "S18_P03",
+          "description": "Left: friendship interaction in a simple café."
+        },
+        {
+          "id": "S18_P04",
+          "description": "Right: romantic conversation on a plain sofa."
+        },
+        {
+          "id": "S18_P05",
+          "description": "Left: family discussion at a dining table."
+        },
+        {
+          "id": "S18_P06",
+          "description": "Right: workplace request beside a desk."
+        },
+        {
+          "id": "S18_P07",
+          "description": "Left: reflecting on a learned communication pattern."
+        },
+        {
+          "id": "S18_P08",
+          "description": "Right: acknowledging feelings without carrying every burden."
+        },
+        {
+          "id": "S18_P09",
+          "description": "Left: caring while choosing not to agree."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S19",
+      "title": "The five-question relationship check",
+      "entry_phrase": "So how do you recognize the difference",
+      "panels": [
+        {
+          "id": "S19_P01",
+          "description": "Right: reflective pause over a blank notebook."
+        },
+        {
+          "id": "S19_P02",
+          "description": "Left: saying no, watching whether it is respected."
+        },
+        {
+          "id": "S19_P03",
+          "description": "Right: expressing concern without defending identity."
+        },
+        {
+          "id": "S19_P04",
+          "description": "Left: companion acknowledging an unintended hurt."
+        },
+        {
+          "id": "S19_P05",
+          "description": "Right: apology followed by a considerate action."
+        },
+        {
+          "id": "S19_P06",
+          "description": "Left: repeated promise beside unchanged behavior."
+        },
+        {
+          "id": "S19_P07",
+          "description": "Right: enjoying independent friendships and interests."
+        },
+        {
+          "id": "S19_P08",
+          "description": "Left: retreating from friends to avoid someone’s reaction."
+        },
+        {
+          "id": "S19_P09",
+          "description": "Right: examining the wider repeated pattern."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S20",
+      "title": "Confusion, compassion and safety",
+      "entry_phrase": "And if you recognize yourself in these examples...",
+      "panels": [
+        {
+          "id": "S20_P01",
+          "description": "Left: offering compassion to their distressed self."
+        },
+        {
+          "id": "S20_P02",
+          "description": "Right: warm and dismissive encounters remembered together."
+        },
+        {
+          "id": "S20_P03",
+          "description": "Left: holding conflicting memories without self-blame."
+        },
+        {
+          "id": "S20_P04",
+          "description": "Right: pausing instead of rushing confrontation."
+        },
+        {
+          "id": "S20_P05",
+          "description": "Left: talking privately with a trusted friend."
+        },
+        {
+          "id": "S20_P06",
+          "description": "Right: documenting experiences in a notebook."
+        },
+        {
+          "id": "S20_P07",
+          "description": "Left: seeking support in a calm private setting."
+        },
+        {
+          "id": "S20_P08",
+          "description": "Right: choosing a safer supported next step."
+        },
+        {
+          "id": "S20_P09",
+          "description": "Left: turning toward an open, supported route."
+        }
+      ]
+    },
+    {
+      "sheet_id": "S21",
+      "title": "Room to be yourself",
+      "entry_phrase": "And remember...",
+      "panels": [
+        {
+          "id": "S21_P01",
+          "description": "Right: setting down the need to win an argument."
+        },
+        {
+          "id": "S21_P02",
+          "description": "Left: reflecting on their own well-being."
+        },
+        {
+          "id": "S21_P03",
+          "description": "Right: two imperfect people making room for honesty."
+        },
+        {
+          "id": "S21_P04",
+          "description": "Left: close companions with independent paths."
+        },
+        {
+          "id": "S21_P05",
+          "description": "Right: both people growing without either shrinking."
+        },
+        {
+          "id": "S21_P06",
+          "description": "Left: compassion alongside a calm open-palm limit."
+        },
+        {
+          "id": "S21_P07",
+          "description": "Right: forgiving while retaining a remembered lesson."
+        },
+        {
+          "id": "S21_P08",
+          "description": "Left: standing freely with room to speak."
+        },
+        {
+          "id": "S21_P09",
+          "description": "Right: grounded, self-trusting posture in open space."
+        }
+      ]
+    }
+  ],
+  "kit_cell_maps": {
+    "K1": [
+      "C01 worried-recoil",
+      "C02 explain",
+      "C03 listen",
+      "C04 stop-palm",
+      "C05 step-away",
+      "C06 weary",
+      "C07 present-evidence",
+      "C08 reflect",
+      "C09 grounded"
+    ],
+    "K2": [
+      "P01 speech-bubble",
+      "P02 phone",
+      "P03 clock-dial",
+      "P04 notebook",
+      "P05 gift",
+      "P06 warm-heart",
+      "P07 muted-heart",
+      "P08 ribbon",
+      "P09 open-doorframe"
+    ],
+    "K3": [
+      "F01 horizontal-reveal",
+      "F02 vertical-reveal",
+      "F03 ink-bloom",
+      "F04 watercolor-bloom",
+      "F05 torn-edge-mask",
+      "F06 dust-overlay",
+      "EMPTY",
+      "EMPTY",
+      "EMPTY"
+    ]
+  },
+  "actions": [
+    {
+      "cue": "You were told you were too sensitive.",
+      "action": "Empty reply bubble expands; worried pose swaps in.",
+      "assets": [
+        "C01",
+        "P01",
+        "F03"
+      ]
+    },
+    {
+      "cue": "Written messages can help you clarify",
+      "action": "Phone evidence revealed, then held readable.",
+      "assets": [
+        "C07",
+        "P02",
+        "F01"
+      ]
+    },
+    {
+      "cue": "starts feeling like a debt.",
+      "action": "Gift stays fixed; separate ribbon stretches under pressure.",
+      "assets": [
+        "C06",
+        "P05",
+        "P08"
+      ]
+    },
+    {
+      "cue": "their warmth disappears.",
+      "action": "Matched warm heart swaps to muted heart; no facial warp.",
+      "assets": [
+        "P06",
+        "P07",
+        "F04"
+      ]
+    },
+    {
+      "cue": "I'm going to end this conversation",
+      "action": "Stop-palm swaps to step-away; doorframe provides exit.",
+      "assets": [
+        "C04",
+        "C05",
+        "P09",
+        "F05"
+      ]
+    },
+    {
+      "cue": "Can they reflect?",
+      "action": "Reflective pose holds before accountability label appears in code.",
+      "assets": [
+        "C08",
+        "F02"
+      ]
+    },
+    {
+      "cue": "Write down what has been happening.",
+      "action": "Reuse verified seated-writing reference pose with notebook.",
+      "assets": [
+        "REUSE_seated-writing",
+        "P04",
+        "F01"
+      ]
+    },
+    {
+      "cue": "You deserve room to speak.",
+      "action": "Crowding layers recede; grounded pose settles.",
+      "assets": [
+        "C09",
+        "F04"
+      ]
+    }
+  ],
+  "reused_source_commit": "24482a17b033efb8c7bffadc4691e8519e446c96",
+  "shared_library_status": "not verified"
+}

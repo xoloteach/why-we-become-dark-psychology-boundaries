@@ -1,12 +1,13 @@
 {
   "phase": "recovery restart",
   "script": "recovered from user message event 27",
-  "source_backup": "awaiting first verified push",
-  "artwork": "recovery pending",
-  "narration": "missing; regeneration pending provider access",
-  "renderer": "not restored",
+  "source_backup": "first commit verified: fb94145a24e34e333d9e3238f7e2bb734e633f7c",
+  "artwork": "21 original contact sheets + 3 animation kit sheets + canonical character + end card recovered",
+  "narration": "still missing",
+  "renderer": "recovery in progress",
   "full_mp4": "stopped by user",
   "thumbnail": "excluded",
   "shorts": "excluded",
-  "rule": "verify each checkpoint remotely before next major stage"
+  "rule": "verify each checkpoint remotely before next major stage",
+  "visual_plan": "original provisional plan recovered; not aligned to new audio"
 }
