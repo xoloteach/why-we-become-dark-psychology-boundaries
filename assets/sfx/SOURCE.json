@@ -1,0 +1,18 @@
+[
+  {
+    "pack": "interface-sounds",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "download": "https://kenney.nl/media/pages/assets/interface-sounds/fa43c1dd4d-1677589452/kenney_interface-sounds.zip",
+    "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+    "extracted_files": 101,
+    "license": "CC0 as recorded in included pack license"
+  },
+  {
+    "pack": "rpg-audio",
+    "source": "https://kenney.nl/assets/rpg-audio",
+    "download": "https://kenney.nl/media/pages/assets/rpg-audio/8e99002d76-1677590336/kenney_rpg-audio.zip",
+    "archive_sha256": "6dbeaf8544da958d8f2adcb4a4a4b76c1ade34a05f8ab9edccd327da7375f38b",
+    "extracted_files": 53,
+    "license": "CC0 as recorded in included pack license"
+  }
+]
