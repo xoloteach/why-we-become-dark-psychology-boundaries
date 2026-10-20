@@ -1,0 +1,7 @@
+{
+  "source": "https://raw.githubusercontent.com/Saafke/FSRCNN_Tensorflow/master/models/FSRCNN_x4.pb",
+  "file": "FSRCNN_x4.pb",
+  "sha256": "5c68d18db561aed8ead4ffedf1b897ea615baaf60ebf6c35f8e641f8fa4a21bf",
+  "restored": true,
+  "use": "4x neural reconstruction; runtime validation pending"
+}
