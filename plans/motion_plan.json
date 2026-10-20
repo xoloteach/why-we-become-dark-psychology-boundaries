@@ -1,0 +1,4384 @@
+[
+  {
+    "scene": 0,
+    "spoken_phrase": "Have you ever walked away from a conversation... and somehow ended up apologizing... even though you weren't sure what you did wrong?",
+    "asset_ids": [
+      "S01_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 0.0,
+    "peak": 0.75,
+    "settle": 1.1,
+    "label_cues": [
+      [
+        "Conversation",
+        1.28
+      ],
+      [
+        "Apology",
+        3.36
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 1,
+    "spoken_phrase": "Maybe you tried to explain how something made you feel.",
+    "asset_ids": [
+      "S01_P04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 6.48,
+    "peak": 7.23,
+    "settle": 7.58,
+    "label_cues": [
+      [
+        "Your feelings",
+        7.68
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 2,
+    "spoken_phrase": "But instead of discussing what happened... the conversation somehow became about your attitude.",
+    "asset_ids": [
+      "S01_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 9.36,
+    "peak": 10.11,
+    "settle": 10.459999999999999,
+    "label_cues": [
+      [
+        "What happened",
+        10.48
+      ],
+      [
+        "Your attitude",
+        13.12
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 3,
+    "spoken_phrase": "You were told you were too sensitive. That you misunderstood everything. That you always created problems.",
+    "asset_ids": [
+      "S01_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 14.195,
+    "peak": 14.945,
+    "settle": 15.295,
+    "label_cues": [
+      [
+        "Too sensitive",
+        15.155
+      ],
+      [
+        "You misunderstood",
+        16.595
+      ],
+      [
+        "You create problems",
+        18.914999
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 4,
+    "spoken_phrase": "And eventually... you stopped trying to explain yourself. Not because you suddenly agreed with them. But because you were exhausted.",
+    "asset_ids": [
+      "S01_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 20.355,
+    "peak": 21.105,
+    "settle": 21.455000000000002,
+    "label_cues": [
+      [
+        "Silence",
+        21.154999
+      ],
+      [
+        "Exhaustion",
+        26.195
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 5,
+    "spoken_phrase": "You started questioning your own memory. Your own judgment. Even your right to feel upset.",
+    "asset_ids": [
+      "S02_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 27.11,
+    "peak": 27.86,
+    "settle": 28.21,
+    "label_cues": [
+      [
+        "Memory",
+        28.630001
+      ],
+      [
+        "Judgment",
+        29.67
+      ],
+      [
+        "Your feelings",
+        31.03
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 6,
+    "spoken_phrase": "And the strangest part? The person who hurt you... somehow became the person you felt you had to make things right with.",
+    "asset_ids": [
+      "S02_P04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 32.39,
+    "peak": 33.14,
+    "settle": 33.49,
+    "label_cues": [
+      [
+        "You were hurt",
+        33.83
+      ],
+      [
+        "You make it right",
+        37.43
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 7,
+    "spoken_phrase": "Now, not every difficult conversation is manipulation. People misunderstand each other. People get defensive. People make mistakes.",
+    "asset_ids": [
+      "S02_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 38.63,
+    "peak": 39.38,
+    "settle": 39.730000000000004,
+    "label_cues": [
+      [
+        "Not every difficult conversation",
+        38.79
+      ],
+      [
+        "Is manipulation",
+        40.63
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 8,
+    "spoken_phrase": "But sometimes... there is a pattern. A pattern where your feelings are constantly dismissed. Your boundaries are treated like betrayal. Your mistakes are remembered forever...",
+    "asset_ids": [
+      "S02_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "loop",
+    "trigger": 46.405003,
+    "peak": 47.155003,
+    "settle": 47.505003,
+    "label_cues": [
+      [
+        "Repeated dismissal",
+        47.845
+      ],
+      [
+        "Your feelings",
+        49.525
+      ],
+      [
+        "Your boundaries",
+        51.685
+      ],
+      [
+        "Your mistakes",
+        54.005
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 9,
+    "spoken_phrase": "while theirs are somehow never their responsibility.",
+    "asset_ids": [
+      "S02_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 55.74,
+    "peak": 56.49,
+    "settle": 56.84,
+    "label_cues": [
+      [
+        "Their actions",
+        56.06
+      ],
+      [
+        "No accountability",
+        57.420002
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 10,
+    "spoken_phrase": "And slowly... you begin changing yourself just to keep the peace.",
+    "asset_ids": [
+      "S02_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 58.7,
+    "peak": 59.45,
+    "settle": 59.800000000000004,
+    "label_cues": [
+      [
+        "Becoming smaller",
+        59.9
+      ],
+      [
+        "Keeping the peace",
+        61.18
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 11,
+    "spoken_phrase": "Today, we're going to look at the difference between dark psychological manipulation and healthy boundaries.",
+    "asset_ids": [
+      "S03_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 62.38,
+    "peak": 63.13,
+    "settle": 63.480000000000004,
+    "label_cues": [
+      [
+        "Manipulation",
+        65.18
+      ],
+      [
+        "Healthy boundaries",
+        66.3
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 12,
+    "spoken_phrase": "We'll explore gaslighting, love-bombing, controlling behavior, and narcissistic traits.",
+    "asset_ids": [
+      "S03_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 67.58,
+    "peak": 68.33,
+    "settle": 68.67999999999999,
+    "label_cues": [
+      [
+        "Gaslighting",
+        68.14
+      ],
+      [
+        "Love-bombing",
+        69.0375
+      ],
+      [
+        "Control",
+        69.935
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 13,
+    "spoken_phrase": "More importantly... we'll look at how to recognize unhealthy patterns without assuming that every disagreement is abuse... or that every difficult person has a personality disorder.",
+    "asset_ids": [
+      "S03_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 72.655,
+    "peak": 73.405,
+    "settle": 73.755,
+    "label_cues": [
+      [
+        "Disagreement ≠ abuse",
+        76.895004
+      ],
+      [
+        "Difficult ≠ diagnosed",
+        80.815
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 14,
+    "spoken_phrase": "Because the goal isn't to become suspicious of everyone. It's to understand what healthy relationships should actually feel like.",
+    "asset_ids": [
+      "S03_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 82.25,
+    "peak": 83.0,
+    "settle": 83.35,
+    "label_cues": [
+      [
+        "Not suspicion",
+        83.77
+      ],
+      [
+        "Understanding",
+        86.33
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 15,
+    "spoken_phrase": "Let's start with something simple. Imagine you tell someone... “I didn't like the way you spoke to me earlier.”",
+    "asset_ids": [
+      "S03_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "quote",
+    "trigger": 88.81,
+    "peak": 89.56,
+    "settle": 89.91,
+    "label_cues": [
+      [
+        "I did not like that",
+        92.409996
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 16,
+    "spoken_phrase": "In a healthy relationship, the conversation might be uncomfortable.",
+    "asset_ids": [
+      "S03_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 94.295,
+    "peak": 95.045,
+    "settle": 95.395,
+    "label_cues": [
+      [
+        "Discomfort is possible",
+        96.695
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 17,
+    "spoken_phrase": "They might explain what they meant. They might disagree with your interpretation.",
+    "asset_ids": [
+      "S03_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 97.655,
+    "peak": 98.405,
+    "settle": 98.755,
+    "label_cues": [
+      [
+        "Their meaning",
+        98.295
+      ],
+      [
+        "Your interpretation",
+        100.215
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 18,
+    "spoken_phrase": "They might even tell you that your words hurt them, too. But ideally... both people can discuss what happened without one person having to surrender their perspective just to end the argument.",
+    "asset_ids": [
+      "S03_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 101.494995,
+    "peak": 102.244995,
+    "settle": 102.594995,
+    "label_cues": [
+      [
+        "Their feelings matter",
+        102.375
+      ],
+      [
+        "Both perspectives matter",
+        104.774994
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 19,
+    "spoken_phrase": "Now imagine a different response. They immediately say...",
+    "asset_ids": [
+      "S04_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 109.55,
+    "peak": 110.3,
+    "settle": 110.64999999999999,
+    "label_cues": [
+      [
+        "Watch what follows",
+        110.43
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 20,
+    "spoken_phrase": "“You're always making me the bad person.” “You're too sensitive.”",
+    "asset_ids": [
+      "S04_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "quote",
+    "trigger": 112.67,
+    "peak": 113.42,
+    "settle": 113.77,
+    "label_cues": [
+      [
+        "You make me the bad person",
+        113.950005
+      ],
+      [
+        "You are too sensitive",
+        115.31
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 21,
+    "spoken_phrase": "“You remember everything wrong.” “You should be grateful I even put up with you.”",
+    "asset_ids": [
+      "S04_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "quote",
+    "trigger": 116.11,
+    "peak": 116.86,
+    "settle": 117.21,
+    "label_cues": [
+      [
+        "You remember it wrong",
+        116.270004
+      ],
+      [
+        "You should be grateful",
+        118.11
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 22,
+    "spoken_phrase": "Suddenly, the original problem disappears. Now you're defending your character.",
+    "asset_ids": [
+      "S04_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 119.79,
+    "peak": 120.54,
+    "settle": 120.89,
+    "label_cues": [
+      [
+        "Original concern",
+        120.590004
+      ],
+      [
+        "Defending yourself",
+        122.895004
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 23,
+    "spoken_phrase": "You're explaining why you're not ungrateful. You're trying to prove that you're not too sensitive.",
+    "asset_ids": [
+      "S04_P04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 124.015,
+    "peak": 124.765,
+    "settle": 125.115,
+    "label_cues": [
+      [
+        "Not ungrateful",
+        125.295006
+      ],
+      [
+        "Not too sensitive",
+        127.615005
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 24,
+    "spoken_phrase": "And the conversation ends without addressing what upset you in the first place.",
+    "asset_ids": [
+      "S04_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 128.575,
+    "peak": 129.325,
+    "settle": 129.67499999999998,
+    "label_cues": [
+      [
+        "The concern stays unresolved",
+        129.615
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 25,
+    "spoken_phrase": "Notice what happened. You brought up a concern. But instead of discussing the concern... you were pushed into defending yourself for having one.",
+    "asset_ids": [
+      "S04_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 132.015,
+    "peak": 132.765,
+    "settle": 133.11499999999998,
+    "label_cues": [
+      [
+        "Raise a concern",
+        133.295
+      ],
+      [
+        "Defend your character",
+        137.42001
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 26,
+    "spoken_phrase": "If this happens repeatedly, it can become a serious problem. Because healthy communication allows two people to disagree. Manipulative communication can turn disagreement into a way of gaining control. And understanding that difference is the first step.",
+    "asset_ids": [
+      "S04_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 139.26001,
+    "peak": 140.01001,
+    "settle": 140.36001,
+    "label_cues": [
+      [
+        "Room to disagree",
+        142.70001
+      ],
+      [
+        "Pressure to surrender",
+        148.62001
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 27,
+    "spoken_phrase": "Let's talk about gaslighting. The word gets used so often online that it can sometimes lose its meaning.",
+    "asset_ids": [
+      "S05_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 152.125,
+    "peak": 152.875,
+    "settle": 153.225,
+    "label_cues": [
+      [
+        "Look beyond the buzzword",
+        152.765
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 28,
+    "spoken_phrase": "Gaslighting is more than someone remembering an event differently from you. It's not every disagreement about what happened.",
+    "asset_ids": [
+      "S05_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 157.725,
+    "peak": 158.475,
+    "settle": 158.825,
+    "label_cues": [
+      [
+        "Different recollections",
+        159.085
+      ],
+      [
+        "Not automatic manipulation",
+        161.245
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 29,
+    "spoken_phrase": "And it's not simply someone denying an accusation. Gaslighting refers to a pattern of manipulation that causes someone to question their own perception of reality, memory, or judgment.",
+    "asset_ids": [
+      "S05_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "memory",
+    "trigger": 163.25,
+    "peak": 164.0,
+    "settle": 164.35,
+    "label_cues": [
+      [
+        "Denial alone is not proof",
+        164.45
+      ],
+      [
+        "Self-trust is undermined",
+        170.20999
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 30,
+    "spoken_phrase": "Imagine you agree to meet someone at six. They arrive much later.",
+    "asset_ids": [
+      "S05_P06",
+      "P03",
+      "F02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "clock",
+    "trigger": 174.69,
+    "peak": 175.44,
+    "settle": 175.79,
+    "label_cues": [
+      [
+        "6:00",
+        176.20999
+      ],
+      [
+        "Late arrival",
+        177.425
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 31,
+    "spoken_phrase": "When you bring it up, they tell you that you never agreed on six in the first place. You remember the conversation clearly.",
+    "asset_ids": [
+      "S05_P08",
+      "P02",
+      "C07",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "evidence",
+    "trigger": 178.46501,
+    "peak": 179.21501,
+    "settle": 179.56501,
+    "label_cues": [
+      [
+        "The agreement is disputed",
+        179.905
+      ],
+      [
+        "You remember clearly",
+        183.66501
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 32,
+    "spoken_phrase": "But they insist you're imagining things. That one disagreement alone doesn't prove gaslighting.",
+    "asset_ids": [
+      "S06_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 184.38501,
+    "peak": 185.13501,
+    "settle": 185.48501,
+    "label_cues": [
+      [
+        "Your memory is dismissed",
+        185.425
+      ],
+      [
+        "One incident ≠ proof",
+        188.065
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 33,
+    "spoken_phrase": "Maybe the messages were unclear. Maybe someone genuinely remembers the conversation differently.",
+    "asset_ids": [
+      "S06_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 189.54,
+    "peak": 190.29,
+    "settle": 190.64,
+    "label_cues": [
+      [
+        "Unclear messages",
+        190.73999
+      ],
+      [
+        "Different recollections",
+        194.18
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 34,
+    "spoken_phrase": "But imagine this keeps happening. They deny things they previously said. They insist conversations never happened. They repeatedly tell you that your memory is terrible.",
+    "asset_ids": [
+      "S06_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "loop",
+    "trigger": 194.98,
+    "peak": 195.73,
+    "settle": 196.07999999999998,
+    "label_cues": [
+      [
+        "Recurrence",
+        195.7
+      ],
+      [
+        "Denial",
+        196.9
+      ],
+      [
+        "Erasure",
+        200.18
+      ],
+      [
+        "Undermining",
+        202.65999
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 35,
+    "spoken_phrase": "And whenever you question their behavior... they make you feel as though something is wrong with your ability to understand reality.",
+    "asset_ids": [
+      "S06_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "memory",
+    "trigger": 203.805,
+    "peak": 204.555,
+    "settle": 204.905,
+    "label_cues": [
+      [
+        "You question behavior",
+        204.525
+      ],
+      [
+        "You are made to doubt yourself",
+        207.245
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 36,
+    "spoken_phrase": "Eventually, you start keeping quiet. You stop trusting your own recollection.",
+    "asset_ids": [
+      "S06_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 209.805,
+    "peak": 210.555,
+    "settle": 210.905,
+    "label_cues": [
+      [
+        "Speaking less",
+        210.685
+      ],
+      [
+        "Trusting yourself less",
+        211.805
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 37,
+    "spoken_phrase": "You begin asking them what happened... even when you were there.",
+    "asset_ids": [
+      "S06_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 213.885,
+    "peak": 214.635,
+    "settle": 214.98499999999999,
+    "label_cues": [
+      [
+        "Their version",
+        214.36499
+      ],
+      [
+        "Your own experience",
+        216.36499
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 38,
+    "spoken_phrase": "That's the important distinction. The issue isn't simply that someone disagrees with your memory.",
+    "asset_ids": [
+      "S07_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 217.19,
+    "peak": 217.94,
+    "settle": 218.29,
+    "label_cues": [
+      [
+        "The pattern matters",
+        217.67
+      ],
+      [
+        "Different memory",
+        220.71
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 39,
+    "spoken_phrase": "It's the repeated pattern of denying, distorting, or undermining your reality in a way that makes you doubt yourself.",
+    "asset_ids": [
+      "S07_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 222.23,
+    "peak": 222.98,
+    "settle": 223.32999999999998,
+    "label_cues": [
+      [
+        "Denying",
+        223.67
+      ],
+      [
+        "Distorting",
+        224.39
+      ],
+      [
+        "Undermining",
+        225.19
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 40,
+    "spoken_phrase": "So what can you do? First, don't assume every disagreement is gaslighting. Look at the broader pattern.",
+    "asset_ids": [
+      "S07_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 228.55,
+    "peak": 229.3,
+    "settle": 229.65,
+    "label_cues": [
+      [
+        "Do not assume",
+        230.63
+      ],
+      [
+        "Look at the wider pattern",
+        233.565
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 41,
+    "spoken_phrase": "Second, when it's appropriate and safe, keep track of important agreements and conversations.",
+    "asset_ids": [
+      "S07_P03",
+      "P04",
+      "C07",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "evidence",
+    "trigger": 234.68501,
+    "peak": 235.43501,
+    "settle": 235.78501,
+    "label_cues": [
+      [
+        "Only when appropriate and safe",
+        235.725
+      ],
+      [
+        "Record important agreements",
+        237.005
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 42,
+    "spoken_phrase": "Written messages can help you clarify what was actually agreed upon.",
+    "asset_ids": [
+      "S07_P04",
+      "P02",
+      "C07",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "evidence",
+    "trigger": 239.88501,
+    "peak": 240.63501,
+    "settle": 240.98501,
+    "label_cues": [
+      [
+        "Written messages",
+        239.88501
+      ],
+      [
+        "What was agreed?",
+        242.125
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 43,
+    "spoken_phrase": "And third... pay attention to whether the other person can acknowledge evidence. Can they say, “I remembered that differently, but I see what you're saying”?",
+    "asset_ids": [
+      "S07_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 243.405,
+    "peak": 244.155,
+    "settle": 244.505,
+    "label_cues": [
+      [
+        "Acknowledge evidence",
+        246.285
+      ],
+      [
+        "Correct a mistaken recollection",
+        248.39
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 44,
+    "spoken_phrase": "Can they admit that they were mistaken? Or does every conversation become another reason you should distrust yourself?",
+    "asset_ids": [
+      "S07_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 250.95001,
+    "peak": 251.70001,
+    "settle": 252.05001,
+    "label_cues": [
+      [
+        "I was mistaken",
+        251.99
+      ],
+      [
+        "You cannot trust yourself",
+        255.99
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 45,
+    "spoken_phrase": "Because healthy relationships don't require perfect memory. They require honesty, accountability, and a willingness to correct mistakes.",
+    "asset_ids": [
+      "S07_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 257.35,
+    "peak": 258.1,
+    "settle": 258.45000000000005,
+    "label_cues": [
+      [
+        "Not perfect memory",
+        259.59
+      ],
+      [
+        "Honesty",
+        261.17502
+      ],
+      [
+        "Accountability",
+        261.975
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 46,
+    "spoken_phrase": "Now let's look at another pattern. Love-bombing. Imagine meeting someone new.",
+    "asset_ids": [
+      "S08_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 264.855,
+    "peak": 265.605,
+    "settle": 265.95500000000004,
+    "label_cues": [
+      [
+        "Watch the pattern, not just intensity",
+        266.775
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 47,
+    "spoken_phrase": "Within days, they're telling you that you're unlike anyone they've ever met. They message you constantly. They want to know everything about you.",
+    "asset_ids": [
+      "S08_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 269.655,
+    "peak": 270.405,
+    "settle": 270.755,
+    "label_cues": [
+      [
+        "You are unlike anyone",
+        271.415
+      ],
+      [
+        "Constant messages",
+        273.17
+      ],
+      [
+        "Everything about you",
+        275.09
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 48,
+    "spoken_phrase": "They talk about your future together. They make enormous promises.",
+    "asset_ids": [
+      "S08_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 276.21,
+    "peak": 276.96,
+    "settle": 277.31,
+    "label_cues": [
+      [
+        "Future plans",
+        277.01
+      ],
+      [
+        "Enormous promises",
+        278.77002
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 49,
+    "spoken_phrase": "Maybe they send gifts. Maybe they tell you they've never felt this way before. And at first... it feels incredible.",
+    "asset_ids": [
+      "S08_P04",
+      "P05",
+      "P08",
+      "F04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "affection",
+    "trigger": 279.65,
+    "peak": 280.4,
+    "settle": 280.75,
+    "label_cues": [
+      [
+        "Gifts",
+        280.29
+      ],
+      [
+        "Intense attention",
+        284.61002
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 50,
+    "spoken_phrase": "You feel seen. You feel wanted. You feel like you've finally met someone who understands you.",
+    "asset_ids": [
+      "S08_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 285.33002,
+    "peak": 286.08002,
+    "settle": 286.43002,
+    "label_cues": [
+      [
+        "Seen",
+        285.81
+      ],
+      [
+        "Wanted",
+        286.69
+      ],
+      [
+        "Understood",
+        289.545
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 51,
+    "spoken_phrase": "But here's the important part. Intense affection is not automatically manipulation. Some people are naturally expressive.",
+    "asset_ids": [
+      "S08_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 290.665,
+    "peak": 291.415,
+    "settle": 291.76500000000004,
+    "label_cues": [
+      [
+        "Not automatically manipulation",
+        293.30502
+      ],
+      [
+        "People can be expressive",
+        296.345
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 52,
+    "spoken_phrase": "Some relationships develop quickly without becoming unhealthy.",
+    "asset_ids": [
+      "S08_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 297.30502,
+    "peak": 298.05502,
+    "settle": 298.40502000000004,
+    "label_cues": [
+      [
+        "Respect matters more than speed",
+        298.98502
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 53,
+    "spoken_phrase": "The concern begins when overwhelming affection is used to rush intimacy, bypass your boundaries, or create pressure and obligation.",
+    "asset_ids": [
+      "S08_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 300.47,
+    "peak": 301.22,
+    "settle": 301.57000000000005,
+    "label_cues": [
+      [
+        "Rush intimacy",
+        303.19
+      ],
+      [
+        "Bypass boundaries",
+        304.47
+      ],
+      [
+        "Create obligation",
+        306.79
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 54,
+    "spoken_phrase": "Imagine you tell this person... “I really like you, but I want to take things slowly.”",
+    "asset_ids": [
+      "S09_P01",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 307.83002,
+    "peak": 308.58002,
+    "settle": 308.93002,
+    "label_cues": [
+      [
+        "Respect my pace",
+        311.03003
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 55,
+    "spoken_phrase": "Instead of respecting that... they become upset. They say you must not care about them as much as they care about you.",
+    "asset_ids": [
+      "S09_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "quote",
+    "trigger": 312.31003,
+    "peak": 313.06003,
+    "settle": 313.41003,
+    "label_cues": [
+      [
+        "Your limit disappoints them",
+        313.67
+      ],
+      [
+        "You must not care",
+        315.225
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 56,
+    "spoken_phrase": "They remind you of everything they've done for you. They tell you that if you truly loved them, you wouldn't need time.",
+    "asset_ids": [
+      "S09_P03",
+      "P05",
+      "P08",
+      "F04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "affection",
+    "trigger": 317.865,
+    "peak": 318.615,
+    "settle": 318.96500000000003,
+    "label_cues": [
+      [
+        "Everything I did for you",
+        318.745
+      ],
+      [
+        "You should not need time",
+        322.505
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 57,
+    "spoken_phrase": "Suddenly... your boundary becomes evidence that you're hurting them.",
+    "asset_ids": [
+      "S09_P05",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 323.465,
+    "peak": 324.215,
+    "settle": 324.565,
+    "label_cues": [
+      [
+        "Your limit",
+        324.265
+      ],
+      [
+        "Reframed as harm",
+        325.785
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 58,
+    "spoken_phrase": "And the affection that felt like a gift... starts feeling like a debt.",
+    "asset_ids": [
+      "S09_P07",
+      "P05",
+      "P08",
+      "F04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "affection",
+    "trigger": 326.665,
+    "peak": 327.415,
+    "settle": 327.76500000000004,
+    "label_cues": [
+      [
+        "A gift",
+        328.025
+      ],
+      [
+        "A debt",
+        329.545
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 59,
+    "spoken_phrase": "Later, perhaps after a disagreement, their warmth disappears. They become distant. They withdraw attention.",
+    "asset_ids": [
+      "S10_P01",
+      "P06",
+      "P07",
+      "F04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "warmth",
+    "trigger": 329.91,
+    "peak": 330.66,
+    "settle": 331.01000000000005,
+    "label_cues": [
+      [
+        "Warmth withdraws",
+        332.31
+      ],
+      [
+        "Distance",
+        334.15
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 60,
+    "spoken_phrase": "Then, when you start pulling away, the affection returns.",
+    "asset_ids": [
+      "S10_P04",
+      "P06",
+      "P07",
+      "F04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "warmth",
+    "trigger": 336.39,
+    "peak": 337.14,
+    "settle": 337.49,
+    "label_cues": [
+      [
+        "You pull away",
+        337.27
+      ],
+      [
+        "Warmth returns",
+        338.23
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 61,
+    "spoken_phrase": "The grand promises come back. The apologies come back. And you start hoping that the wonderful version of the relationship will return permanently.",
+    "asset_ids": [
+      "S10_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 339.43,
+    "peak": 340.18,
+    "settle": 340.53000000000003,
+    "label_cues": [
+      [
+        "Promises",
+        339.91
+      ],
+      [
+        "Apologies",
+        341.43
+      ],
+      [
+        "Hope",
+        343.545
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 62,
+    "spoken_phrase": "This push and pull can become emotionally exhausting. You stop asking whether the relationship is healthy overall. Instead, you focus on getting back to the good moments.",
+    "asset_ids": [
+      "S10_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "loop",
+    "trigger": 347.625,
+    "peak": 348.375,
+    "settle": 348.725,
+    "label_cues": [
+      [
+        "Warmth",
+        347.86502
+      ],
+      [
+        "Withdrawal",
+        350.02502
+      ],
+      [
+        "Chasing the good moments",
+        357.16
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 63,
+    "spoken_phrase": "So remember this. Don't judge a relationship only by how intensely someone pursues you in the beginning.",
+    "asset_ids": [
+      "S10_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 358.19998,
+    "peak": 358.94998,
+    "settle": 359.29998,
+    "label_cues": [
+      [
+        "Intensity at the beginning",
+        363.72
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 64,
+    "spoken_phrase": "Watch how they respond when you say no.",
+    "asset_ids": [
+      "S10_P08",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 364.44,
+    "peak": 365.19,
+    "settle": 365.54,
+    "label_cues": [
+      [
+        "What happens when you say no?",
+        365.88
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 65,
+    "spoken_phrase": "Watch whether their promises match their behavior.",
+    "asset_ids": [
+      "S10_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 366.84,
+    "peak": 367.59,
+    "settle": 367.94,
+    "label_cues": [
+      [
+        "What they promise",
+        367.63998
+      ],
+      [
+        "What they do",
+        368.91998
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 66,
+    "spoken_phrase": "Watch whether they respect your pace... even when it isn't what they wanted. Because genuine affection doesn't need to rush you into surrendering your boundaries.",
+    "asset_ids": [
+      "S10_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "paths",
+    "trigger": 369.69498,
+    "peak": 370.44498,
+    "settle": 370.79498,
+    "label_cues": [
+      [
+        "Your pace",
+        370.57498
+      ],
+      [
+        "No pressure to surrender",
+        375.375
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 67,
+    "spoken_phrase": "Now, let's talk about narcissistic traits. You've probably heard people online describe almost every selfish, rude, or difficult person as a narcissist.",
+    "asset_ids": [
+      "S11_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 378.41498,
+    "peak": 379.16498,
+    "settle": 379.51498000000004,
+    "label_cues": [
+      [
+        "Narcissistic traits",
+        380.41498
+      ],
+      [
+        "An online label",
+        386.47998
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 68,
+    "spoken_phrase": "But that's not how the term should be used.",
+    "asset_ids": [
+      "S11_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 387.44,
+    "peak": 388.19,
+    "settle": 388.54,
+    "label_cues": [
+      [
+        "Do not diagnose from a label",
+        387.84
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 69,
+    "spoken_phrase": "Someone can be selfish in a particular situation without having narcissistic personality disorder.",
+    "asset_ids": [
+      "S11_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 389.52,
+    "peak": 390.27,
+    "settle": 390.62,
+    "label_cues": [
+      [
+        "A particular behavior",
+        391.03998
+      ],
+      [
+        "Not a clinical diagnosis",
+        392.24
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 70,
+    "spoken_phrase": "Someone can struggle with empathy, become defensive, or crave attention without meeting the criteria for a clinical diagnosis.",
+    "asset_ids": [
+      "S11_P04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 395.19998,
+    "peak": 395.94998,
+    "settle": 396.29998,
+    "label_cues": [
+      [
+        "Empathy",
+        396.16
+      ],
+      [
+        "Defensiveness",
+        397.36
+      ],
+      [
+        "Attention-seeking",
+        398.815
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 71,
+    "spoken_phrase": "Narcissistic personality disorder is a complex mental health condition that can only be assessed by a qualified professional.",
+    "asset_ids": [
+      "S11_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 402.25497,
+    "peak": 403.00497,
+    "settle": 403.35497000000004,
+    "label_cues": [
+      [
+        "Complex condition",
+        404.495
+      ],
+      [
+        "Qualified professional",
+        408.095
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 72,
+    "spoken_phrase": "So rather than diagnosing someone from a few interactions... focus on the behaviors you can actually observe.",
+    "asset_ids": [
+      "S11_P07",
+      "P04",
+      "C07",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "evidence",
+    "trigger": 409.455,
+    "peak": 410.205,
+    "settle": 410.555,
+    "label_cues": [
+      [
+        "Not a few interactions",
+        411.455
+      ],
+      [
+        "Observable behavior",
+        414.32
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 73,
+    "spoken_phrase": "For example... Does this person consistently expect special treatment?",
+    "asset_ids": [
+      "S12_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 415.44,
+    "peak": 416.19,
+    "settle": 416.54,
+    "label_cues": [
+      [
+        "Special treatment",
+        418.24
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 74,
+    "spoken_phrase": "Do they struggle to acknowledge your needs when those needs conflict with theirs?",
+    "asset_ids": [
+      "S12_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 419.44,
+    "peak": 420.19,
+    "settle": 420.54,
+    "label_cues": [
+      [
+        "Your needs",
+        420.63998
+      ],
+      [
+        "Their needs",
+        422.48
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 75,
+    "spoken_phrase": "Do they take credit for shared achievements but avoid responsibility when things go wrong?",
+    "asset_ids": [
+      "S12_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 423.12,
+    "peak": 423.87,
+    "settle": 424.22,
+    "label_cues": [
+      [
+        "Claim the credit",
+        423.44
+      ],
+      [
+        "Avoid responsibility",
+        425.2
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 76,
+    "spoken_phrase": "Do they respond to reasonable criticism with humiliation, blame, or retaliation?",
+    "asset_ids": [
+      "S12_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 427.47498,
+    "peak": 428.22498,
+    "settle": 428.57498000000004,
+    "label_cues": [
+      [
+        "Humiliation",
+        429.79498
+      ],
+      [
+        "Blame",
+        430.675
+      ],
+      [
+        "Retaliation",
+        431.235
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 77,
+    "spoken_phrase": "And perhaps most importantly... can they recognize that other people have feelings, needs, and perspectives that matter just as much as their own?",
+    "asset_ids": [
+      "S12_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 432.275,
+    "peak": 433.025,
+    "settle": 433.375,
+    "label_cues": [
+      [
+        "Feelings",
+        435.47498
+      ],
+      [
+        "Needs",
+        436.115
+      ],
+      [
+        "Perspectives",
+        436.595
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 78,
+    "spoken_phrase": "One incident doesn't tell you everything about a person. Everyone can be selfish sometimes. Everyone can become defensive.",
+    "asset_ids": [
+      "S12_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 439.235,
+    "peak": 439.985,
+    "settle": 440.33500000000004,
+    "label_cues": [
+      [
+        "One incident is not the whole person",
+        439.235
+      ],
+      [
+        "Everyone can struggle",
+        442.4
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 79,
+    "spoken_phrase": "What matters is the pattern. And what happens when the pattern is brought to their attention.",
+    "asset_ids": [
+      "S13_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 446.24002,
+    "peak": 446.99002,
+    "settle": 447.34002000000004,
+    "label_cues": [
+      [
+        "The pattern",
+        447.28
+      ],
+      [
+        "What happens when it is raised?",
+        450.0
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 80,
+    "spoken_phrase": "Can they reflect? Can they apologize without immediately blaming you?",
+    "asset_ids": [
+      "S13_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 450.72,
+    "peak": 451.47,
+    "settle": 451.82000000000005,
+    "label_cues": [
+      [
+        "Reflect",
+        451.04
+      ],
+      [
+        "Apologize",
+        452.24002
+      ],
+      [
+        "Without blame",
+        453.44
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 81,
+    "spoken_phrase": "Can they make a genuine effort to change?",
+    "asset_ids": [
+      "S13_P04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 454.4,
+    "peak": 455.15,
+    "settle": 455.5,
+    "label_cues": [
+      [
+        "Genuine effort",
+        455.04
+      ],
+      [
+        "Behavioral change",
+        455.92
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 82,
+    "spoken_phrase": "Or does every attempt to address the problem become another argument about why you're the real problem?",
+    "asset_ids": [
+      "S13_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "loop",
+    "trigger": 456.525,
+    "peak": 457.275,
+    "settle": 457.625,
+    "label_cues": [
+      [
+        "Raise the problem",
+        457.805
+      ],
+      [
+        "Another argument",
+        459.165
+      ],
+      [
+        "You become the problem",
+        460.285
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 83,
+    "spoken_phrase": "You don't need to assign someone a psychological label before deciding that a behavior is unacceptable.",
+    "asset_ids": [
+      "S13_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 461.245,
+    "peak": 461.995,
+    "settle": 462.345,
+    "label_cues": [
+      [
+        "No label required",
+        462.60498
+      ],
+      [
+        "You can reject harmful behavior",
+        465.085
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 84,
+    "spoken_phrase": "You can recognize that a relationship is hurting you... without pretending to know exactly what's happening inside the other person's mind.",
+    "asset_ids": [
+      "S13_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 466.205,
+    "peak": 466.955,
+    "settle": 467.305,
+    "label_cues": [
+      [
+        "Notice the impact",
+        467.965
+      ],
+      [
+        "Do not invent hidden motives",
+        470.76498
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 85,
+    "spoken_phrase": "Now here's where healthy boundaries become important.",
+    "asset_ids": [
+      "S14_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 472.23,
+    "peak": 472.98,
+    "settle": 473.33000000000004,
+    "label_cues": [
+      [
+        "Your limits matter",
+        473.03
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 86,
+    "spoken_phrase": "A boundary is not a secret trick for controlling another person. It's not a way to punish someone for disappointing you. And it's not a demand that everyone behave exactly as you prefer.",
+    "asset_ids": [
+      "S14_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 474.79,
+    "peak": 475.54,
+    "settle": 475.89000000000004,
+    "label_cues": [
+      [
+        "Not control",
+        476.47
+      ],
+      [
+        "Not punishment",
+        478.63
+      ],
+      [
+        "Not total compliance",
+        481.03
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 87,
+    "spoken_phrase": "A healthy boundary explains what you are willing to accept... and what you will do to protect your own well-being if that boundary isn't respected.",
+    "asset_ids": [
+      "S14_P04",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 483.91,
+    "peak": 484.66,
+    "settle": 485.01000000000005,
+    "label_cues": [
+      [
+        "What I will accept",
+        485.67
+      ],
+      [
+        "What I will do",
+        487.025
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 88,
+    "spoken_phrase": "For example... You can say, “I'm willing to discuss this, but I'm not willing to be insulted. If we keep insulting each other, I'm going to end this conversation and return to it when we're calmer.”",
+    "asset_ids": [
+      "S14_P05",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 490.78497,
+    "peak": 491.53497,
+    "settle": 491.88497,
+    "label_cues": [
+      [
+        "Discuss without insults",
+        492.865
+      ],
+      [
+        "Pause the conversation",
+        498.06497
+      ],
+      [
+        "Return when calmer",
+        499.425
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 89,
+    "spoken_phrase": "Notice the difference. You're not saying... “You're not allowed to feel angry.” You're saying...",
+    "asset_ids": [
+      "S15_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 501.1,
+    "peak": 501.85,
+    "settle": 502.20000000000005,
+    "label_cues": [
+      [
+        "Not banning feelings",
+        503.74
+      ],
+      [
+        "Anger is allowed",
+        504.38
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 90,
+    "spoken_phrase": "“You can feel angry, but I'm not going to continue a conversation where I'm being insulted.”",
+    "asset_ids": [
+      "S15_P02",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 506.22,
+    "peak": 506.97,
+    "settle": 507.32000000000005,
+    "label_cues": [
+      [
+        "I will not continue insults",
+        507.82
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 91,
+    "spoken_phrase": "The other person still has their feelings. They still have their opinions. They still have the right to disagree.",
+    "asset_ids": [
+      "S15_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 510.7,
+    "peak": 511.45,
+    "settle": 511.8,
+    "label_cues": [
+      [
+        "Their feelings",
+        511.98
+      ],
+      [
+        "Their opinions",
+        513.5
+      ],
+      [
+        "Their right to disagree",
+        515.385
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 92,
+    "spoken_phrase": "But you also have the right to decide what you will participate in.",
+    "asset_ids": [
+      "S15_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "paths",
+    "trigger": 516.105,
+    "peak": 516.855,
+    "settle": 517.205,
+    "label_cues": [
+      [
+        "Your right to decide",
+        516.825
+      ],
+      [
+        "What you participate in",
+        518.025
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 93,
+    "spoken_phrase": "That's what makes a boundary different from control. Control tries to dictate another person's choices.",
+    "asset_ids": [
+      "S15_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 518.985,
+    "peak": 519.735,
+    "settle": 520.085,
+    "label_cues": [
+      [
+        "Control",
+        520.665
+      ],
+      [
+        "Their choices",
+        522.825
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 94,
+    "spoken_phrase": "A boundary clarifies your own.",
+    "asset_ids": [
+      "S15_P07",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 524.425,
+    "peak": 525.175,
+    "settle": 525.525,
+    "label_cues": [
+      [
+        "Your own choices",
+        525.545
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 95,
+    "spoken_phrase": "And sometimes... the hardest part isn't stating the boundary. It's following through.",
+    "asset_ids": [
+      "S16_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 526.4,
+    "peak": 527.15,
+    "settle": 527.5,
+    "label_cues": [
+      [
+        "Not just saying it",
+        527.44
+      ],
+      [
+        "Following through",
+        529.44
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 96,
+    "spoken_phrase": "You might say that you won't continue an insulting conversation... then remain in it for another two hours because you're afraid of upsetting the other person.",
+    "asset_ids": [
+      "S16_P02",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 530.48,
+    "peak": 531.23,
+    "settle": 531.58,
+    "label_cues": [
+      [
+        "I will not continue",
+        531.28
+      ],
+      [
+        "But you stay",
+        533.84
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 97,
+    "spoken_phrase": "You might say that you need time to think... then agree to something because they keep pressuring you.",
+    "asset_ids": [
+      "S16_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "quote",
+    "trigger": 537.76,
+    "peak": 538.51,
+    "settle": 538.86,
+    "label_cues": [
+      [
+        "I need time",
+        538.88
+      ],
+      [
+        "Repeated pressure",
+        541.52
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 98,
+    "spoken_phrase": "You might promise yourself that you won't accept a certain behavior again... then ignore it because things feel good when the conflict disappears.",
+    "asset_ids": [
+      "S16_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 542.34503,
+    "peak": 543.09503,
+    "settle": 543.44503,
+    "label_cues": [
+      [
+        "A limit you intended",
+        543.78503
+      ],
+      [
+        "Relief is not repair",
+        547.705
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 99,
+    "spoken_phrase": "This doesn't mean you're weak. Boundaries can be difficult, especially when you care about someone or depend on them.",
+    "asset_ids": [
+      "S16_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 549.065,
+    "peak": 549.815,
+    "settle": 550.1650000000001,
+    "label_cues": [
+      [
+        "Not weakness",
+        549.22504
+      ],
+      [
+        "Care can complicate limits",
+        552.745
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 100,
+    "spoken_phrase": "But the more clearly you understand your own limits...",
+    "asset_ids": [
+      "S16_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 554.64,
+    "peak": 555.39,
+    "settle": 555.74,
+    "label_cues": [
+      [
+        "Your limits",
+        556.56
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 101,
+    "spoken_phrase": "the easier it becomes to make decisions based on your values rather than immediate pressure.",
+    "asset_ids": [
+      "S16_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "paths",
+    "trigger": 557.2,
+    "peak": 557.95,
+    "settle": 558.3000000000001,
+    "label_cues": [
+      [
+        "Your values",
+        559.68
+      ],
+      [
+        "Not immediate pressure",
+        560.8
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 102,
+    "spoken_phrase": "There's another important distinction. Healthy people can still disappoint you. They can misunderstand you. They can become defensive. They can make mistakes that hurt.",
+    "asset_ids": [
+      "S17_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 562.0,
+    "peak": 562.75,
+    "settle": 563.1,
+    "label_cues": [
+      [
+        "Disappointment",
+        564.96
+      ],
+      [
+        "Misunderstanding",
+        566.24
+      ],
+      [
+        "Mistakes",
+        569.52
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 103,
+    "spoken_phrase": "A healthy relationship isn't one where nobody ever gets upset. It's one where both people can work through those moments without one person consistently having to abandon themselves.",
+    "asset_ids": [
+      "S17_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 570.77496,
+    "peak": 571.52496,
+    "settle": 571.87496,
+    "label_cues": [
+      [
+        "Not conflict-free",
+        572.615
+      ],
+      [
+        "Not self-abandonment",
+        578.935
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 104,
+    "spoken_phrase": "Imagine telling a friend... “I can't help you with this today. I'm exhausted.”",
+    "asset_ids": [
+      "S17_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "quote",
+    "trigger": 580.375,
+    "peak": 581.125,
+    "settle": 581.475,
+    "label_cues": [
+      [
+        "I cannot help today",
+        581.895
+      ],
+      [
+        "I am exhausted",
+        583.735
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 105,
+    "spoken_phrase": "A healthy response might be disappointment. They might wish you were available.",
+    "asset_ids": [
+      "S17_P04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 584.49,
+    "peak": 585.24,
+    "settle": 585.59,
+    "label_cues": [
+      [
+        "They may feel disappointed",
+        585.93
+      ],
+      [
+        "They may wish you were available",
+        587.77
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 106,
+    "spoken_phrase": "They might ask if you can help another day. But they can still respect your answer.",
+    "asset_ids": [
+      "S17_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 588.57,
+    "peak": 589.32,
+    "settle": 589.6700000000001,
+    "label_cues": [
+      [
+        "Another day?",
+        589.77
+      ],
+      [
+        "Your no still stands",
+        591.45
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 107,
+    "spoken_phrase": "An unhealthy response might be... “Wow. I guess I know how little I matter to you.”",
+    "asset_ids": [
+      "S17_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "quote",
+    "trigger": 592.81,
+    "peak": 593.56,
+    "settle": 593.91,
+    "label_cues": [
+      [
+        "I guess I do not matter",
+        596.33
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 108,
+    "spoken_phrase": "Or... “After everything I've done for you, this is how you treat me?”",
+    "asset_ids": [
+      "S17_P08",
+      "P05",
+      "P08",
+      "F04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "affection",
+    "trigger": 597.685,
+    "peak": 598.435,
+    "settle": 598.785,
+    "label_cues": [
+      [
+        "After everything I did for you",
+        598.72504
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 109,
+    "spoken_phrase": "The issue isn't that they feel disappointed. They're allowed to feel disappointed.",
+    "asset_ids": [
+      "S18_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 601.92505,
+    "peak": 602.67505,
+    "settle": 603.0250500000001,
+    "label_cues": [
+      [
+        "Disappointment itself is allowed",
+        603.525
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 110,
+    "spoken_phrase": "The issue is when their disappointment becomes a tool for making you feel guilty enough to surrender your decision.",
+    "asset_ids": [
+      "S18_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 606.645,
+    "peak": 607.395,
+    "settle": 607.745,
+    "label_cues": [
+      [
+        "Guilt",
+        610.325
+      ],
+      [
+        "Surrendering your decision",
+        612.245
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 111,
+    "spoken_phrase": "And this can happen in friendships, romantic relationships, families, and workplaces.",
+    "asset_ids": [
+      "S18_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 612.92004,
+    "peak": 613.67004,
+    "settle": 614.02004,
+    "label_cues": [
+      [
+        "Friendships",
+        614.12006
+      ],
+      [
+        "Romantic relationships",
+        615.16003
+      ],
+      [
+        "Families",
+        616.92004
+      ],
+      [
+        "Workplaces",
+        617.96
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 112,
+    "spoken_phrase": "Sometimes it happens intentionally. Sometimes people have learned unhealthy ways of communicating and repeat them without fully recognizing what they're doing.",
+    "asset_ids": [
+      "S18_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 619.16003,
+    "peak": 619.91003,
+    "settle": 620.26003,
+    "label_cues": [
+      [
+        "Intentional",
+        620.12006
+      ],
+      [
+        "Learned patterns",
+        622.28
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 113,
+    "spoken_phrase": "You don't always need to determine their intentions before responding to the behavior.",
+    "asset_ids": [
+      "S18_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 627.815,
+    "peak": 628.565,
+    "settle": 628.9150000000001,
+    "label_cues": [
+      [
+        "You need not prove intent",
+        629.495
+      ],
+      [
+        "Respond to behavior",
+        631.175
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 114,
+    "spoken_phrase": "You can acknowledge their feelings... without accepting responsibility for every feeling they experience.",
+    "asset_ids": [
+      "S18_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 631.975,
+    "peak": 632.725,
+    "settle": 633.075,
+    "label_cues": [
+      [
+        "Acknowledge their feelings",
+        632.295
+      ],
+      [
+        "Do not carry every feeling",
+        634.535
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 115,
+    "spoken_phrase": "You can care about someone... without agreeing to everything they ask.",
+    "asset_ids": [
+      "S18_P04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 637.415,
+    "peak": 638.165,
+    "settle": 638.515,
+    "label_cues": [
+      [
+        "You can care",
+        637.735
+      ],
+      [
+        "You can still decline",
+        638.935
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 116,
+    "spoken_phrase": "And you can love someone... while recognizing that a particular relationship dynamic is not healthy for you.",
+    "asset_ids": [
+      "S18_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 641.09,
+    "peak": 641.84,
+    "settle": 642.19,
+    "label_cues": [
+      [
+        "You can love someone",
+        641.65
+      ],
+      [
+        "And recognize an unhealthy dynamic",
+        645.73
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 117,
+    "spoken_phrase": "So how do you recognize the difference between an ordinary relationship problem and a more serious pattern of manipulation? Start by asking yourself a few questions.",
+    "asset_ids": [
+      "S19_P01",
+      "C08",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "checklist",
+    "trigger": 647.01,
+    "peak": 647.76,
+    "settle": 648.11,
+    "label_cues": [
+      [
+        "Ordinary conflict or a pattern?",
+        649.01
+      ],
+      [
+        "Five questions",
+        654.54504
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 118,
+    "spoken_phrase": "First... Can you say no without being repeatedly punished, threatened, or pressured into changing your answer?",
+    "asset_ids": [
+      "S19_P02",
+      "C08",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "checklist",
+    "trigger": 655.505,
+    "peak": 656.255,
+    "settle": 656.605,
+    "label_cues": [
+      [
+        "1 / Can you say no?",
+        656.625
+      ],
+      [
+        "Without repeated punishment or pressure",
+        658.145
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 119,
+    "spoken_phrase": "Second... Can you express a concern without the conversation always turning into an attack on your character?",
+    "asset_ids": [
+      "S19_P03",
+      "C08",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "checklist",
+    "trigger": 661.34503,
+    "peak": 662.09503,
+    "settle": 662.44503,
+    "label_cues": [
+      [
+        "2 / Can you express concerns?",
+        662.465
+      ],
+      [
+        "Without a character attack",
+        665.34503
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 120,
+    "spoken_phrase": "Third... When someone hurts you, can they acknowledge the impact of their behavior, even if they didn't intend to hurt you?",
+    "asset_ids": [
+      "S19_P04",
+      "C08",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "checklist",
+    "trigger": 666.625,
+    "peak": 667.375,
+    "settle": 667.725,
+    "label_cues": [
+      [
+        "3 / Can they acknowledge impact?",
+        668.96
+      ],
+      [
+        "Even without harmful intent",
+        671.68
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 121,
+    "spoken_phrase": "Fourth... Do their apologies lead to meaningful changes? Or do the same actions keep happening, followed by the same explanations and promises?",
+    "asset_ids": [
+      "S19_P05",
+      "C08",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "checklist",
+    "trigger": 672.96,
+    "peak": 673.71,
+    "settle": 674.0600000000001,
+    "label_cues": [
+      [
+        "4 / Do apologies lead to change?",
+        674.88
+      ],
+      [
+        "Or do the same actions return?",
+        676.56
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 122,
+    "spoken_phrase": "And finally... Do you feel free to have your own opinions, friendships, interests, and decisions?",
+    "asset_ids": [
+      "S19_P07",
+      "C08",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "checklist",
+    "trigger": 680.72003,
+    "peak": 681.47003,
+    "settle": 681.82003,
+    "label_cues": [
+      [
+        "5 / Do you have independence?",
+        682.28503
+      ],
+      [
+        "Opinions, friendships and interests",
+        683.885
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 123,
+    "spoken_phrase": "Or have you gradually started making your world smaller... because you're afraid of how someone will react?",
+    "asset_ids": [
+      "S19_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "paths",
+    "trigger": 686.28503,
+    "peak": 687.03503,
+    "settle": 687.38503,
+    "label_cues": [
+      [
+        "Your world becomes smaller",
+        688.04504
+      ],
+      [
+        "To avoid their reaction",
+        689.72504
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 124,
+    "spoken_phrase": "No single answer proves that someone is manipulating you. But repeated patterns can tell you something important about the relationship.",
+    "asset_ids": [
+      "S19_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 691.805,
+    "peak": 692.555,
+    "settle": 692.905,
+    "label_cues": [
+      [
+        "No single answer proves manipulation",
+        691.805
+      ],
+      [
+        "Look at repeated patterns",
+        695.21
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 125,
+    "spoken_phrase": "Especially when those patterns leave you feeling afraid, isolated, constantly guilty, or unable to trust your own judgment.",
+    "asset_ids": [
+      "S19_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 698.73004,
+    "peak": 699.48004,
+    "settle": 699.83004,
+    "label_cues": [
+      [
+        "Afraid",
+        700.49
+      ],
+      [
+        "Isolated",
+        701.37
+      ],
+      [
+        "Constantly guilty",
+        702.65
+      ],
+      [
+        "Unable to trust yourself",
+        704.41003
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 126,
+    "spoken_phrase": "And if you recognize yourself in these examples... please don't immediately blame yourself for not noticing sooner.",
+    "asset_ids": [
+      "S20_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 705.05,
+    "peak": 705.8,
+    "settle": 706.15,
+    "label_cues": [
+      [
+        "If this feels familiar",
+        705.45
+      ],
+      [
+        "Do not blame yourself",
+        708.49
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 127,
+    "spoken_phrase": "Manipulation isn't always obvious. It can exist alongside genuine affection. Someone can be kind on Monday... and dismissive on Tuesday.",
+    "asset_ids": [
+      "S20_P02",
+      "P06",
+      "P07",
+      "F04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "warmth",
+    "trigger": 710.765,
+    "peak": 711.515,
+    "settle": 711.865,
+    "label_cues": [
+      [
+        "Genuine affection",
+        713.965
+      ],
+      [
+        "Hurtful behavior",
+        716.765
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 128,
+    "spoken_phrase": "They can apologize sincerely in one moment... and repeat the same behavior later.",
+    "asset_ids": [
+      "S20_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 718.285,
+    "peak": 719.035,
+    "settle": 719.385,
+    "label_cues": [
+      [
+        "A sincere apology",
+        718.605
+      ],
+      [
+        "Repeated behavior",
+        720.525
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 129,
+    "spoken_phrase": "You may remember the good parts of the relationship and struggle to reconcile them with the painful parts. That confusion doesn't mean you're foolish. It means you're trying to understand a complicated situation.",
+    "asset_ids": [
+      "S20_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "memory",
+    "trigger": 722.205,
+    "peak": 722.955,
+    "settle": 723.3050000000001,
+    "label_cues": [
+      [
+        "The good parts",
+        723.005
+      ],
+      [
+        "The painful parts",
+        725.885
+      ],
+      [
+        "Confusion is not foolishness",
+        728.25995
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 130,
+    "spoken_phrase": "You also don't have to confront someone immediately to prove that you're strong. If you're worried about how they'll react, take time to think.",
+    "asset_ids": [
+      "S20_P04",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 731.94,
+    "peak": 732.69,
+    "settle": 733.0400000000001,
+    "label_cues": [
+      [
+        "No immediate confrontation required",
+        732.89996
+      ],
+      [
+        "Take time to think",
+        737.22
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 131,
+    "spoken_phrase": "Talk to someone you trust. Write down what has been happening.",
+    "asset_ids": [
+      "S20_P05",
+      "P04",
+      "C07",
+      "F01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "evidence",
+    "trigger": 738.42,
+    "peak": 739.17,
+    "settle": 739.52,
+    "label_cues": [
+      [
+        "Trusted support",
+        738.81995
+      ],
+      [
+        "Document when safe",
+        739.86
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 132,
+    "spoken_phrase": "If you feel controlled, threatened, or unsafe, prioritize your safety and seek appropriate support before setting boundaries that might increase the risk.",
+    "asset_ids": [
+      "S20_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 741.285,
+    "peak": 742.035,
+    "settle": 742.385,
+    "label_cues": [
+      [
+        "If you feel unsafe",
+        743.20496
+      ],
+      [
+        "Prioritize safety",
+        743.925
+      ],
+      [
+        "Seek appropriate support",
+        746.00494
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 133,
+    "spoken_phrase": "And remember... you don't need to win every argument. You don't need to force someone to admit that they manipulated you.",
+    "asset_ids": [
+      "S21_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 749.20496,
+    "peak": 749.95496,
+    "settle": 750.30496,
+    "label_cues": [
+      [
+        "No need to win every argument",
+        750.565
+      ],
+      [
+        "No forced confession required",
+        752.08496
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "directionalwipe"
+  },
+  {
+    "scene": 134,
+    "spoken_phrase": "Sometimes, the most useful question isn't... “How do I make this person understand?”",
+    "asset_ids": [
+      "S21_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "quote",
+    "trigger": 754.42,
+    "peak": 755.17,
+    "settle": 755.52,
+    "label_cues": [
+      [
+        "How do I make them understand?",
+        757.14
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 135,
+    "spoken_phrase": "It's... “What do I need to do to protect my well-being if this behavior continues?”",
+    "asset_ids": [
+      "S21_P06",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 758.5,
+    "peak": 759.25,
+    "settle": 759.6,
+    "label_cues": [
+      [
+        "What protects my well-being?",
+        760.18
+      ],
+      [
+        "If the behavior continues",
+        761.78
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 136,
+    "spoken_phrase": "Because the purpose of understanding manipulation isn't to learn how to manipulate people back.",
+    "asset_ids": [
+      "S21_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 762.66003,
+    "peak": 763.41003,
+    "settle": 763.76003,
+    "label_cues": [
+      [
+        "Not a lesson in retaliation",
+        765.7
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 137,
+    "spoken_phrase": "It's not to start analyzing every message... or searching for hidden meanings in every disagreement. And it's certainly not to assume that everyone who hurts your feelings is secretly trying to control you.",
+    "asset_ids": [
+      "S21_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "memory",
+    "trigger": 766.845,
+    "peak": 767.595,
+    "settle": 767.945,
+    "label_cues": [
+      [
+        "Not every message",
+        768.125
+      ],
+      [
+        "Not every disagreement",
+        770.045
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 138,
+    "spoken_phrase": "The purpose is to recognize the difference between a relationship where both people have room to be human... and one where one person's needs, feelings, or control consistently take priority over the other's.",
+    "asset_ids": [
+      "S21_P03"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 777.165,
+    "peak": 777.915,
+    "settle": 778.265,
+    "label_cues": [
+      [
+        "Both people have room",
+        780.20496
+      ],
+      [
+        "Not one person's control",
+        783.01
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 139,
+    "spoken_phrase": "Healthy boundaries don't eliminate conflict. They make room for honesty.",
+    "asset_ids": [
+      "S21_P06"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "chain",
+    "trigger": 787.81,
+    "peak": 788.56,
+    "settle": 788.91,
+    "label_cues": [
+      [
+        "Conflict can still exist",
+        788.53
+      ],
+      [
+        "Honesty has room",
+        790.85
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 140,
+    "spoken_phrase": "Healthy affection doesn't require you to abandon your independence. It allows closeness without ownership.",
+    "asset_ids": [
+      "S21_P04"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "paths",
+    "trigger": 791.65,
+    "peak": 792.4,
+    "settle": 792.75,
+    "label_cues": [
+      [
+        "Independence",
+        793.89
+      ],
+      [
+        "Closeness without ownership",
+        795.325
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 141,
+    "spoken_phrase": "And healthy relationships don't demand that you prove your loyalty by ignoring your own discomfort. They allow both people to grow... without one person having to become smaller for the other to feel powerful.",
+    "asset_ids": [
+      "S21_P05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 796.925,
+    "peak": 797.675,
+    "settle": 798.025,
+    "label_cues": [
+      [
+        "Both people grow",
+        802.685
+      ],
+      [
+        "Nobody has to shrink",
+        804.845
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 142,
+    "spoken_phrase": "So the next time someone makes you question your feelings... pause before assuming that you're the problem.",
+    "asset_ids": [
+      "S21_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 807.165,
+    "peak": 807.915,
+    "settle": 808.265,
+    "label_cues": [
+      [
+        "Pause",
+        808.525
+      ],
+      [
+        "Do not assume you are the problem",
+        811.06
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 143,
+    "spoken_phrase": "Look at the pattern. Look at the willingness to take responsibility. Look at what happens when you express a reasonable boundary.",
+    "asset_ids": [
+      "S07_P01"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 812.10004,
+    "peak": 812.85004,
+    "settle": 813.2000400000001,
+    "label_cues": [
+      [
+        "The pattern",
+        812.5
+      ],
+      [
+        "Responsibility",
+        814.34
+      ],
+      [
+        "The response to a boundary",
+        817.46
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 144,
+    "spoken_phrase": "And remember... you can be compassionate without being endlessly available.",
+    "asset_ids": [
+      "S21_P06",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 818.18,
+    "peak": 818.93,
+    "settle": 819.28,
+    "label_cues": [
+      [
+        "Compassion",
+        819.62
+      ],
+      [
+        "Not endless availability",
+        820.66003
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 145,
+    "spoken_phrase": "You can forgive someone without pretending nothing happened.",
+    "asset_ids": [
+      "S21_P07"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 821.865,
+    "peak": 822.615,
+    "settle": 822.965,
+    "label_cues": [
+      [
+        "You can forgive",
+        822.265
+      ],
+      [
+        "Without erasing what happened",
+        823.305
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 146,
+    "spoken_phrase": "You can understand why someone behaves a certain way... without accepting that behavior in your life.",
+    "asset_ids": [
+      "S21_P02"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "contrast",
+    "trigger": 824.745,
+    "peak": 825.495,
+    "settle": 825.845,
+    "label_cues": [
+      [
+        "Understand why",
+        825.065
+      ],
+      [
+        "Choose what you accept",
+        827.46497
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 147,
+    "spoken_phrase": "And you can care deeply about another person... without giving them unlimited access to your time, your choices, or your sense of self.",
+    "asset_ids": [
+      "S21_P04",
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "boundary",
+    "trigger": 829.785,
+    "peak": 830.535,
+    "settle": 830.885,
+    "label_cues": [
+      [
+        "Care deeply",
+        830.185
+      ],
+      [
+        "Not unlimited access",
+        832.745
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "ink-reveal"
+  },
+  {
+    "scene": 148,
+    "spoken_phrase": "Because a healthy relationship shouldn't require you to stop trusting yourself... in order to keep someone else comfortable.",
+    "asset_ids": [
+      "S21_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 836.5,
+    "peak": 837.25,
+    "settle": 837.6,
+    "label_cues": [
+      [
+        "Your self-trust",
+        839.22003
+      ],
+      [
+        "Not the price of their comfort",
+        841.62006
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 149,
+    "spoken_phrase": "You deserve room to speak. Room to disagree. Room to say no.",
+    "asset_ids": [
+      "S21_P08"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 842.42004,
+    "peak": 843.17004,
+    "settle": 843.52004,
+    "label_cues": [
+      [
+        "Speak",
+        843.38
+      ],
+      [
+        "Disagree",
+        844.42004
+      ],
+      [
+        "Say no",
+        845.7
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 150,
+    "spoken_phrase": "And room to be yourself... without constantly fearing what will happen when you are.",
+    "asset_ids": [
+      "S21_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "focus",
+    "trigger": 846.5,
+    "peak": 847.25,
+    "settle": 847.6,
+    "label_cues": [
+      [
+        "Be yourself",
+        847.06
+      ],
+      [
+        "Without constant fear",
+        848.9
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  },
+  {
+    "scene": 151,
+    "spoken_phrase": "Think deeper. Live better. Become more. This is Why We Become.",
+    "asset_ids": [
+      "S21_P09"
+    ],
+    "roles": {
+      "illustration": "one connected layer; no artificial body cuts",
+      "kit": "independent foreground props/pose swaps",
+      "graphics": "code-drawn semantic explanation"
+    },
+    "semantic_action": "stack",
+    "trigger": 850.54504,
+    "peak": 851.29504,
+    "settle": 851.64504,
+    "label_cues": [
+      [
+        "Think deeper",
+        850.54504
+      ],
+      [
+        "Live better",
+        851.74506
+      ],
+      [
+        "Become more",
+        852.54504
+      ]
+    ],
+    "pivots": "full-body feet for pose swaps; prop center for pop and ribbon stretch; no unsupported joints",
+    "next_transition": "fadecolor"
+  }
+]

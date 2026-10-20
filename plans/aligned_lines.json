@@ -1,0 +1,2570 @@
+[
+  {
+    "line": 1,
+    "text": "Have you ever walked away from a conversation...",
+    "word_start": 0,
+    "word_end": 8,
+    "start": 0.0,
+    "end": 2.0
+  },
+  {
+    "line": 2,
+    "text": "and somehow ended up apologizing...",
+    "word_start": 8,
+    "word_end": 13,
+    "start": 2.0,
+    "end": 4.4
+  },
+  {
+    "line": 3,
+    "text": "even though you weren't sure what you did wrong?",
+    "word_start": 13,
+    "word_end": 22,
+    "start": 4.4,
+    "end": 6.48
+  },
+  {
+    "line": 4,
+    "text": "Maybe you tried to explain how something made you feel.",
+    "word_start": 22,
+    "word_end": 32,
+    "start": 6.48,
+    "end": 9.28
+  },
+  {
+    "line": 5,
+    "text": "But instead of discussing what happened...",
+    "word_start": 32,
+    "word_end": 38,
+    "start": 9.36,
+    "end": 11.36
+  },
+  {
+    "line": 6,
+    "text": "the conversation somehow became about your attitude.",
+    "word_start": 38,
+    "word_end": 45,
+    "start": 11.36,
+    "end": 13.759999
+  },
+  {
+    "line": 7,
+    "text": "You were told you were too sensitive.",
+    "word_start": 45,
+    "word_end": 52,
+    "start": 14.195,
+    "end": 16.115
+  },
+  {
+    "line": 8,
+    "text": "That you misunderstood everything.",
+    "word_start": 52,
+    "word_end": 56,
+    "start": 16.115,
+    "end": 18.035
+  },
+  {
+    "line": 9,
+    "text": "That you always created problems.",
+    "word_start": 56,
+    "word_end": 61,
+    "start": 18.275,
+    "end": 20.115
+  },
+  {
+    "line": 10,
+    "text": "And eventually...",
+    "word_start": 61,
+    "word_end": 63,
+    "start": 20.355,
+    "end": 20.914999
+  },
+  {
+    "line": 11,
+    "text": "you stopped trying to explain yourself.",
+    "word_start": 63,
+    "word_end": 69,
+    "start": 20.914999,
+    "end": 22.914999
+  },
+  {
+    "line": 12,
+    "text": "Not because you suddenly agreed with them.",
+    "word_start": 69,
+    "word_end": 76,
+    "start": 23.154999,
+    "end": 25.314999
+  },
+  {
+    "line": 13,
+    "text": "But because you were exhausted.",
+    "word_start": 76,
+    "word_end": 81,
+    "start": 25.395,
+    "end": 26.675
+  },
+  {
+    "line": 14,
+    "text": "You started questioning your own memory.",
+    "word_start": 81,
+    "word_end": 87,
+    "start": 27.11,
+    "end": 29.27
+  },
+  {
+    "line": 15,
+    "text": "Your own judgment.",
+    "word_start": 87,
+    "word_end": 90,
+    "start": 29.27,
+    "end": 30.39
+  },
+  {
+    "line": 16,
+    "text": "Even your right to feel upset.",
+    "word_start": 90,
+    "word_end": 96,
+    "start": 30.550001,
+    "end": 32.31
+  },
+  {
+    "line": 17,
+    "text": "And the strangest part?",
+    "word_start": 96,
+    "word_end": 100,
+    "start": 32.39,
+    "end": 33.67
+  },
+  {
+    "line": 18,
+    "text": "The person who hurt you...",
+    "word_start": 100,
+    "word_end": 105,
+    "start": 33.670002,
+    "end": 35.11
+  },
+  {
+    "line": 19,
+    "text": "somehow became the person you felt you had to make things right with.",
+    "word_start": 105,
+    "word_end": 118,
+    "start": 35.190002,
+    "end": 38.55
+  },
+  {
+    "line": 20,
+    "text": "Now, not every difficult conversation is manipulation.",
+    "word_start": 118,
+    "word_end": 125,
+    "start": 38.63,
+    "end": 41.35
+  },
+  {
+    "line": 21,
+    "text": "People misunderstand each other.",
+    "word_start": 125,
+    "word_end": 129,
+    "start": 41.765003,
+    "end": 43.445
+  },
+  {
+    "line": 22,
+    "text": "People get defensive.",
+    "word_start": 129,
+    "word_end": 132,
+    "start": 43.605,
+    "end": 44.885002
+  },
+  {
+    "line": 23,
+    "text": "People make mistakes.",
+    "word_start": 132,
+    "word_end": 135,
+    "start": 44.965,
+    "end": 46.245003
+  },
+  {
+    "line": 24,
+    "text": "But sometimes...",
+    "word_start": 135,
+    "word_end": 137,
+    "start": 46.405003,
+    "end": 47.365
+  },
+  {
+    "line": 25,
+    "text": "there is a pattern.",
+    "word_start": 137,
+    "word_end": 141,
+    "start": 47.365,
+    "end": 48.485
+  },
+  {
+    "line": 26,
+    "text": "A pattern where your feelings are constantly dismissed.",
+    "word_start": 141,
+    "word_end": 149,
+    "start": 48.565002,
+    "end": 51.365
+  },
+  {
+    "line": 27,
+    "text": "Your boundaries are treated like betrayal.",
+    "word_start": 149,
+    "word_end": 155,
+    "start": 51.525,
+    "end": 53.685
+  },
+  {
+    "line": 28,
+    "text": "Your mistakes are remembered forever...",
+    "word_start": 155,
+    "word_end": 160,
+    "start": 53.845,
+    "end": 55.365
+  },
+  {
+    "line": 29,
+    "text": "while theirs are somehow never their responsibility.",
+    "word_start": 160,
+    "word_end": 167,
+    "start": 55.74,
+    "end": 58.38
+  },
+  {
+    "line": 30,
+    "text": "And slowly...",
+    "word_start": 167,
+    "word_end": 169,
+    "start": 58.7,
+    "end": 59.5
+  },
+  {
+    "line": 31,
+    "text": "you begin changing yourself just to keep the peace.",
+    "word_start": 169,
+    "word_end": 178,
+    "start": 59.5,
+    "end": 62.22
+  },
+  {
+    "line": 32,
+    "text": "Today, we're going to look at the difference between dark psychological manipulation and healthy boundaries.",
+    "word_start": 178,
+    "word_end": 193,
+    "start": 62.38,
+    "end": 67.42
+  },
+  {
+    "line": 33,
+    "text": "We'll explore gaslighting, love-bombing, controlling behavior, and narcissistic traits.",
+    "word_start": 193,
+    "word_end": 202,
+    "start": 67.58,
+    "end": 72.495
+  },
+  {
+    "line": 34,
+    "text": "More importantly...",
+    "word_start": 202,
+    "word_end": 204,
+    "start": 72.655,
+    "end": 73.615
+  },
+  {
+    "line": 35,
+    "text": "we'll look at how to recognize unhealthy patterns without assuming that every disagreement is abuse...",
+    "word_start": 204,
+    "word_end": 219,
+    "start": 73.615,
+    "end": 78.735
+  },
+  {
+    "line": 36,
+    "text": "or that every difficult person has a personality disorder.",
+    "word_start": 219,
+    "word_end": 228,
+    "start": 78.815,
+    "end": 81.855
+  },
+  {
+    "line": 37,
+    "text": "Because the goal isn't to become suspicious of everyone.",
+    "word_start": 228,
+    "word_end": 237,
+    "start": 82.25,
+    "end": 85.13
+  },
+  {
+    "line": 38,
+    "text": "It's to understand what healthy relationships should actually feel like.",
+    "word_start": 237,
+    "word_end": 247,
+    "start": 85.29,
+    "end": 88.81
+  },
+  {
+    "line": 39,
+    "text": "Let's start with something simple.",
+    "word_start": 247,
+    "word_end": 252,
+    "start": 88.81,
+    "end": 90.49
+  },
+  {
+    "line": 40,
+    "text": "Imagine you tell someone...",
+    "word_start": 252,
+    "word_end": 256,
+    "start": 90.57,
+    "end": 92.009995
+  },
+  {
+    "line": 41,
+    "text": "“I didn't like the way you spoke to me earlier.”",
+    "word_start": 256,
+    "word_end": 266,
+    "start": 92.17,
+    "end": 94.009995
+  },
+  {
+    "line": 42,
+    "text": "In a healthy relationship, the conversation might be uncomfortable.",
+    "word_start": 266,
+    "word_end": 275,
+    "start": 94.295,
+    "end": 97.494995
+  },
+  {
+    "line": 43,
+    "text": "They might explain what they meant.",
+    "word_start": 275,
+    "word_end": 281,
+    "start": 97.655,
+    "end": 99.174995
+  },
+  {
+    "line": 44,
+    "text": "They might disagree with your interpretation.",
+    "word_start": 281,
+    "word_end": 287,
+    "start": 99.174995,
+    "end": 101.255
+  },
+  {
+    "line": 45,
+    "text": "They might even tell you that your words hurt them, too.",
+    "word_start": 287,
+    "word_end": 298,
+    "start": 101.494995,
+    "end": 103.73499
+  },
+  {
+    "line": 46,
+    "text": "But ideally...",
+    "word_start": 298,
+    "word_end": 300,
+    "start": 103.814995,
+    "end": 104.774994
+  },
+  {
+    "line": 47,
+    "text": "both people can discuss what happened without one person having to surrender their perspective just to end the argument.",
+    "word_start": 300,
+    "word_end": 319,
+    "start": 104.774994,
+    "end": 109.255
+  },
+  {
+    "line": 48,
+    "text": "Now imagine a different response.",
+    "word_start": 319,
+    "word_end": 324,
+    "start": 109.55,
+    "end": 111.31
+  },
+  {
+    "line": 49,
+    "text": "They immediately say...",
+    "word_start": 324,
+    "word_end": 327,
+    "start": 111.47,
+    "end": 112.67
+  },
+  {
+    "line": 50,
+    "text": "“You're always making me the bad person.”",
+    "word_start": 327,
+    "word_end": 334,
+    "start": 112.67,
+    "end": 114.67
+  },
+  {
+    "line": 51,
+    "text": "“You're too sensitive.”",
+    "word_start": 334,
+    "word_end": 337,
+    "start": 114.83,
+    "end": 116.03
+  },
+  {
+    "line": 52,
+    "text": "“You remember everything wrong.”",
+    "word_start": 337,
+    "word_end": 341,
+    "start": 116.11,
+    "end": 117.55
+  },
+  {
+    "line": 53,
+    "text": "“You should be grateful I even put up with you.”",
+    "word_start": 341,
+    "word_end": 351,
+    "start": 117.71,
+    "end": 119.63
+  },
+  {
+    "line": 54,
+    "text": "Suddenly, the original problem disappears.",
+    "word_start": 351,
+    "word_end": 356,
+    "start": 119.79,
+    "end": 121.79
+  },
+  {
+    "line": 55,
+    "text": "Now you're defending your character.",
+    "word_start": 356,
+    "word_end": 361,
+    "start": 122.255005,
+    "end": 124.015
+  },
+  {
+    "line": 56,
+    "text": "You're explaining why you're not ungrateful.",
+    "word_start": 361,
+    "word_end": 367,
+    "start": 124.015,
+    "end": 126.175
+  },
+  {
+    "line": 57,
+    "text": "You're trying to prove that you're not too sensitive.",
+    "word_start": 367,
+    "word_end": 376,
+    "start": 126.175,
+    "end": 128.49501
+  },
+  {
+    "line": 58,
+    "text": "And the conversation ends without addressing what upset you in the first place.",
+    "word_start": 376,
+    "word_end": 389,
+    "start": 128.575,
+    "end": 131.93501
+  },
+  {
+    "line": 59,
+    "text": "Notice what happened.",
+    "word_start": 389,
+    "word_end": 392,
+    "start": 132.015,
+    "end": 133.13501
+  },
+  {
+    "line": 60,
+    "text": "You brought up a concern.",
+    "word_start": 392,
+    "word_end": 397,
+    "start": 133.13501,
+    "end": 134.095
+  },
+  {
+    "line": 61,
+    "text": "But instead of discussing the concern...",
+    "word_start": 397,
+    "word_end": 403,
+    "start": 134.54001,
+    "end": 136.46
+  },
+  {
+    "line": 62,
+    "text": "you were pushed into defending yourself for having one.",
+    "word_start": 403,
+    "word_end": 412,
+    "start": 136.62001,
+    "end": 139.18001
+  },
+  {
+    "line": 63,
+    "text": "If this happens repeatedly, it can become a serious problem.",
+    "word_start": 412,
+    "word_end": 422,
+    "start": 139.26001,
+    "end": 142.38002
+  },
+  {
+    "line": 64,
+    "text": "Because healthy communication allows two people to disagree.",
+    "word_start": 422,
+    "word_end": 430,
+    "start": 142.54001,
+    "end": 145.50002
+  },
+  {
+    "line": 65,
+    "text": "Manipulative communication can turn disagreement into a way of gaining control.",
+    "word_start": 430,
+    "word_end": 441,
+    "start": 145.58,
+    "end": 149.26001
+  },
+  {
+    "line": 66,
+    "text": "And understanding that difference is the first step.",
+    "word_start": 441,
+    "word_end": 449,
+    "start": 149.645,
+    "end": 152.125
+  },
+  {
+    "line": 67,
+    "text": "Let's talk about gaslighting.",
+    "word_start": 449,
+    "word_end": 453,
+    "start": 152.125,
+    "end": 153.725
+  },
+  {
+    "line": 68,
+    "text": "The word gets used so often online that it can sometimes lose its meaning.",
+    "word_start": 453,
+    "word_end": 467,
+    "start": 153.725,
+    "end": 157.565
+  },
+  {
+    "line": 69,
+    "text": "Gaslighting is more than someone remembering an event differently from you.",
+    "word_start": 467,
+    "word_end": 478,
+    "start": 157.725,
+    "end": 161.005
+  },
+  {
+    "line": 70,
+    "text": "It's not every disagreement about what happened.",
+    "word_start": 478,
+    "word_end": 485,
+    "start": 161.005,
+    "end": 162.925
+  },
+  {
+    "line": 71,
+    "text": "And it's not simply someone denying an accusation.",
+    "word_start": 485,
+    "word_end": 493,
+    "start": 163.25,
+    "end": 165.89
+  },
+  {
+    "line": 72,
+    "text": "Gaslighting refers to a pattern of manipulation that causes someone to question their own perception of reality, memory, or judgment.",
+    "word_start": 493,
+    "word_end": 513,
+    "start": 166.13,
+    "end": 174.37001
+  },
+  {
+    "line": 73,
+    "text": "Imagine you agree to meet someone at six.",
+    "word_start": 513,
+    "word_end": 521,
+    "start": 174.69,
+    "end": 176.53
+  },
+  {
+    "line": 74,
+    "text": "They arrive much later.",
+    "word_start": 521,
+    "word_end": 525,
+    "start": 176.865,
+    "end": 178.30501
+  },
+  {
+    "line": 75,
+    "text": "When you bring it up, they tell you that you never agreed on six in the first place.",
+    "word_start": 525,
+    "word_end": 543,
+    "start": 178.46501,
+    "end": 182.14502
+  },
+  {
+    "line": 76,
+    "text": "You remember the conversation clearly.",
+    "word_start": 543,
+    "word_end": 548,
+    "start": 182.30501,
+    "end": 184.38501
+  },
+  {
+    "line": 77,
+    "text": "But they insist you're imagining things.",
+    "word_start": 548,
+    "word_end": 554,
+    "start": 184.38501,
+    "end": 186.46501
+  },
+  {
+    "line": 78,
+    "text": "That one disagreement alone doesn't prove gaslighting.",
+    "word_start": 554,
+    "word_end": 561,
+    "start": 186.625,
+    "end": 189.345
+  },
+  {
+    "line": 79,
+    "text": "Maybe the messages were unclear.",
+    "word_start": 561,
+    "word_end": 566,
+    "start": 189.54,
+    "end": 191.46
+  },
+  {
+    "line": 80,
+    "text": "Maybe someone genuinely remembers the conversation differently.",
+    "word_start": 566,
+    "word_end": 573,
+    "start": 191.7,
+    "end": 194.82
+  },
+  {
+    "line": 81,
+    "text": "But imagine this keeps happening.",
+    "word_start": 573,
+    "word_end": 578,
+    "start": 194.98,
+    "end": 196.58
+  },
+  {
+    "line": 82,
+    "text": "They deny things they previously said.",
+    "word_start": 578,
+    "word_end": 584,
+    "start": 196.73999,
+    "end": 198.82
+  },
+  {
+    "line": 83,
+    "text": "They insist conversations never happened.",
+    "word_start": 584,
+    "word_end": 589,
+    "start": 198.9,
+    "end": 201.14
+  },
+  {
+    "line": 84,
+    "text": "They repeatedly tell you that your memory is terrible.",
+    "word_start": 589,
+    "word_end": 598,
+    "start": 201.29999,
+    "end": 203.45999
+  },
+  {
+    "line": 85,
+    "text": "And whenever you question their behavior...",
+    "word_start": 598,
+    "word_end": 604,
+    "start": 203.805,
+    "end": 205.805
+  },
+  {
+    "line": 86,
+    "text": "they make you feel as though something is wrong with your ability to understand reality.",
+    "word_start": 604,
+    "word_end": 619,
+    "start": 205.805,
+    "end": 209.645
+  },
+  {
+    "line": 87,
+    "text": "Eventually, you start keeping quiet.",
+    "word_start": 619,
+    "word_end": 624,
+    "start": 209.805,
+    "end": 211.64499
+  },
+  {
+    "line": 88,
+    "text": "You stop trusting your own recollection.",
+    "word_start": 624,
+    "word_end": 630,
+    "start": 211.64499,
+    "end": 213.725
+  },
+  {
+    "line": 89,
+    "text": "You begin asking them what happened...",
+    "word_start": 630,
+    "word_end": 636,
+    "start": 213.885,
+    "end": 215.805
+  },
+  {
+    "line": 90,
+    "text": "even when you were there.",
+    "word_start": 636,
+    "word_end": 641,
+    "start": 215.805,
+    "end": 216.84499
+  },
+  {
+    "line": 91,
+    "text": "That's the important distinction.",
+    "word_start": 641,
+    "word_end": 645,
+    "start": 217.19,
+    "end": 218.79001
+  },
+  {
+    "line": 92,
+    "text": "The issue isn't simply that someone disagrees with your memory.",
+    "word_start": 645,
+    "word_end": 655,
+    "start": 218.95,
+    "end": 222.15001
+  },
+  {
+    "line": 93,
+    "text": "It's the repeated pattern of denying, distorting, or undermining your reality in a way that makes you doubt yourself.",
+    "word_start": 655,
+    "word_end": 674,
+    "start": 222.23,
+    "end": 228.31001
+  },
+  {
+    "line": 94,
+    "text": "So what can you do?",
+    "word_start": 674,
+    "word_end": 679,
+    "start": 228.55,
+    "end": 229.67001
+  },
+  {
+    "line": 95,
+    "text": "First, don't assume every disagreement is gaslighting.",
+    "word_start": 679,
+    "word_end": 686,
+    "start": 229.91,
+    "end": 232.79
+  },
+  {
+    "line": 96,
+    "text": "Look at the broader pattern.",
+    "word_start": 686,
+    "word_end": 691,
+    "start": 233.085,
+    "end": 234.52501
+  },
+  {
+    "line": 97,
+    "text": "Second, when it's appropriate and safe, keep track of important agreements and conversations.",
+    "word_start": 691,
+    "word_end": 704,
+    "start": 234.68501,
+    "end": 239.64502
+  },
+  {
+    "line": 98,
+    "text": "Written messages can help you clarify what was actually agreed upon.",
+    "word_start": 704,
+    "word_end": 715,
+    "start": 239.88501,
+    "end": 243.32501
+  },
+  {
+    "line": 99,
+    "text": "And third...",
+    "word_start": 715,
+    "word_end": 717,
+    "start": 243.405,
+    "end": 244.20502
+  },
+  {
+    "line": 100,
+    "text": "pay attention to whether the other person can acknowledge evidence.",
+    "word_start": 717,
+    "word_end": 727,
+    "start": 244.285,
+    "end": 247.005
+  },
+  {
+    "line": 101,
+    "text": "Can they say, “I remembered that differently, but I see what you're saying”?",
+    "word_start": 727,
+    "word_end": 740,
+    "start": 247.43001,
+    "end": 250.87001
+  },
+  {
+    "line": 102,
+    "text": "Can they admit that they were mistaken?",
+    "word_start": 740,
+    "word_end": 747,
+    "start": 250.95001,
+    "end": 252.71
+  },
+  {
+    "line": 103,
+    "text": "Or does every conversation become another reason you should distrust yourself?",
+    "word_start": 747,
+    "word_end": 758,
+    "start": 252.87001,
+    "end": 257.03
+  },
+  {
+    "line": 104,
+    "text": "Because healthy relationships don't require perfect memory.",
+    "word_start": 758,
+    "word_end": 765,
+    "start": 257.35,
+    "end": 260.39
+  },
+  {
+    "line": 105,
+    "text": "They require honesty, accountability, and a willingness to correct mistakes.",
+    "word_start": 765,
+    "word_end": 775,
+    "start": 260.535,
+    "end": 264.61502
+  },
+  {
+    "line": 106,
+    "text": "Now let's look at another pattern.",
+    "word_start": 775,
+    "word_end": 781,
+    "start": 264.855,
+    "end": 266.695
+  },
+  {
+    "line": 107,
+    "text": "Love-bombing.",
+    "word_start": 781,
+    "word_end": 782,
+    "start": 266.775,
+    "end": 267.815
+  },
+  {
+    "line": 108,
+    "text": "Imagine meeting someone new.",
+    "word_start": 782,
+    "word_end": 786,
+    "start": 267.895,
+    "end": 269.655
+  },
+  {
+    "line": 109,
+    "text": "Within days, they're telling you that you're unlike anyone they've ever met.",
+    "word_start": 786,
+    "word_end": 798,
+    "start": 269.655,
+    "end": 272.695
+  },
+  {
+    "line": 110,
+    "text": "They message you constantly.",
+    "word_start": 798,
+    "word_end": 802,
+    "start": 272.85,
+    "end": 274.37
+  },
+  {
+    "line": 111,
+    "text": "They want to know everything about you.",
+    "word_start": 802,
+    "word_end": 809,
+    "start": 274.37,
+    "end": 276.13
+  },
+  {
+    "line": 112,
+    "text": "They talk about your future together.",
+    "word_start": 809,
+    "word_end": 815,
+    "start": 276.21,
+    "end": 277.89
+  },
+  {
+    "line": 113,
+    "text": "They make enormous promises.",
+    "word_start": 815,
+    "word_end": 819,
+    "start": 277.89,
+    "end": 279.41
+  },
+  {
+    "line": 114,
+    "text": "Maybe they send gifts.",
+    "word_start": 819,
+    "word_end": 823,
+    "start": 279.65,
+    "end": 280.93002
+  },
+  {
+    "line": 115,
+    "text": "Maybe they tell you they've never felt this way before.",
+    "word_start": 823,
+    "word_end": 833,
+    "start": 281.09,
+    "end": 283.49002
+  },
+  {
+    "line": 116,
+    "text": "And at first...",
+    "word_start": 833,
+    "word_end": 836,
+    "start": 283.65,
+    "end": 284.29
+  },
+  {
+    "line": 117,
+    "text": "it feels incredible.",
+    "word_start": 836,
+    "word_end": 839,
+    "start": 284.29,
+    "end": 285.33002
+  },
+  {
+    "line": 118,
+    "text": "You feel seen.",
+    "word_start": 839,
+    "word_end": 842,
+    "start": 285.33002,
+    "end": 286.29
+  },
+  {
+    "line": 119,
+    "text": "You feel wanted.",
+    "word_start": 842,
+    "word_end": 845,
+    "start": 286.29,
+    "end": 287.09
+  },
+  {
+    "line": 120,
+    "text": "You feel like you've finally met someone who understands you.",
+    "word_start": 845,
+    "word_end": 855,
+    "start": 287.465,
+    "end": 290.58502
+  },
+  {
+    "line": 121,
+    "text": "But here's the important part.",
+    "word_start": 855,
+    "word_end": 860,
+    "start": 290.665,
+    "end": 292.02502
+  },
+  {
+    "line": 122,
+    "text": "Intense affection is not automatically manipulation.",
+    "word_start": 860,
+    "word_end": 866,
+    "start": 292.105,
+    "end": 294.98502
+  },
+  {
+    "line": 123,
+    "text": "Some people are naturally expressive.",
+    "word_start": 866,
+    "word_end": 871,
+    "start": 295.225,
+    "end": 297.14502
+  },
+  {
+    "line": 124,
+    "text": "Some relationships develop quickly without becoming unhealthy.",
+    "word_start": 871,
+    "word_end": 878,
+    "start": 297.30502,
+    "end": 300.185
+  },
+  {
+    "line": 125,
+    "text": "The concern begins when overwhelming affection is used to rush intimacy, bypass your boundaries, or create pressure and obligation.",
+    "word_start": 878,
+    "word_end": 897,
+    "start": 300.47,
+    "end": 307.51
+  },
+  {
+    "line": 126,
+    "text": "Imagine you tell this person...",
+    "word_start": 897,
+    "word_end": 902,
+    "start": 307.83002,
+    "end": 309.27002
+  },
+  {
+    "line": 127,
+    "text": "“I really like you, but I want to take things slowly.”",
+    "word_start": 902,
+    "word_end": 913,
+    "start": 309.43002,
+    "end": 312.15002
+  },
+  {
+    "line": 128,
+    "text": "Instead of respecting that...",
+    "word_start": 913,
+    "word_end": 917,
+    "start": 312.31003,
+    "end": 313.51
+  },
+  {
+    "line": 129,
+    "text": "they become upset.",
+    "word_start": 917,
+    "word_end": 920,
+    "start": 313.51,
+    "end": 314.31003
+  },
+  {
+    "line": 130,
+    "text": "They say you must not care about them as much as they care about you.",
+    "word_start": 920,
+    "word_end": 935,
+    "start": 314.585,
+    "end": 317.785
+  },
+  {
+    "line": 131,
+    "text": "They remind you of everything they've done for you.",
+    "word_start": 935,
+    "word_end": 944,
+    "start": 317.865,
+    "end": 320.105
+  },
+  {
+    "line": 132,
+    "text": "They tell you that if you truly loved them, you wouldn't need time.",
+    "word_start": 944,
+    "word_end": 957,
+    "start": 320.185,
+    "end": 323.225
+  },
+  {
+    "line": 133,
+    "text": "Suddenly...",
+    "word_start": 957,
+    "word_end": 958,
+    "start": 323.465,
+    "end": 324.105
+  },
+  {
+    "line": 134,
+    "text": "your boundary becomes evidence that you're hurting them.",
+    "word_start": 958,
+    "word_end": 966,
+    "start": 324.105,
+    "end": 326.505
+  },
+  {
+    "line": 135,
+    "text": "And the affection that felt like a gift...",
+    "word_start": 966,
+    "word_end": 974,
+    "start": 326.665,
+    "end": 328.42502
+  },
+  {
+    "line": 136,
+    "text": "starts feeling like a debt.",
+    "word_start": 974,
+    "word_end": 979,
+    "start": 328.42502,
+    "end": 329.785
+  },
+  {
+    "line": 137,
+    "text": "Later, perhaps after a disagreement, their warmth disappears.",
+    "word_start": 979,
+    "word_end": 987,
+    "start": 329.91,
+    "end": 333.51
+  },
+  {
+    "line": 138,
+    "text": "They become distant.",
+    "word_start": 987,
+    "word_end": 990,
+    "start": 333.67,
+    "end": 334.79
+  },
+  {
+    "line": 139,
+    "text": "They withdraw attention.",
+    "word_start": 990,
+    "word_end": 993,
+    "start": 334.87,
+    "end": 336.15002
+  },
+  {
+    "line": 140,
+    "text": "Then, when you start pulling away, the affection returns.",
+    "word_start": 993,
+    "word_end": 1002,
+    "start": 336.39,
+    "end": 339.35
+  },
+  {
+    "line": 141,
+    "text": "The grand promises come back.",
+    "word_start": 1002,
+    "word_end": 1007,
+    "start": 339.43,
+    "end": 341.11002
+  },
+  {
+    "line": 142,
+    "text": "The apologies come back.",
+    "word_start": 1007,
+    "word_end": 1011,
+    "start": 341.19,
+    "end": 342.47
+  },
+  {
+    "line": 143,
+    "text": "And you start hoping that the wonderful version of the relationship will return permanently.",
+    "word_start": 1011,
+    "word_end": 1025,
+    "start": 342.905,
+    "end": 347.385
+  },
+  {
+    "line": 144,
+    "text": "This push and pull can become emotionally exhausting.",
+    "word_start": 1025,
+    "word_end": 1033,
+    "start": 347.625,
+    "end": 350.98502
+  },
+  {
+    "line": 145,
+    "text": "You stop asking whether the relationship is healthy overall.",
+    "word_start": 1033,
+    "word_end": 1042,
+    "start": 351.065,
+    "end": 354.58502
+  },
+  {
+    "line": 146,
+    "text": "Instead, you focus on getting back to the good moments.",
+    "word_start": 1042,
+    "word_end": 1052,
+    "start": 354.91998,
+    "end": 358.04
+  },
+  {
+    "line": 147,
+    "text": "So remember this.",
+    "word_start": 1052,
+    "word_end": 1055,
+    "start": 358.19998,
+    "end": 359.32
+  },
+  {
+    "line": 148,
+    "text": "Don't judge a relationship only by how intensely someone pursues you in the beginning.",
+    "word_start": 1055,
+    "word_end": 1069,
+    "start": 359.48,
+    "end": 364.36002
+  },
+  {
+    "line": 149,
+    "text": "Watch how they respond when you say no.",
+    "word_start": 1069,
+    "word_end": 1077,
+    "start": 364.44,
+    "end": 366.6
+  },
+  {
+    "line": 150,
+    "text": "Watch whether their promises match their behavior.",
+    "word_start": 1077,
+    "word_end": 1084,
+    "start": 366.84,
+    "end": 369.24
+  },
+  {
+    "line": 151,
+    "text": "Watch whether they respect your pace...",
+    "word_start": 1084,
+    "word_end": 1090,
+    "start": 369.69498,
+    "end": 371.85498
+  },
+  {
+    "line": 152,
+    "text": "even when it isn't what they wanted.",
+    "word_start": 1090,
+    "word_end": 1097,
+    "start": 371.85498,
+    "end": 373.935
+  },
+  {
+    "line": 153,
+    "text": "Because genuine affection doesn't need to rush you into surrendering your boundaries.",
+    "word_start": 1097,
+    "word_end": 1109,
+    "start": 373.935,
+    "end": 378.175
+  },
+  {
+    "line": 154,
+    "text": "Now, let's talk about narcissistic traits.",
+    "word_start": 1109,
+    "word_end": 1115,
+    "start": 378.41498,
+    "end": 381.055
+  },
+  {
+    "line": 155,
+    "text": "You've probably heard people online describe almost every selfish, rude, or difficult person as a narcissist.",
+    "word_start": 1115,
+    "word_end": 1131,
+    "start": 381.215,
+    "end": 387.36
+  },
+  {
+    "line": 156,
+    "text": "But that's not how the term should be used.",
+    "word_start": 1131,
+    "word_end": 1140,
+    "start": 387.44,
+    "end": 389.36
+  },
+  {
+    "line": 157,
+    "text": "Someone can be selfish in a particular situation without having narcissistic personality disorder.",
+    "word_start": 1140,
+    "word_end": 1153,
+    "start": 389.52,
+    "end": 395.04
+  },
+  {
+    "line": 158,
+    "text": "Someone can struggle with empathy, become defensive, or crave attention without meeting the criteria for a clinical diagnosis.",
+    "word_start": 1153,
+    "word_end": 1171,
+    "start": 395.19998,
+    "end": 402.095
+  },
+  {
+    "line": 159,
+    "text": "Narcissistic personality disorder is a complex mental health condition that can only be assessed by a qualified professional.",
+    "word_start": 1171,
+    "word_end": 1189,
+    "start": 402.25497,
+    "end": 409.29498
+  },
+  {
+    "line": 160,
+    "text": "So rather than diagnosing someone from a few interactions...",
+    "word_start": 1189,
+    "word_end": 1198,
+    "start": 409.455,
+    "end": 412.25497
+  },
+  {
+    "line": 161,
+    "text": "focus on the behaviors you can actually observe.",
+    "word_start": 1198,
+    "word_end": 1206,
+    "start": 412.63998,
+    "end": 415.36002
+  },
+  {
+    "line": 162,
+    "text": "For example...",
+    "word_start": 1206,
+    "word_end": 1208,
+    "start": 415.44,
+    "end": 416.24
+  },
+  {
+    "line": 163,
+    "text": "Does this person consistently expect special treatment?",
+    "word_start": 1208,
+    "word_end": 1215,
+    "start": 416.4,
+    "end": 419.36002
+  },
+  {
+    "line": 164,
+    "text": "Do they struggle to acknowledge your needs when those needs conflict with theirs?",
+    "word_start": 1215,
+    "word_end": 1228,
+    "start": 419.44,
+    "end": 423.04
+  },
+  {
+    "line": 165,
+    "text": "Do they take credit for shared achievements but avoid responsibility when things go wrong?",
+    "word_start": 1228,
+    "word_end": 1242,
+    "start": 423.12,
+    "end": 427.12
+  },
+  {
+    "line": 166,
+    "text": "Do they respond to reasonable criticism with humiliation, blame, or retaliation?",
+    "word_start": 1242,
+    "word_end": 1253,
+    "start": 427.47498,
+    "end": 432.035
+  },
+  {
+    "line": 167,
+    "text": "And perhaps most importantly...",
+    "word_start": 1253,
+    "word_end": 1257,
+    "start": 432.275,
+    "end": 433.875
+  },
+  {
+    "line": 168,
+    "text": "can they recognize that other people have feelings, needs, and perspectives that matter just as much as their own?",
+    "word_start": 1257,
+    "word_end": 1276,
+    "start": 433.875,
+    "end": 439.07498
+  },
+  {
+    "line": 169,
+    "text": "One incident doesn't tell you everything about a person.",
+    "word_start": 1276,
+    "word_end": 1285,
+    "start": 439.235,
+    "end": 441.955
+  },
+  {
+    "line": 170,
+    "text": "Everyone can be selfish sometimes.",
+    "word_start": 1285,
+    "word_end": 1290,
+    "start": 442.4,
+    "end": 444.32
+  },
+  {
+    "line": 171,
+    "text": "Everyone can become defensive.",
+    "word_start": 1290,
+    "word_end": 1294,
+    "start": 444.56,
+    "end": 446.08002
+  },
+  {
+    "line": 172,
+    "text": "What matters is the pattern.",
+    "word_start": 1294,
+    "word_end": 1299,
+    "start": 446.24002,
+    "end": 447.84003
+  },
+  {
+    "line": 173,
+    "text": "And what happens when the pattern is brought to their attention.",
+    "word_start": 1299,
+    "word_end": 1310,
+    "start": 448.0,
+    "end": 450.64
+  },
+  {
+    "line": 174,
+    "text": "Can they reflect?",
+    "word_start": 1310,
+    "word_end": 1313,
+    "start": 450.72,
+    "end": 451.76
+  },
+  {
+    "line": 175,
+    "text": "Can they apologize without immediately blaming you?",
+    "word_start": 1313,
+    "word_end": 1320,
+    "start": 451.84,
+    "end": 454.32
+  },
+  {
+    "line": 176,
+    "text": "Can they make a genuine effort to change?",
+    "word_start": 1320,
+    "word_end": 1328,
+    "start": 454.4,
+    "end": 456.08002
+  },
+  {
+    "line": 177,
+    "text": "Or does every attempt to address the problem become another argument about why you're the real problem?",
+    "word_start": 1328,
+    "word_end": 1345,
+    "start": 456.525,
+    "end": 461.085
+  },
+  {
+    "line": 178,
+    "text": "You don't need to assign someone a psychological label before deciding that a behavior is unacceptable.",
+    "word_start": 1345,
+    "word_end": 1361,
+    "start": 461.245,
+    "end": 465.965
+  },
+  {
+    "line": 179,
+    "text": "You can recognize that a relationship is hurting you...",
+    "word_start": 1361,
+    "word_end": 1370,
+    "start": 466.205,
+    "end": 468.525
+  },
+  {
+    "line": 180,
+    "text": "without pretending to know exactly what's happening inside the other person's mind.",
+    "word_start": 1370,
+    "word_end": 1382,
+    "start": 468.525,
+    "end": 471.965
+  },
+  {
+    "line": 181,
+    "text": "Now here's where healthy boundaries become important.",
+    "word_start": 1382,
+    "word_end": 1389,
+    "start": 472.23,
+    "end": 474.63
+  },
+  {
+    "line": 182,
+    "text": "A boundary is not a secret trick for controlling another person.",
+    "word_start": 1389,
+    "word_end": 1400,
+    "start": 474.79,
+    "end": 477.75003
+  },
+  {
+    "line": 183,
+    "text": "It's not a way to punish someone for disappointing you.",
+    "word_start": 1400,
+    "word_end": 1410,
+    "start": 477.91,
+    "end": 480.31003
+  },
+  {
+    "line": 184,
+    "text": "And it's not a demand that everyone behave exactly as you prefer.",
+    "word_start": 1410,
+    "word_end": 1422,
+    "start": 480.47,
+    "end": 483.75003
+  },
+  {
+    "line": 185,
+    "text": "A healthy boundary explains what you are willing to accept...",
+    "word_start": 1422,
+    "word_end": 1432,
+    "start": 483.91,
+    "end": 486.39
+  },
+  {
+    "line": 186,
+    "text": "and what you will do to protect your own well-being if that boundary isn't respected.",
+    "word_start": 1432,
+    "word_end": 1447,
+    "start": 486.78497,
+    "end": 490.705
+  },
+  {
+    "line": 187,
+    "text": "For example...",
+    "word_start": 1447,
+    "word_end": 1449,
+    "start": 490.78497,
+    "end": 491.665
+  },
+  {
+    "line": 188,
+    "text": "You can say,",
+    "word_start": 1449,
+    "word_end": 1452,
+    "start": 491.745,
+    "end": 492.465
+  },
+  {
+    "line": 189,
+    "text": "“I'm willing to discuss this, but I'm not willing to be insulted. If we keep insulting each other, I'm going to end this conversation and return to it when we're calmer.”",
+    "word_start": 1452,
+    "word_end": 1483,
+    "start": 492.465,
+    "end": 500.78497
+  },
+  {
+    "line": 190,
+    "text": "Notice the difference.",
+    "word_start": 1483,
+    "word_end": 1486,
+    "start": 501.1,
+    "end": 502.22
+  },
+  {
+    "line": 191,
+    "text": "You're not saying...",
+    "word_start": 1486,
+    "word_end": 1489,
+    "start": 502.3,
+    "end": 503.26
+  },
+  {
+    "line": 192,
+    "text": "“You're not allowed to feel angry.”",
+    "word_start": 1489,
+    "word_end": 1495,
+    "start": 503.5,
+    "end": 505.26
+  },
+  {
+    "line": 193,
+    "text": "You're saying...",
+    "word_start": 1495,
+    "word_end": 1497,
+    "start": 505.42,
+    "end": 506.22
+  },
+  {
+    "line": 194,
+    "text": "“You can feel angry, but I'm not going to continue a conversation where I'm being insulted.”",
+    "word_start": 1497,
+    "word_end": 1513,
+    "start": 506.22,
+    "end": 510.62
+  },
+  {
+    "line": 195,
+    "text": "The other person still has their feelings.",
+    "word_start": 1513,
+    "word_end": 1520,
+    "start": 510.7,
+    "end": 512.62
+  },
+  {
+    "line": 196,
+    "text": "They still have their opinions.",
+    "word_start": 1520,
+    "word_end": 1525,
+    "start": 512.7,
+    "end": 513.9
+  },
+  {
+    "line": 197,
+    "text": "They still have the right to disagree.",
+    "word_start": 1525,
+    "word_end": 1532,
+    "start": 514.265,
+    "end": 516.025
+  },
+  {
+    "line": 198,
+    "text": "But you also have the right to decide what you will participate in.",
+    "word_start": 1532,
+    "word_end": 1545,
+    "start": 516.105,
+    "end": 518.985
+  },
+  {
+    "line": 199,
+    "text": "That's what makes a boundary different from control.",
+    "word_start": 1545,
+    "word_end": 1553,
+    "start": 518.985,
+    "end": 521.305
+  },
+  {
+    "line": 200,
+    "text": "Control tries to dictate another person's choices.",
+    "word_start": 1553,
+    "word_end": 1560,
+    "start": 521.465,
+    "end": 524.265
+  },
+  {
+    "line": 201,
+    "text": "A boundary clarifies your own.",
+    "word_start": 1560,
+    "word_end": 1565,
+    "start": 524.425,
+    "end": 525.945
+  },
+  {
+    "line": 202,
+    "text": "And sometimes...",
+    "word_start": 1565,
+    "word_end": 1567,
+    "start": 526.4,
+    "end": 527.36
+  },
+  {
+    "line": 203,
+    "text": "the hardest part isn't stating the boundary.",
+    "word_start": 1567,
+    "word_end": 1574,
+    "start": 527.36,
+    "end": 529.2
+  },
+  {
+    "line": 204,
+    "text": "It's following through.",
+    "word_start": 1574,
+    "word_end": 1577,
+    "start": 529.28,
+    "end": 530.4
+  },
+  {
+    "line": 205,
+    "text": "You might say that you won't continue an insulting conversation...",
+    "word_start": 1577,
+    "word_end": 1587,
+    "start": 530.48,
+    "end": 533.44
+  },
+  {
+    "line": 206,
+    "text": "then remain in it for another two hours because you're afraid of upsetting the other person.",
+    "word_start": 1587,
+    "word_end": 1603,
+    "start": 533.68,
+    "end": 537.60004
+  },
+  {
+    "line": 207,
+    "text": "You might say that you need time to think...",
+    "word_start": 1603,
+    "word_end": 1612,
+    "start": 537.76,
+    "end": 539.68
+  },
+  {
+    "line": 208,
+    "text": "then agree to something because they keep pressuring you.",
+    "word_start": 1612,
+    "word_end": 1621,
+    "start": 539.68,
+    "end": 542.08
+  },
+  {
+    "line": 209,
+    "text": "You might promise yourself that you won't accept a certain behavior again...",
+    "word_start": 1621,
+    "word_end": 1633,
+    "start": 542.34503,
+    "end": 545.705
+  },
+  {
+    "line": 210,
+    "text": "then ignore it because things feel good when the conflict disappears.",
+    "word_start": 1633,
+    "word_end": 1644,
+    "start": 545.78503,
+    "end": 548.905
+  },
+  {
+    "line": 211,
+    "text": "This doesn't mean you're weak.",
+    "word_start": 1644,
+    "word_end": 1649,
+    "start": 549.065,
+    "end": 550.425
+  },
+  {
+    "line": 212,
+    "text": "Boundaries can be difficult, especially when you care about someone or depend on them.",
+    "word_start": 1649,
+    "word_end": 1663,
+    "start": 550.425,
+    "end": 554.425
+  },
+  {
+    "line": 213,
+    "text": "But the more clearly you understand your own limits...",
+    "word_start": 1663,
+    "word_end": 1672,
+    "start": 554.64,
+    "end": 557.2
+  },
+  {
+    "line": 214,
+    "text": "the easier it becomes to make decisions based on your values rather than immediate pressure.",
+    "word_start": 1672,
+    "word_end": 1687,
+    "start": 557.2,
+    "end": 561.92004
+  },
+  {
+    "line": 215,
+    "text": "There's another important distinction.",
+    "word_start": 1687,
+    "word_end": 1691,
+    "start": 562.0,
+    "end": 563.68
+  },
+  {
+    "line": 216,
+    "text": "Healthy people can still disappoint you.",
+    "word_start": 1691,
+    "word_end": 1697,
+    "start": 563.76,
+    "end": 565.92004
+  },
+  {
+    "line": 217,
+    "text": "They can misunderstand you.",
+    "word_start": 1697,
+    "word_end": 1701,
+    "start": 565.92004,
+    "end": 567.44
+  },
+  {
+    "line": 218,
+    "text": "They can become defensive.",
+    "word_start": 1701,
+    "word_end": 1705,
+    "start": 567.44,
+    "end": 568.88
+  },
+  {
+    "line": 219,
+    "text": "They can make mistakes that hurt.",
+    "word_start": 1705,
+    "word_end": 1711,
+    "start": 568.96,
+    "end": 570.4
+  },
+  {
+    "line": 220,
+    "text": "A healthy relationship isn't one where nobody ever gets upset.",
+    "word_start": 1711,
+    "word_end": 1721,
+    "start": 570.77496,
+    "end": 574.135
+  },
+  {
+    "line": 221,
+    "text": "It's one where both people can work through those moments without one person consistently having to abandon themselves.",
+    "word_start": 1721,
+    "word_end": 1739,
+    "start": 574.135,
+    "end": 580.135
+  },
+  {
+    "line": 222,
+    "text": "Imagine telling a friend...",
+    "word_start": 1739,
+    "word_end": 1743,
+    "start": 580.375,
+    "end": 581.735
+  },
+  {
+    "line": 223,
+    "text": "“I can't help you with this today. I'm exhausted.”",
+    "word_start": 1743,
+    "word_end": 1752,
+    "start": 581.735,
+    "end": 584.135
+  },
+  {
+    "line": 224,
+    "text": "A healthy response might be disappointment.",
+    "word_start": 1752,
+    "word_end": 1758,
+    "start": 584.49,
+    "end": 586.73
+  },
+  {
+    "line": 225,
+    "text": "They might wish you were available.",
+    "word_start": 1758,
+    "word_end": 1764,
+    "start": 586.89,
+    "end": 588.49
+  },
+  {
+    "line": 226,
+    "text": "They might ask if you can help another day.",
+    "word_start": 1764,
+    "word_end": 1773,
+    "start": 588.57,
+    "end": 590.64996
+  },
+  {
+    "line": 227,
+    "text": "But they can still respect your answer.",
+    "word_start": 1773,
+    "word_end": 1780,
+    "start": 590.64996,
+    "end": 592.65
+  },
+  {
+    "line": 228,
+    "text": "An unhealthy response might be...",
+    "word_start": 1780,
+    "word_end": 1785,
+    "start": 592.81,
+    "end": 594.81
+  },
+  {
+    "line": 229,
+    "text": "“Wow. I guess I know how little I matter to you.”",
+    "word_start": 1785,
+    "word_end": 1796,
+    "start": 594.89,
+    "end": 597.29
+  },
+  {
+    "line": 230,
+    "text": "Or...",
+    "word_start": 1796,
+    "word_end": 1797,
+    "start": 597.685,
+    "end": 598.245
+  },
+  {
+    "line": 231,
+    "text": "“After everything I've done for you, this is how you treat me?”",
+    "word_start": 1797,
+    "word_end": 1809,
+    "start": 598.245,
+    "end": 601.765
+  },
+  {
+    "line": 232,
+    "text": "The issue isn't that they feel disappointed.",
+    "word_start": 1809,
+    "word_end": 1816,
+    "start": 601.92505,
+    "end": 604.48505
+  },
+  {
+    "line": 233,
+    "text": "They're allowed to feel disappointed.",
+    "word_start": 1816,
+    "word_end": 1821,
+    "start": 604.645,
+    "end": 606.565
+  },
+  {
+    "line": 234,
+    "text": "The issue is when their disappointment becomes a tool for making you feel guilty enough to surrender your decision.",
+    "word_start": 1821,
+    "word_end": 1840,
+    "start": 606.645,
+    "end": 612.48505
+  },
+  {
+    "line": 235,
+    "text": "And this can happen in friendships, romantic relationships, families, and workplaces.",
+    "word_start": 1840,
+    "word_end": 1851,
+    "start": 612.92004,
+    "end": 618.92004
+  },
+  {
+    "line": 236,
+    "text": "Sometimes it happens intentionally.",
+    "word_start": 1851,
+    "word_end": 1855,
+    "start": 619.16003,
+    "end": 621.08
+  },
+  {
+    "line": 237,
+    "text": "Sometimes people have learned unhealthy ways of communicating and repeat them without fully recognizing what they're doing.",
+    "word_start": 1855,
+    "word_end": 1872,
+    "start": 621.32,
+    "end": 627.4
+  },
+  {
+    "line": 238,
+    "text": "You don't always need to determine their intentions before responding to the behavior.",
+    "word_start": 1872,
+    "word_end": 1885,
+    "start": 627.815,
+    "end": 631.895
+  },
+  {
+    "line": 239,
+    "text": "You can acknowledge their feelings...",
+    "word_start": 1885,
+    "word_end": 1890,
+    "start": 631.975,
+    "end": 633.65497
+  },
+  {
+    "line": 240,
+    "text": "without accepting responsibility for every feeling they experience.",
+    "word_start": 1890,
+    "word_end": 1898,
+    "start": 633.65497,
+    "end": 637.175
+  },
+  {
+    "line": 241,
+    "text": "You can care about someone...",
+    "word_start": 1898,
+    "word_end": 1903,
+    "start": 637.415,
+    "end": 638.935
+  },
+  {
+    "line": 242,
+    "text": "without agreeing to everything they ask.",
+    "word_start": 1903,
+    "word_end": 1909,
+    "start": 638.935,
+    "end": 640.77496
+  },
+  {
+    "line": 243,
+    "text": "And you can love someone...",
+    "word_start": 1909,
+    "word_end": 1914,
+    "start": 641.09,
+    "end": 642.53
+  },
+  {
+    "line": 244,
+    "text": "while recognizing that a particular relationship dynamic is not healthy for you.",
+    "word_start": 1914,
+    "word_end": 1926,
+    "start": 642.53,
+    "end": 646.85004
+  },
+  {
+    "line": 245,
+    "text": "So how do you recognize the difference between an ordinary relationship problem and a more serious pattern of manipulation?",
+    "word_start": 1926,
+    "word_end": 1945,
+    "start": 647.01,
+    "end": 652.77
+  },
+  {
+    "line": 246,
+    "text": "Start by asking yourself a few questions.",
+    "word_start": 1945,
+    "word_end": 1952,
+    "start": 653.10504,
+    "end": 655.265
+  },
+  {
+    "line": 247,
+    "text": "First...",
+    "word_start": 1952,
+    "word_end": 1953,
+    "start": 655.505,
+    "end": 656.145
+  },
+  {
+    "line": 248,
+    "text": "Can you say no without being repeatedly punished, threatened, or pressured into changing your answer?",
+    "word_start": 1953,
+    "word_end": 1968,
+    "start": 656.30505,
+    "end": 661.18506
+  },
+  {
+    "line": 249,
+    "text": "Second...",
+    "word_start": 1968,
+    "word_end": 1969,
+    "start": 661.34503,
+    "end": 662.065
+  },
+  {
+    "line": 250,
+    "text": "Can you express a concern without the conversation always turning into an attack on your character?",
+    "word_start": 1969,
+    "word_end": 1985,
+    "start": 662.065,
+    "end": 666.465
+  },
+  {
+    "line": 251,
+    "text": "Third...",
+    "word_start": 1985,
+    "word_end": 1986,
+    "start": 666.625,
+    "end": 666.945
+  },
+  {
+    "line": 252,
+    "text": "When someone hurts you, can they acknowledge the impact of their behavior, even if they didn't intend to hurt you?",
+    "word_start": 1986,
+    "word_end": 2006,
+    "start": 667.28,
+    "end": 672.80005
+  },
+  {
+    "line": 253,
+    "text": "Fourth...",
+    "word_start": 2006,
+    "word_end": 2007,
+    "start": 672.96,
+    "end": 673.60004
+  },
+  {
+    "line": 254,
+    "text": "Do their apologies lead to meaningful changes?",
+    "word_start": 2007,
+    "word_end": 2014,
+    "start": 673.60004,
+    "end": 676.0
+  },
+  {
+    "line": 255,
+    "text": "Or do the same actions keep happening, followed by the same explanations and promises?",
+    "word_start": 2014,
+    "word_end": 2028,
+    "start": 676.0,
+    "end": 680.56
+  },
+  {
+    "line": 256,
+    "text": "And finally...",
+    "word_start": 2028,
+    "word_end": 2030,
+    "start": 680.72003,
+    "end": 681.36
+  },
+  {
+    "line": 257,
+    "text": "Do you feel free to have your own opinions, friendships, interests, and decisions?",
+    "word_start": 2030,
+    "word_end": 2043,
+    "start": 681.645,
+    "end": 686.125
+  },
+  {
+    "line": 258,
+    "text": "Or have you gradually started making your world smaller...",
+    "word_start": 2043,
+    "word_end": 2052,
+    "start": 686.28503,
+    "end": 689.085
+  },
+  {
+    "line": 259,
+    "text": "because you're afraid of how someone will react?",
+    "word_start": 2052,
+    "word_end": 2060,
+    "start": 689.16504,
+    "end": 691.565
+  },
+  {
+    "line": 260,
+    "text": "No single answer proves that someone is manipulating you.",
+    "word_start": 2060,
+    "word_end": 2069,
+    "start": 691.805,
+    "end": 694.685
+  },
+  {
+    "line": 261,
+    "text": "But repeated patterns can tell you something important about the relationship.",
+    "word_start": 2069,
+    "word_end": 2080,
+    "start": 694.97003,
+    "end": 698.57
+  },
+  {
+    "line": 262,
+    "text": "Especially when those patterns leave you feeling afraid, isolated, constantly guilty, or unable to trust your own judgment.",
+    "word_start": 2080,
+    "word_end": 2098,
+    "start": 698.73004,
+    "end": 705.05
+  },
+  {
+    "line": 263,
+    "text": "And if you recognize yourself in these examples...",
+    "word_start": 2098,
+    "word_end": 2106,
+    "start": 705.05,
+    "end": 707.29004
+  },
+  {
+    "line": 264,
+    "text": "please don't immediately blame yourself for not noticing sooner.",
+    "word_start": 2106,
+    "word_end": 2115,
+    "start": 707.45,
+    "end": 710.49
+  },
+  {
+    "line": 265,
+    "text": "Manipulation isn't always obvious.",
+    "word_start": 2115,
+    "word_end": 2119,
+    "start": 710.765,
+    "end": 712.765
+  },
+  {
+    "line": 266,
+    "text": "It can exist alongside genuine affection.",
+    "word_start": 2119,
+    "word_end": 2125,
+    "start": 712.925,
+    "end": 715.165
+  },
+  {
+    "line": 267,
+    "text": "Someone can be kind on Monday...",
+    "word_start": 2125,
+    "word_end": 2131,
+    "start": 715.245,
+    "end": 716.525
+  },
+  {
+    "line": 268,
+    "text": "and dismissive on Tuesday.",
+    "word_start": 2131,
+    "word_end": 2135,
+    "start": 716.525,
+    "end": 718.125
+  },
+  {
+    "line": 269,
+    "text": "They can apologize sincerely in one moment...",
+    "word_start": 2135,
+    "word_end": 2142,
+    "start": 718.285,
+    "end": 720.285
+  },
+  {
+    "line": 270,
+    "text": "and repeat the same behavior later.",
+    "word_start": 2142,
+    "word_end": 2148,
+    "start": 720.285,
+    "end": 722.205
+  },
+  {
+    "line": 271,
+    "text": "You may remember the good parts of the relationship and struggle to reconcile them with the painful parts.",
+    "word_start": 2148,
+    "word_end": 2166,
+    "start": 722.205,
+    "end": 726.445
+  },
+  {
+    "line": 272,
+    "text": "That confusion doesn't mean you're foolish.",
+    "word_start": 2166,
+    "word_end": 2172,
+    "start": 726.81995,
+    "end": 728.98
+  },
+  {
+    "line": 273,
+    "text": "It means you're trying to understand a complicated situation.",
+    "word_start": 2172,
+    "word_end": 2181,
+    "start": 729.06,
+    "end": 731.77997
+  },
+  {
+    "line": 274,
+    "text": "You also don't have to confront someone immediately to prove that you're strong.",
+    "word_start": 2181,
+    "word_end": 2194,
+    "start": 731.94,
+    "end": 735.3
+  },
+  {
+    "line": 275,
+    "text": "If you're worried about how they'll react, take time to think.",
+    "word_start": 2194,
+    "word_end": 2205,
+    "start": 735.45996,
+    "end": 738.42
+  },
+  {
+    "line": 276,
+    "text": "Talk to someone you trust.",
+    "word_start": 2205,
+    "word_end": 2210,
+    "start": 738.42,
+    "end": 739.86
+  },
+  {
+    "line": 277,
+    "text": "Write down what has been happening.",
+    "word_start": 2210,
+    "word_end": 2216,
+    "start": 739.86,
+    "end": 740.98
+  },
+  {
+    "line": 278,
+    "text": "If you feel controlled, threatened, or unsafe, prioritize your safety and seek appropriate support before setting boundaries that might increase the risk.",
+    "word_start": 2216,
+    "word_end": 2238,
+    "start": 741.285,
+    "end": 749.125
+  },
+  {
+    "line": 279,
+    "text": "And remember...",
+    "word_start": 2238,
+    "word_end": 2240,
+    "start": 749.20496,
+    "end": 749.845
+  },
+  {
+    "line": 280,
+    "text": "you don't need to win every argument.",
+    "word_start": 2240,
+    "word_end": 2247,
+    "start": 749.845,
+    "end": 751.52496
+  },
+  {
+    "line": 281,
+    "text": "You don't need to force someone to admit that they manipulated you.",
+    "word_start": 2247,
+    "word_end": 2259,
+    "start": 751.52496,
+    "end": 754.08496
+  },
+  {
+    "line": 282,
+    "text": "Sometimes, the most useful question isn't...",
+    "word_start": 2259,
+    "word_end": 2265,
+    "start": 754.42,
+    "end": 756.66003
+  },
+  {
+    "line": 283,
+    "text": "“How do I make this person understand?”",
+    "word_start": 2265,
+    "word_end": 2272,
+    "start": 756.66003,
+    "end": 758.5
+  },
+  {
+    "line": 284,
+    "text": "It's...",
+    "word_start": 2272,
+    "word_end": 2273,
+    "start": 758.5,
+    "end": 759.06
+  },
+  {
+    "line": 285,
+    "text": "“What do I need to do to protect my well-being if this behavior continues?”",
+    "word_start": 2273,
+    "word_end": 2287,
+    "start": 759.06,
+    "end": 762.5
+  },
+  {
+    "line": 286,
+    "text": "Because the purpose of understanding manipulation isn't to learn how to manipulate people back.",
+    "word_start": 2287,
+    "word_end": 2301,
+    "start": 762.66003,
+    "end": 766.66003
+  },
+  {
+    "line": 287,
+    "text": "It's not to start analyzing every message...",
+    "word_start": 2301,
+    "word_end": 2308,
+    "start": 766.845,
+    "end": 769.08496
+  },
+  {
+    "line": 288,
+    "text": "or searching for hidden meanings in every disagreement.",
+    "word_start": 2308,
+    "word_end": 2316,
+    "start": 769.165,
+    "end": 772.045
+  },
+  {
+    "line": 289,
+    "text": "And it's certainly not to assume that everyone who hurts your feelings is secretly trying to control you.",
+    "word_start": 2316,
+    "word_end": 2334,
+    "start": 772.125,
+    "end": 777.005
+  },
+  {
+    "line": 290,
+    "text": "The purpose is to recognize the difference between a relationship where both people have room to be human...",
+    "word_start": 2334,
+    "word_end": 2352,
+    "start": 777.165,
+    "end": 781.96497
+  },
+  {
+    "line": 291,
+    "text": "and one where one person's needs, feelings, or control consistently take priority over the other's.",
+    "word_start": 2352,
+    "word_end": 2367,
+    "start": 782.21,
+    "end": 787.73004
+  },
+  {
+    "line": 292,
+    "text": "Healthy boundaries don't eliminate conflict.",
+    "word_start": 2367,
+    "word_end": 2372,
+    "start": 787.81,
+    "end": 790.05
+  },
+  {
+    "line": 293,
+    "text": "They make room for honesty.",
+    "word_start": 2372,
+    "word_end": 2377,
+    "start": 790.13,
+    "end": 791.57
+  },
+  {
+    "line": 294,
+    "text": "Healthy affection doesn't require you to abandon your independence.",
+    "word_start": 2377,
+    "word_end": 2386,
+    "start": 791.65,
+    "end": 794.37
+  },
+  {
+    "line": 295,
+    "text": "It allows closeness without ownership.",
+    "word_start": 2386,
+    "word_end": 2391,
+    "start": 794.685,
+    "end": 796.84503
+  },
+  {
+    "line": 296,
+    "text": "And healthy relationships don't demand that you prove your loyalty by ignoring your own discomfort.",
+    "word_start": 2391,
+    "word_end": 2406,
+    "start": 796.925,
+    "end": 801.485
+  },
+  {
+    "line": 297,
+    "text": "They allow both people to grow...",
+    "word_start": 2406,
+    "word_end": 2412,
+    "start": 801.565,
+    "end": 802.845
+  },
+  {
+    "line": 298,
+    "text": "without one person having to become smaller for the other to feel powerful.",
+    "word_start": 2412,
+    "word_end": 2425,
+    "start": 802.845,
+    "end": 806.925
+  },
+  {
+    "line": 299,
+    "text": "So the next time someone makes you question your feelings...",
+    "word_start": 2425,
+    "word_end": 2435,
+    "start": 807.165,
+    "end": 809.485
+  },
+  {
+    "line": 300,
+    "text": "pause before assuming that you're the problem.",
+    "word_start": 2435,
+    "word_end": 2442,
+    "start": 809.7,
+    "end": 811.94
+  },
+  {
+    "line": 301,
+    "text": "Look at the pattern.",
+    "word_start": 2442,
+    "word_end": 2446,
+    "start": 812.10004,
+    "end": 813.14
+  },
+  {
+    "line": 302,
+    "text": "Look at the willingness to take responsibility.",
+    "word_start": 2446,
+    "word_end": 2453,
+    "start": 813.22003,
+    "end": 815.22003
+  },
+  {
+    "line": 303,
+    "text": "Look at what happens when you express a reasonable boundary.",
+    "word_start": 2453,
+    "word_end": 2463,
+    "start": 815.46,
+    "end": 818.10004
+  },
+  {
+    "line": 304,
+    "text": "And remember...",
+    "word_start": 2463,
+    "word_end": 2465,
+    "start": 818.18,
+    "end": 819.06
+  },
+  {
+    "line": 305,
+    "text": "you can be compassionate without being endlessly available.",
+    "word_start": 2465,
+    "word_end": 2473,
+    "start": 819.14,
+    "end": 821.54004
+  },
+  {
+    "line": 306,
+    "text": "You can forgive someone without pretending nothing happened.",
+    "word_start": 2473,
+    "word_end": 2481,
+    "start": 821.865,
+    "end": 824.665
+  },
+  {
+    "line": 307,
+    "text": "You can understand why someone behaves a certain way...",
+    "word_start": 2481,
+    "word_end": 2490,
+    "start": 824.745,
+    "end": 827.46497
+  },
+  {
+    "line": 308,
+    "text": "without accepting that behavior in your life.",
+    "word_start": 2490,
+    "word_end": 2497,
+    "start": 827.46497,
+    "end": 829.705
+  },
+  {
+    "line": 309,
+    "text": "And you can care deeply about another person...",
+    "word_start": 2497,
+    "word_end": 2505,
+    "start": 829.785,
+    "end": 831.865
+  },
+  {
+    "line": 310,
+    "text": "without giving them unlimited access to your time, your choices, or your sense of self.",
+    "word_start": 2505,
+    "word_end": 2520,
+    "start": 831.945,
+    "end": 836.185
+  },
+  {
+    "line": 311,
+    "text": "Because a healthy relationship shouldn't require you to stop trusting yourself...",
+    "word_start": 2520,
+    "word_end": 2531,
+    "start": 836.5,
+    "end": 840.26
+  },
+  {
+    "line": 312,
+    "text": "in order to keep someone else comfortable.",
+    "word_start": 2531,
+    "word_end": 2538,
+    "start": 840.26,
+    "end": 842.34
+  },
+  {
+    "line": 313,
+    "text": "You deserve room to speak.",
+    "word_start": 2538,
+    "word_end": 2543,
+    "start": 842.42004,
+    "end": 843.94006
+  },
+  {
+    "line": 314,
+    "text": "Room to disagree.",
+    "word_start": 2543,
+    "word_end": 2546,
+    "start": 844.02,
+    "end": 845.22003
+  },
+  {
+    "line": 315,
+    "text": "Room to say no.",
+    "word_start": 2546,
+    "word_end": 2550,
+    "start": 845.30005,
+    "end": 846.42004
+  },
+  {
+    "line": 316,
+    "text": "And room to be yourself...",
+    "word_start": 2550,
+    "word_end": 2555,
+    "start": 846.5,
+    "end": 847.86005
+  },
+  {
+    "line": 317,
+    "text": "without constantly fearing what will happen when you are.",
+    "word_start": 2555,
+    "word_end": 2564,
+    "start": 847.94,
+    "end": 850.26
+  },
+  {
+    "line": 318,
+    "text": "Think deeper.",
+    "word_start": 2564,
+    "word_end": 2566,
+    "start": 850.54504,
+    "end": 851.585
+  },
+  {
+    "line": 319,
+    "text": "Live better.",
+    "word_start": 2566,
+    "word_end": 2568,
+    "start": 851.74506,
+    "end": 852.54504
+  },
+  {
+    "line": 320,
+    "text": "Become more.",
+    "word_start": 2568,
+    "word_end": 2570,
+    "start": 852.54504,
+    "end": 853.42505
+  },
+  {
+    "line": 321,
+    "text": "This is Why We Become.",
+    "word_start": 2570,
+    "word_end": 2575,
+    "start": 853.50507,
+    "end": 854.86505
+  }
+]

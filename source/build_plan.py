@@ -39,7 +39,7 @@ rows='''1|S01_P01|The apology trap|chain|conversation=Conversation;apologizing=A
 85|S06_P06|Doubting your own reality|memory|question their behavior=You question behavior;wrong with your ability=You are made to doubt yourself
 87|S06_P07|Silence replaces certainty|focus|keeping quiet=Speaking less;stop trusting=Trusting yourself less
 89|S06_P08|Even when you were there|chain|asking them=Their version;you were there=Your own experience
-91|S07_P01|The important distinction|contrast|disagrees=Different memory;repeated pattern=Repeated undermining
+91|S07_P01|The important distinction|contrast|important distinction=The pattern matters;disagrees=Different memory
 93|S07_P07|Repeated, not isolated|stack|denying=Denying;distorting=Distorting;undermining=Undermining
 94|S07_P02|Step back and check|focus|don't assume=Do not assume;broader pattern=Look at the wider pattern
 97|S07_P03|Document when safe|evidence|appropriate and safe=Only when appropriate and safe;keep track=Record important agreements
@@ -89,8 +89,7 @@ rows='''1|S01_P01|The apology trap|chain|conversation=Conversation;apologizing=A
 181|S14_P01|What a boundary means|focus|healthy boundaries=Your limits matter
 182|S14_P02|A boundary is not control|stack|controlling=Not control;punish=Not punishment;demand=Not total compliance
 185|S14_P04|Name what you will accept|boundary|willing to accept=What I will accept;what you will do=What I will do
-187|S14_P05|A practical example|quote|willing to discuss=I am willing to discuss this;not willing=Not willing to be insulted
-189|S14_P08|Pause, then return calmer|boundary|end this conversation=End this conversation;return to it=Return when calmer
+187|S14_P05|A boundary in practice|boundary|willing to discuss=Discuss without insults;end this conversation=Pause the conversation;return to it=Return when calmer
 190|S15_P01|Feelings are still allowed|contrast|not allowed=Not banning feelings;feel angry=Anger is allowed
 194|S15_P02|You choose participation|boundary|not going to continue=I will not continue insults
 195|S15_P03|They keep their perspective|stack|feelings=Their feelings;opinions=Their opinions;disagree=Their right to disagree
@@ -101,9 +100,9 @@ rows='''1|S01_P01|The apology trap|chain|conversation=Conversation;apologizing=A
 205|S16_P02|A limit without an exit|boundary|won't continue=I will not continue;remain=But you stay
 207|S16_P03|Time to think|quote|time to think=I need time;pressuring=Repeated pressure
 209|S16_P06|Relief can hide the pattern|focus|won't accept=A limit you intended;conflict disappears=Relief is not repair
-211|S16_P07|Difficulty is not weakness|focus|not=Not weakness;care about=Care and dependence can complicate limits
-213|S16_P08|Know your own limits|focus|limits=Your limits;values=Your values
-214|S16_P09|Choose values over pressure|paths|decisions=Your decisions;immediate pressure=Not immediate pressure
+211|S16_P07|Difficulty is not weakness|focus|doesn't mean=Not weakness;care about=Care can complicate limits
+213|S16_P08|Know your own limits|focus|limits=Your limits
+214|S16_P09|Choose values over pressure|paths|values=Your values;immediate pressure=Not immediate pressure
 215|S17_P01|Healthy does not mean perfect|stack|disappoint=Disappointment;misunderstand=Misunderstanding;mistakes=Mistakes
 220|S17_P02|Repair without self-abandonment|contrast|nobody ever gets upset=Not conflict-free;abandon themselves=Not self-abandonment
 222|S17_P03|I cannot help today|quote|can't help=I cannot help today;exhausted=I am exhausted
@@ -133,8 +132,7 @@ rows='''1|S01_P01|The apology trap|chain|conversation=Conversation;apologizing=A
 269|S20_P03|An apology can coexist with recurrence|contrast|apologize sincerely=A sincere apology;repeat=Repeated behavior
 271|S20_P03|Confusion is understandable|memory|good parts=The good parts;painful parts=The painful parts;foolish=Confusion is not foolishness
 274|S20_P04|You do not have to confront now|boundary|confront=No immediate confrontation required;take time=Take time to think
-276|S20_P05|Talk to someone you trust|evidence|someone you trust=Trusted support
-277|S20_P06|Write down what is happening|evidence|Write down=Document the pattern
+276|S20_P05|Support and documentation|evidence|someone you trust=Trusted support;Write down=Document when safe
 278|S20_P07|Safety comes first|focus|unsafe=If you feel unsafe;prioritize your safety=Prioritize safety;support=Seek appropriate support
 279|S21_P02|You do not need to win|focus|win every argument=No need to win every argument;force someone=No forced confession required
 282|S21_P02|Ask a more useful question|quote|make this person understand=How do I make them understand?
@@ -193,8 +191,12 @@ for s in scenes:review+=f"| {s['id']:03d} | {s['art']} | {s['start']:.3f} | {s['
 def ass_time(t):
  cs=round(t*100);return f'{cs//360000}:{cs//6000%60:02d}:{cs//100%60:02d}.{cs%100:02d}'
 head='''[Script Info]\nScriptType: v4.00+\nPlayResX: 1920\nPlayResY: 1080\nWrapStyle: 2\nScaledBorderAndShadow: yes\n\n[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\nStyle: Default,Montserrat ExtraBold,56,&H00FFFFFF,&H00FFFFFF,&H0016150F,&H80000000,-1,0,0,0,100,100,0,0,1,4,1.3,2,130,130,84,1\n\n[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n'''
+from PIL import ImageFont
+caption_font=ImageFont.truetype(str(R/'fonts/Montserrat-ExtraBold.ttf'),56)
 groups=[];cur=[]
 for i,w in enumerate(words):
+ if cur and caption_font.getlength(' '.join(x['text'] for x in cur+[w]))>1540:
+  groups.append(cur);cur=[]
  cur.append(w)
  endmark=w['text'].endswith(('.', '?','!','.”','?”'))
  if len(cur)>=6 or (len(cur)>=3 and endmark) or i==len(words)-1:groups.append(cur);cur=[]

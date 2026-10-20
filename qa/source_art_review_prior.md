@@ -1,0 +1,26 @@
+# Historical source-art notes — current validation pending
+
+- S01: readable emotional poses; reserve subtitle lane in final composition.
+- S02: omit P01 pseudo-writing; remaining panels usable.
+- S03: remove outside header and each frame border using reviewed coordinates.
+- S04: blank bubbles and concern-deflection contrast usable.
+- S05: omit P05 wrong clock; draw exact six-o’clock example in code.
+- S06: reviewed framed-panel geometry; omit P04 tiny baked text.
+- S07: omit P09 generated lettering; evidence and acknowledgement panels usable.
+- S08: reviewed framed-panel geometry; character identity retained; secondary designs accepted.
+- S09: gift/debt metaphor and tension usable; ribbon stays connected in scene illustration.
+- S10: omit P02 clipped exiting person; other poses usable.
+- S11: ordinary-human, professional-assessment and blank-label imagery usable.
+- S12: concrete behavioral examples, shared-work and responsibility usable.
+- S13: accountability/apology/change/recurrence variants usable.
+- S14: calm limit, leave and return sequence usable.
+- S15: emotion/choice/autonomy contrast usable.
+- S16: omit P04 crowding scribbles; compassion and follow-through alternatives usable.
+- S17: disappointment/respect versus guilt contrast usable.
+- S18: friendship/romance/family/workplace examples usable.
+- S19: omit P09 unsupported wave plots; five questions use code labels.
+- S20: trusted support and safety imagery usable.
+- S21: omit P01 spiked prop; use remaining grounded/autonomy imagery.
+- K1: all nine full-body poses usable; pose swaps only, not a joint rig.
+- K2: nine distinct props usable; heart silhouettes differ, use crossfade rather than exact morph.
+- K3: six materials usable; bottom row empty, ignored; no alpha assumed.

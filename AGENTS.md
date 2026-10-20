@@ -7,6 +7,6 @@
 - Checkpoint every completed narration chunk. Save lossless processed audio as FLAC; WAV files are reproducible intermediates and are not backed up. Run `bash source/restore_audio.sh` to reconstruct narration WAV.
 - Never commit .env files, credentials, private workspace exports or raw session logs.
 - Preserve the existing private repository visibility. Do not trigger full video rendering or publication from a push.
-- Full MP4 rendering was stopped by the user. Do not restart it without a fresh request.
+- The user explicitly authorized the full MP4 build. Render only from a verified checkpoint; keep one active render per target. No Shorts or thumbnail are requested.
 - Recovered source is not final validated source. Check dependencies, timing, captions, typography, alpha mattes and actual motion before marking QA passed. Historical review notes are not a new inspection.
 - Check `audio/status.json` and existing jobs before retrying synthesis. Do not duplicate an in-flight request.

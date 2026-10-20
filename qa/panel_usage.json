@@ -1,0 +1,1424 @@
+[
+  {
+    "panel": "S01_P01",
+    "scenes": [
+      0
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S01_P02",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S01_P03",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S01_P04",
+    "scenes": [
+      1
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S01_P05",
+    "scenes": [
+      2
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S01_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S01_P07",
+    "scenes": [
+      3
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S01_P08",
+    "scenes": [
+      4
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S01_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S02_P01",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Generated pseudo-writing in memory cloud; clearer alternate available."
+  },
+  {
+    "panel": "S02_P02",
+    "scenes": [
+      5
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S02_P03",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S02_P04",
+    "scenes": [
+      6
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S02_P05",
+    "scenes": [
+      7
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S02_P06",
+    "scenes": [
+      8
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S02_P07",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S02_P08",
+    "scenes": [
+      9
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S02_P09",
+    "scenes": [
+      10
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S03_P01",
+    "scenes": [
+      11
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S03_P02",
+    "scenes": [
+      12,
+      14
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S03_P03",
+    "scenes": [
+      15
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S03_P04",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S03_P05",
+    "scenes": [
+      16
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S03_P06",
+    "scenes": [
+      17
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S03_P07",
+    "scenes": [
+      18
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S03_P08",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S03_P09",
+    "scenes": [
+      13
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S04_P01",
+    "scenes": [
+      19
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S04_P02",
+    "scenes": [
+      20
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S04_P03",
+    "scenes": [
+      21
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S04_P04",
+    "scenes": [
+      23
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S04_P05",
+    "scenes": [
+      22
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S04_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S04_P07",
+    "scenes": [
+      24
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S04_P08",
+    "scenes": [
+      25
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S04_P09",
+    "scenes": [
+      26
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S05_P01",
+    "scenes": [
+      27
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S05_P02",
+    "scenes": [
+      28
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S05_P03",
+    "scenes": [
+      29
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S05_P04",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S05_P05",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Baked clock shows a different time from the six-o\u2019clock example."
+  },
+  {
+    "panel": "S05_P06",
+    "scenes": [
+      30
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S05_P07",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S05_P08",
+    "scenes": [
+      31
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S05_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S06_P01",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S06_P02",
+    "scenes": [
+      32
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S06_P03",
+    "scenes": [
+      33
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S06_P04",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Tiny baked wording; repeat pattern is explained with code-drawn nodes."
+  },
+  {
+    "panel": "S06_P05",
+    "scenes": [
+      34
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S06_P06",
+    "scenes": [
+      35
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S06_P07",
+    "scenes": [
+      36
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S06_P08",
+    "scenes": [
+      37
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S06_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S07_P01",
+    "scenes": [
+      38,
+      143
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S07_P02",
+    "scenes": [
+      40
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S07_P03",
+    "scenes": [
+      41
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S07_P04",
+    "scenes": [
+      42
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S07_P05",
+    "scenes": [
+      43
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S07_P06",
+    "scenes": [
+      44
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S07_P07",
+    "scenes": [
+      39
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S07_P08",
+    "scenes": [
+      45
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S07_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Generated board lettering; alternate evidence panel selected."
+  },
+  {
+    "panel": "S08_P01",
+    "scenes": [
+      46
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S08_P02",
+    "scenes": [
+      47
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S08_P03",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S08_P04",
+    "scenes": [
+      49
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S08_P05",
+    "scenes": [
+      48
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S08_P06",
+    "scenes": [
+      50
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S08_P07",
+    "scenes": [
+      51
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S08_P08",
+    "scenes": [
+      52
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S08_P09",
+    "scenes": [
+      53
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S09_P01",
+    "scenes": [
+      54
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S09_P02",
+    "scenes": [
+      55
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S09_P03",
+    "scenes": [
+      56
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S09_P04",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S09_P05",
+    "scenes": [
+      57
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S09_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S09_P07",
+    "scenes": [
+      58
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S09_P08",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S09_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S10_P01",
+    "scenes": [
+      59
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S10_P02",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Secondary figure clipped by source-panel edge."
+  },
+  {
+    "panel": "S10_P03",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S10_P04",
+    "scenes": [
+      60
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S10_P05",
+    "scenes": [
+      61
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S10_P06",
+    "scenes": [
+      63
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S10_P07",
+    "scenes": [
+      62
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S10_P08",
+    "scenes": [
+      64
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S10_P09",
+    "scenes": [
+      65,
+      66
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S11_P01",
+    "scenes": [
+      67
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S11_P02",
+    "scenes": [
+      68
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S11_P03",
+    "scenes": [
+      69
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S11_P04",
+    "scenes": [
+      70
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S11_P05",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S11_P06",
+    "scenes": [
+      71
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S11_P07",
+    "scenes": [
+      72
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S11_P08",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S11_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S12_P01",
+    "scenes": [
+      73
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S12_P02",
+    "scenes": [
+      74
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S12_P03",
+    "scenes": [
+      75
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S12_P04",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S12_P05",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S12_P06",
+    "scenes": [
+      76
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S12_P07",
+    "scenes": [
+      77
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S12_P08",
+    "scenes": [
+      78
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S12_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S13_P01",
+    "scenes": [
+      79
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S13_P02",
+    "scenes": [
+      80
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S13_P03",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S13_P04",
+    "scenes": [
+      81
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S13_P05",
+    "scenes": [
+      82
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S13_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S13_P07",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S13_P08",
+    "scenes": [
+      84
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S13_P09",
+    "scenes": [
+      83
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S14_P01",
+    "scenes": [
+      85
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S14_P02",
+    "scenes": [
+      86
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S14_P03",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S14_P04",
+    "scenes": [
+      87
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S14_P05",
+    "scenes": [
+      88
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S14_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S14_P07",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S14_P08",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S14_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S15_P01",
+    "scenes": [
+      89
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S15_P02",
+    "scenes": [
+      90
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S15_P03",
+    "scenes": [
+      91
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S15_P04",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S15_P05",
+    "scenes": [
+      92
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S15_P06",
+    "scenes": [
+      93
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S15_P07",
+    "scenes": [
+      94
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S15_P08",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S15_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S16_P01",
+    "scenes": [
+      95
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S16_P02",
+    "scenes": [
+      96
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S16_P03",
+    "scenes": [
+      97
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S16_P04",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Dense scribble crowding; alternate pressure panel is clearer."
+  },
+  {
+    "panel": "S16_P05",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S16_P06",
+    "scenes": [
+      98
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S16_P07",
+    "scenes": [
+      99
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S16_P08",
+    "scenes": [
+      100
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S16_P09",
+    "scenes": [
+      101
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S17_P01",
+    "scenes": [
+      102
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S17_P02",
+    "scenes": [
+      103
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S17_P03",
+    "scenes": [
+      104
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S17_P04",
+    "scenes": [
+      105
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S17_P05",
+    "scenes": [
+      106
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S17_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S17_P07",
+    "scenes": [
+      107
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S17_P08",
+    "scenes": [
+      108
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S17_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S18_P01",
+    "scenes": [
+      109
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S18_P02",
+    "scenes": [
+      110
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S18_P03",
+    "scenes": [
+      111
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S18_P04",
+    "scenes": [
+      115
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S18_P05",
+    "scenes": [
+      116
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S18_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S18_P07",
+    "scenes": [
+      112
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S18_P08",
+    "scenes": [
+      113
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S18_P09",
+    "scenes": [
+      114
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S19_P01",
+    "scenes": [
+      117,
+      124
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S19_P02",
+    "scenes": [
+      118
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S19_P03",
+    "scenes": [
+      119
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S19_P04",
+    "scenes": [
+      120
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S19_P05",
+    "scenes": [
+      121
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S19_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S19_P07",
+    "scenes": [
+      122
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S19_P08",
+    "scenes": [
+      123,
+      125
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S19_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Unspecified plotted curves risk implying unsupported measurements."
+  },
+  {
+    "panel": "S20_P01",
+    "scenes": [
+      126
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S20_P02",
+    "scenes": [
+      127
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S20_P03",
+    "scenes": [
+      128,
+      129
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S20_P04",
+    "scenes": [
+      130
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S20_P05",
+    "scenes": [
+      131
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S20_P06",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S20_P07",
+    "scenes": [
+      132
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S20_P08",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S20_P09",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Alternate source panel not selected for the narration-timed explanatory sequence."
+  },
+  {
+    "panel": "S21_P01",
+    "scenes": [],
+    "disposition": "intentionally omitted",
+    "reason": "Spiked object is an unnecessarily aggressive metaphor."
+  },
+  {
+    "panel": "S21_P02",
+    "scenes": [
+      133,
+      134,
+      146
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S21_P03",
+    "scenes": [
+      136,
+      138
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S21_P04",
+    "scenes": [
+      140,
+      147
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S21_P05",
+    "scenes": [
+      141
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S21_P06",
+    "scenes": [
+      135,
+      139,
+      144
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S21_P07",
+    "scenes": [
+      137,
+      145
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S21_P08",
+    "scenes": [
+      149
+    ],
+    "disposition": "used",
+    "reason": null
+  },
+  {
+    "panel": "S21_P09",
+    "scenes": [
+      142,
+      148,
+      150,
+      151
+    ],
+    "disposition": "used",
+    "reason": null
+  }
+]

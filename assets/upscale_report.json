@@ -1,0 +1,6179 @@
+{
+  "S01_P01": {
+    "source_sheet": "S01",
+    "cell": 1,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      250
+    ],
+    "bbox": [
+      76,
+      145,
+      1753,
+      957
+    ],
+    "path": "assets/layers/S01_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S01_P02": {
+    "source_sheet": "S01",
+    "cell": 2,
+    "native": [
+      450,
+      245
+    ],
+    "upscaled": [
+      1800,
+      980
+    ],
+    "crop": [
+      463,
+      5,
+      913,
+      250
+    ],
+    "bbox": [
+      206,
+      122,
+      902,
+      980
+    ],
+    "path": "assets/layers/S01_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S01_P03": {
+    "source_sheet": "S01",
+    "cell": 3,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      923,
+      5,
+      1371,
+      250
+    ],
+    "bbox": [
+      190,
+      130,
+      1714,
+      980
+    ],
+    "path": "assets/layers/S01_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S01_P04": {
+    "source_sheet": "S01",
+    "cell": 4,
+    "native": [
+      448,
+      249
+    ],
+    "upscaled": [
+      1792,
+      996
+    ],
+    "crop": [
+      5,
+      260,
+      453,
+      509
+    ],
+    "bbox": [
+      271,
+      116,
+      978,
+      996
+    ],
+    "path": "assets/layers/S01_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S01_P05": {
+    "source_sheet": "S01",
+    "cell": 5,
+    "native": [
+      450,
+      249
+    ],
+    "upscaled": [
+      1800,
+      996
+    ],
+    "crop": [
+      463,
+      260,
+      913,
+      509
+    ],
+    "bbox": [
+      370,
+      130,
+      1548,
+      996
+    ],
+    "path": "assets/layers/S01_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S01_P06": {
+    "source_sheet": "S01",
+    "cell": 6,
+    "native": [
+      448,
+      249
+    ],
+    "upscaled": [
+      1792,
+      996
+    ],
+    "crop": [
+      923,
+      260,
+      1371,
+      509
+    ],
+    "bbox": [
+      121,
+      0,
+      1645,
+      996
+    ],
+    "path": "assets/layers/S01_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S01_P07": {
+    "source_sheet": "S01",
+    "cell": 7,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      5,
+      519,
+      453,
+      763
+    ],
+    "bbox": [
+      0,
+      40,
+      1792,
+      813
+    ],
+    "path": "assets/layers/S01_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S01_P08": {
+    "source_sheet": "S01",
+    "cell": 8,
+    "native": [
+      450,
+      244
+    ],
+    "upscaled": [
+      1800,
+      976
+    ],
+    "crop": [
+      463,
+      519,
+      913,
+      763
+    ],
+    "bbox": [
+      0,
+      91,
+      1800,
+      817
+    ],
+    "path": "assets/layers/S01_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S01_P09": {
+    "source_sheet": "S01",
+    "cell": 9,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      923,
+      519,
+      1371,
+      763
+    ],
+    "bbox": [
+      0,
+      195,
+      1749,
+      944
+    ],
+    "path": "assets/layers/S01_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P01": {
+    "source_sheet": "S02",
+    "cell": 1,
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "crop": [
+      5,
+      5,
+      451,
+      248
+    ],
+    "bbox": [
+      206,
+      156,
+      1181,
+      972
+    ],
+    "path": "assets/layers/S02_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "omit",
+    "reason": "Generated pseudo-writing in memory cloud; clearer alternate available.",
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P02": {
+    "source_sheet": "S02",
+    "cell": 2,
+    "native": [
+      454,
+      243
+    ],
+    "upscaled": [
+      1816,
+      972
+    ],
+    "crop": [
+      461,
+      5,
+      915,
+      248
+    ],
+    "bbox": [
+      1218,
+      142,
+      1616,
+      972
+    ],
+    "path": "assets/layers/S02_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P03": {
+    "source_sheet": "S02",
+    "cell": 3,
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "crop": [
+      925,
+      5,
+      1371,
+      248
+    ],
+    "bbox": [
+      262,
+      143,
+      840,
+      972
+    ],
+    "path": "assets/layers/S02_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P04": {
+    "source_sheet": "S02",
+    "cell": 4,
+    "native": [
+      446,
+      252
+    ],
+    "upscaled": [
+      1784,
+      1008
+    ],
+    "crop": [
+      5,
+      258,
+      451,
+      510
+    ],
+    "bbox": [
+      795,
+      165,
+      1632,
+      1006
+    ],
+    "path": "assets/layers/S02_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P05": {
+    "source_sheet": "S02",
+    "cell": 5,
+    "native": [
+      454,
+      252
+    ],
+    "upscaled": [
+      1816,
+      1008
+    ],
+    "crop": [
+      461,
+      258,
+      915,
+      510
+    ],
+    "bbox": [
+      153,
+      164,
+      1072,
+      1008
+    ],
+    "path": "assets/layers/S02_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P06": {
+    "source_sheet": "S02",
+    "cell": 6,
+    "native": [
+      446,
+      252
+    ],
+    "upscaled": [
+      1784,
+      1008
+    ],
+    "crop": [
+      925,
+      258,
+      1371,
+      510
+    ],
+    "bbox": [
+      768,
+      172,
+      1676,
+      1008
+    ],
+    "path": "assets/layers/S02_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P07": {
+    "source_sheet": "S02",
+    "cell": 7,
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "crop": [
+      5,
+      520,
+      451,
+      763
+    ],
+    "bbox": [
+      362,
+      66,
+      1081,
+      950
+    ],
+    "path": "assets/layers/S02_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P08": {
+    "source_sheet": "S02",
+    "cell": 8,
+    "native": [
+      454,
+      243
+    ],
+    "upscaled": [
+      1816,
+      972
+    ],
+    "crop": [
+      461,
+      520,
+      915,
+      763
+    ],
+    "bbox": [
+      998,
+      61,
+      1690,
+      946
+    ],
+    "path": "assets/layers/S02_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S02_P09": {
+    "source_sheet": "S02",
+    "cell": 9,
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "crop": [
+      925,
+      520,
+      1371,
+      763
+    ],
+    "bbox": [
+      263,
+      127,
+      942,
+      947
+    ],
+    "path": "assets/layers/S02_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P01": {
+    "source_sheet": "S03",
+    "cell": 1,
+    "native": [
+      406,
+      210
+    ],
+    "upscaled": [
+      1624,
+      840
+    ],
+    "crop": [
+      54,
+      54,
+      460,
+      264
+    ],
+    "bbox": [
+      695,
+      85,
+      1565,
+      840
+    ],
+    "path": "assets/layers/S03_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P02": {
+    "source_sheet": "S03",
+    "cell": 2,
+    "native": [
+      406,
+      210
+    ],
+    "upscaled": [
+      1624,
+      840
+    ],
+    "crop": [
+      486,
+      54,
+      892,
+      264
+    ],
+    "bbox": [
+      94,
+      82,
+      696,
+      789
+    ],
+    "path": "assets/layers/S03_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P03": {
+    "source_sheet": "S03",
+    "cell": 3,
+    "native": [
+      404,
+      210
+    ],
+    "upscaled": [
+      1616,
+      840
+    ],
+    "crop": [
+      917,
+      54,
+      1321,
+      264
+    ],
+    "bbox": [
+      615,
+      75,
+      1497,
+      820
+    ],
+    "path": "assets/layers/S03_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P04": {
+    "source_sheet": "S03",
+    "cell": 4,
+    "native": [
+      406,
+      211
+    ],
+    "upscaled": [
+      1624,
+      844
+    ],
+    "crop": [
+      54,
+      288,
+      460,
+      499
+    ],
+    "bbox": [
+      218,
+      34,
+      799,
+      844
+    ],
+    "path": "assets/layers/S03_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P05": {
+    "source_sheet": "S03",
+    "cell": 5,
+    "native": [
+      406,
+      211
+    ],
+    "upscaled": [
+      1624,
+      844
+    ],
+    "crop": [
+      486,
+      288,
+      892,
+      499
+    ],
+    "bbox": [
+      343,
+      50,
+      1444,
+      799
+    ],
+    "path": "assets/layers/S03_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P06": {
+    "source_sheet": "S03",
+    "cell": 6,
+    "native": [
+      404,
+      211
+    ],
+    "upscaled": [
+      1616,
+      844
+    ],
+    "crop": [
+      917,
+      288,
+      1321,
+      499
+    ],
+    "bbox": [
+      247,
+      48,
+      1354,
+      801
+    ],
+    "path": "assets/layers/S03_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P07": {
+    "source_sheet": "S03",
+    "cell": 7,
+    "native": [
+      406,
+      210
+    ],
+    "upscaled": [
+      1624,
+      840
+    ],
+    "crop": [
+      54,
+      523,
+      460,
+      733
+    ],
+    "bbox": [
+      7,
+      51,
+      1624,
+      823
+    ],
+    "path": "assets/layers/S03_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P08": {
+    "source_sheet": "S03",
+    "cell": 8,
+    "native": [
+      406,
+      210
+    ],
+    "upscaled": [
+      1624,
+      840
+    ],
+    "crop": [
+      486,
+      523,
+      892,
+      733
+    ],
+    "bbox": [
+      0,
+      57,
+      1623,
+      809
+    ],
+    "path": "assets/layers/S03_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S03_P09": {
+    "source_sheet": "S03",
+    "cell": 9,
+    "native": [
+      404,
+      210
+    ],
+    "upscaled": [
+      1616,
+      840
+    ],
+    "crop": [
+      917,
+      523,
+      1321,
+      733
+    ],
+    "bbox": [
+      0,
+      27,
+      1601,
+      829
+    ],
+    "path": "assets/layers/S03_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P01": {
+    "source_sheet": "S04",
+    "cell": 1,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      250
+    ],
+    "bbox": [
+      410,
+      205,
+      1354,
+      980
+    ],
+    "path": "assets/layers/S04_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P02": {
+    "source_sheet": "S04",
+    "cell": 2,
+    "native": [
+      449,
+      245
+    ],
+    "upscaled": [
+      1796,
+      980
+    ],
+    "crop": [
+      463,
+      5,
+      912,
+      250
+    ],
+    "bbox": [
+      406,
+      206,
+      1384,
+      980
+    ],
+    "path": "assets/layers/S04_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P03": {
+    "source_sheet": "S04",
+    "cell": 3,
+    "native": [
+      449,
+      245
+    ],
+    "upscaled": [
+      1796,
+      980
+    ],
+    "crop": [
+      922,
+      5,
+      1371,
+      250
+    ],
+    "bbox": [
+      192,
+      35,
+      1432,
+      980
+    ],
+    "path": "assets/layers/S04_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P04": {
+    "source_sheet": "S04",
+    "cell": 4,
+    "native": [
+      448,
+      249
+    ],
+    "upscaled": [
+      1792,
+      996
+    ],
+    "crop": [
+      5,
+      260,
+      453,
+      509
+    ],
+    "bbox": [
+      427,
+      217,
+      1388,
+      993
+    ],
+    "path": "assets/layers/S04_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P05": {
+    "source_sheet": "S04",
+    "cell": 5,
+    "native": [
+      449,
+      249
+    ],
+    "upscaled": [
+      1796,
+      996
+    ],
+    "crop": [
+      463,
+      260,
+      912,
+      509
+    ],
+    "bbox": [
+      402,
+      55,
+      1493,
+      996
+    ],
+    "path": "assets/layers/S04_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P06": {
+    "source_sheet": "S04",
+    "cell": 6,
+    "native": [
+      449,
+      249
+    ],
+    "upscaled": [
+      1796,
+      996
+    ],
+    "crop": [
+      922,
+      260,
+      1371,
+      509
+    ],
+    "bbox": [
+      435,
+      16,
+      1420,
+      989
+    ],
+    "path": "assets/layers/S04_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P07": {
+    "source_sheet": "S04",
+    "cell": 7,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      5,
+      519,
+      453,
+      763
+    ],
+    "bbox": [
+      391,
+      167,
+      1504,
+      938
+    ],
+    "path": "assets/layers/S04_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P08": {
+    "source_sheet": "S04",
+    "cell": 8,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      463,
+      519,
+      912,
+      763
+    ],
+    "bbox": [
+      417,
+      6,
+      1639,
+      936
+    ],
+    "path": "assets/layers/S04_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S04_P09": {
+    "source_sheet": "S04",
+    "cell": 9,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      922,
+      519,
+      1371,
+      763
+    ],
+    "bbox": [
+      115,
+      48,
+      1790,
+      931
+    ],
+    "path": "assets/layers/S04_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P01": {
+    "source_sheet": "S05",
+    "cell": 1,
+    "native": [
+      446,
+      244
+    ],
+    "upscaled": [
+      1784,
+      976
+    ],
+    "crop": [
+      5,
+      5,
+      451,
+      249
+    ],
+    "bbox": [
+      985,
+      213,
+      1764,
+      969
+    ],
+    "path": "assets/layers/S05_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P02": {
+    "source_sheet": "S05",
+    "cell": 2,
+    "native": [
+      453,
+      244
+    ],
+    "upscaled": [
+      1812,
+      976
+    ],
+    "crop": [
+      461,
+      5,
+      914,
+      249
+    ],
+    "bbox": [
+      59,
+      31,
+      1024,
+      976
+    ],
+    "path": "assets/layers/S05_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P03": {
+    "source_sheet": "S05",
+    "cell": 3,
+    "native": [
+      447,
+      244
+    ],
+    "upscaled": [
+      1788,
+      976
+    ],
+    "crop": [
+      924,
+      5,
+      1371,
+      249
+    ],
+    "bbox": [
+      830,
+      257,
+      1715,
+      862
+    ],
+    "path": "assets/layers/S05_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P04": {
+    "source_sheet": "S05",
+    "cell": 4,
+    "native": [
+      446,
+      250
+    ],
+    "upscaled": [
+      1784,
+      1000
+    ],
+    "crop": [
+      5,
+      259,
+      451,
+      509
+    ],
+    "bbox": [
+      289,
+      34,
+      1206,
+      986
+    ],
+    "path": "assets/layers/S05_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P05": {
+    "source_sheet": "S05",
+    "cell": 5,
+    "native": [
+      453,
+      250
+    ],
+    "upscaled": [
+      1812,
+      1000
+    ],
+    "crop": [
+      461,
+      259,
+      914,
+      509
+    ],
+    "bbox": [
+      833,
+      130,
+      1677,
+      977
+    ],
+    "path": "assets/layers/S05_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "omit",
+    "reason": "Baked clock shows a different time from the six-o\u2019clock example.",
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P06": {
+    "source_sheet": "S05",
+    "cell": 6,
+    "native": [
+      447,
+      250
+    ],
+    "upscaled": [
+      1788,
+      1000
+    ],
+    "crop": [
+      924,
+      259,
+      1371,
+      509
+    ],
+    "bbox": [
+      230,
+      267,
+      876,
+      961
+    ],
+    "path": "assets/layers/S05_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P07": {
+    "source_sheet": "S05",
+    "cell": 7,
+    "native": [
+      446,
+      244
+    ],
+    "upscaled": [
+      1784,
+      976
+    ],
+    "crop": [
+      5,
+      519,
+      451,
+      763
+    ],
+    "bbox": [
+      272,
+      81,
+      1704,
+      872
+    ],
+    "path": "assets/layers/S05_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P08": {
+    "source_sheet": "S05",
+    "cell": 8,
+    "native": [
+      453,
+      244
+    ],
+    "upscaled": [
+      1812,
+      976
+    ],
+    "crop": [
+      461,
+      519,
+      914,
+      763
+    ],
+    "bbox": [
+      259,
+      112,
+      899,
+      862
+    ],
+    "path": "assets/layers/S05_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S05_P09": {
+    "source_sheet": "S05",
+    "cell": 9,
+    "native": [
+      447,
+      244
+    ],
+    "upscaled": [
+      1788,
+      976
+    ],
+    "crop": [
+      924,
+      519,
+      1371,
+      763
+    ],
+    "bbox": [
+      922,
+      97,
+      1620,
+      862
+    ],
+    "path": "assets/layers/S05_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P01": {
+    "source_sheet": "S06",
+    "cell": 1,
+    "native": [
+      417,
+      220
+    ],
+    "upscaled": [
+      1668,
+      880
+    ],
+    "crop": [
+      34,
+      25,
+      451,
+      245
+    ],
+    "bbox": [
+      170,
+      98,
+      834,
+      880
+    ],
+    "path": "assets/layers/S06_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P02": {
+    "source_sheet": "S06",
+    "cell": 2,
+    "native": [
+      417,
+      220
+    ],
+    "upscaled": [
+      1668,
+      880
+    ],
+    "crop": [
+      480,
+      25,
+      897,
+      245
+    ],
+    "bbox": [
+      663,
+      99,
+      1567,
+      880
+    ],
+    "path": "assets/layers/S06_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P03": {
+    "source_sheet": "S06",
+    "cell": 3,
+    "native": [
+      417,
+      220
+    ],
+    "upscaled": [
+      1668,
+      880
+    ],
+    "crop": [
+      926,
+      25,
+      1343,
+      245
+    ],
+    "bbox": [
+      119,
+      104,
+      1668,
+      819
+    ],
+    "path": "assets/layers/S06_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P04": {
+    "source_sheet": "S06",
+    "cell": 4,
+    "native": [
+      417,
+      222
+    ],
+    "upscaled": [
+      1668,
+      888
+    ],
+    "crop": [
+      34,
+      274,
+      451,
+      496
+    ],
+    "bbox": [
+      320,
+      16,
+      1551,
+      880
+    ],
+    "path": "assets/layers/S06_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "omit",
+    "reason": "Tiny baked wording; repeat pattern is explained with code-drawn nodes.",
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P05": {
+    "source_sheet": "S06",
+    "cell": 5,
+    "native": [
+      417,
+      222
+    ],
+    "upscaled": [
+      1668,
+      888
+    ],
+    "crop": [
+      480,
+      274,
+      897,
+      496
+    ],
+    "bbox": [
+      34,
+      139,
+      1142,
+      869
+    ],
+    "path": "assets/layers/S06_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P06": {
+    "source_sheet": "S06",
+    "cell": 6,
+    "native": [
+      417,
+      222
+    ],
+    "upscaled": [
+      1668,
+      888
+    ],
+    "crop": [
+      926,
+      274,
+      1343,
+      496
+    ],
+    "bbox": [
+      810,
+      108,
+      1668,
+      888
+    ],
+    "path": "assets/layers/S06_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P07": {
+    "source_sheet": "S06",
+    "cell": 7,
+    "native": [
+      417,
+      220
+    ],
+    "upscaled": [
+      1668,
+      880
+    ],
+    "crop": [
+      34,
+      524,
+      451,
+      744
+    ],
+    "bbox": [
+      170,
+      76,
+      912,
+      880
+    ],
+    "path": "assets/layers/S06_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P08": {
+    "source_sheet": "S06",
+    "cell": 8,
+    "native": [
+      417,
+      220
+    ],
+    "upscaled": [
+      1668,
+      880
+    ],
+    "crop": [
+      480,
+      524,
+      897,
+      744
+    ],
+    "bbox": [
+      330,
+      114,
+      1405,
+      880
+    ],
+    "path": "assets/layers/S06_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S06_P09": {
+    "source_sheet": "S06",
+    "cell": 9,
+    "native": [
+      417,
+      220
+    ],
+    "upscaled": [
+      1668,
+      880
+    ],
+    "crop": [
+      926,
+      524,
+      1343,
+      744
+    ],
+    "bbox": [
+      109,
+      25,
+      1668,
+      824
+    ],
+    "path": "assets/layers/S06_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P01": {
+    "source_sheet": "S07",
+    "cell": 1,
+    "native": [
+      448,
+      243
+    ],
+    "upscaled": [
+      1792,
+      972
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      248
+    ],
+    "bbox": [
+      856,
+      56,
+      1694,
+      964
+    ],
+    "path": "assets/layers/S07_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P02": {
+    "source_sheet": "S07",
+    "cell": 2,
+    "native": [
+      450,
+      243
+    ],
+    "upscaled": [
+      1800,
+      972
+    ],
+    "crop": [
+      463,
+      5,
+      913,
+      248
+    ],
+    "bbox": [
+      159,
+      167,
+      830,
+      970
+    ],
+    "path": "assets/layers/S07_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P03": {
+    "source_sheet": "S07",
+    "cell": 3,
+    "native": [
+      448,
+      243
+    ],
+    "upscaled": [
+      1792,
+      972
+    ],
+    "crop": [
+      923,
+      5,
+      1371,
+      248
+    ],
+    "bbox": [
+      1069,
+      251,
+      1683,
+      939
+    ],
+    "path": "assets/layers/S07_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P04": {
+    "source_sheet": "S07",
+    "cell": 4,
+    "native": [
+      448,
+      250
+    ],
+    "upscaled": [
+      1792,
+      1000
+    ],
+    "crop": [
+      5,
+      258,
+      453,
+      508
+    ],
+    "bbox": [
+      256,
+      171,
+      556,
+      957
+    ],
+    "path": "assets/layers/S07_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P05": {
+    "source_sheet": "S07",
+    "cell": 5,
+    "native": [
+      450,
+      250
+    ],
+    "upscaled": [
+      1800,
+      1000
+    ],
+    "crop": [
+      463,
+      258,
+      913,
+      508
+    ],
+    "bbox": [
+      989,
+      173,
+      1731,
+      994
+    ],
+    "path": "assets/layers/S07_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P06": {
+    "source_sheet": "S07",
+    "cell": 6,
+    "native": [
+      448,
+      250
+    ],
+    "upscaled": [
+      1792,
+      1000
+    ],
+    "crop": [
+      923,
+      258,
+      1371,
+      508
+    ],
+    "bbox": [
+      67,
+      162,
+      904,
+      971
+    ],
+    "path": "assets/layers/S07_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P07": {
+    "source_sheet": "S07",
+    "cell": 7,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      518,
+      453,
+      763
+    ],
+    "bbox": [
+      854,
+      71,
+      1704,
+      920
+    ],
+    "path": "assets/layers/S07_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P08": {
+    "source_sheet": "S07",
+    "cell": 8,
+    "native": [
+      450,
+      245
+    ],
+    "upscaled": [
+      1800,
+      980
+    ],
+    "crop": [
+      463,
+      518,
+      913,
+      763
+    ],
+    "bbox": [
+      139,
+      160,
+      897,
+      899
+    ],
+    "path": "assets/layers/S07_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S07_P09": {
+    "source_sheet": "S07",
+    "cell": 9,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      923,
+      518,
+      1371,
+      763
+    ],
+    "bbox": [
+      869,
+      112,
+      1669,
+      928
+    ],
+    "path": "assets/layers/S07_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "omit",
+    "reason": "Generated board lettering; alternate evidence panel selected.",
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P01": {
+    "source_sheet": "S08",
+    "cell": 1,
+    "native": [
+      419,
+      231
+    ],
+    "upscaled": [
+      1676,
+      924
+    ],
+    "crop": [
+      33,
+      23,
+      452,
+      254
+    ],
+    "bbox": [
+      0,
+      174,
+      1676,
+      924
+    ],
+    "path": "assets/layers/S08_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P02": {
+    "source_sheet": "S08",
+    "cell": 2,
+    "native": [
+      429,
+      231
+    ],
+    "upscaled": [
+      1716,
+      924
+    ],
+    "crop": [
+      474,
+      23,
+      903,
+      254
+    ],
+    "bbox": [
+      0,
+      59,
+      1713,
+      924
+    ],
+    "path": "assets/layers/S08_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P03": {
+    "source_sheet": "S08",
+    "cell": 3,
+    "native": [
+      418,
+      231
+    ],
+    "upscaled": [
+      1672,
+      924
+    ],
+    "crop": [
+      925,
+      23,
+      1343,
+      254
+    ],
+    "bbox": [
+      0,
+      49,
+      1672,
+      924
+    ],
+    "path": "assets/layers/S08_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P04": {
+    "source_sheet": "S08",
+    "cell": 4,
+    "native": [
+      419,
+      224
+    ],
+    "upscaled": [
+      1676,
+      896
+    ],
+    "crop": [
+      33,
+      276,
+      452,
+      500
+    ],
+    "bbox": [
+      807,
+      138,
+      1595,
+      896
+    ],
+    "path": "assets/layers/S08_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P05": {
+    "source_sheet": "S08",
+    "cell": 5,
+    "native": [
+      429,
+      224
+    ],
+    "upscaled": [
+      1716,
+      896
+    ],
+    "crop": [
+      474,
+      276,
+      903,
+      500
+    ],
+    "bbox": [
+      0,
+      0,
+      1716,
+      896
+    ],
+    "path": "assets/layers/S08_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P06": {
+    "source_sheet": "S08",
+    "cell": 6,
+    "native": [
+      418,
+      224
+    ],
+    "upscaled": [
+      1672,
+      896
+    ],
+    "crop": [
+      925,
+      276,
+      1343,
+      500
+    ],
+    "bbox": [
+      0,
+      150,
+      1672,
+      896
+    ],
+    "path": "assets/layers/S08_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P07": {
+    "source_sheet": "S08",
+    "cell": 7,
+    "native": [
+      419,
+      223
+    ],
+    "upscaled": [
+      1676,
+      892
+    ],
+    "crop": [
+      33,
+      522,
+      452,
+      745
+    ],
+    "bbox": [
+      0,
+      124,
+      1669,
+      892
+    ],
+    "path": "assets/layers/S08_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P08": {
+    "source_sheet": "S08",
+    "cell": 8,
+    "native": [
+      429,
+      223
+    ],
+    "upscaled": [
+      1716,
+      892
+    ],
+    "crop": [
+      474,
+      522,
+      903,
+      745
+    ],
+    "bbox": [
+      0,
+      97,
+      1716,
+      892
+    ],
+    "path": "assets/layers/S08_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S08_P09": {
+    "source_sheet": "S08",
+    "cell": 9,
+    "native": [
+      418,
+      223
+    ],
+    "upscaled": [
+      1672,
+      892
+    ],
+    "crop": [
+      925,
+      522,
+      1343,
+      745
+    ],
+    "bbox": [
+      103,
+      99,
+      1014,
+      892
+    ],
+    "path": "assets/layers/S08_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P01": {
+    "source_sheet": "S09",
+    "cell": 1,
+    "native": [
+      447,
+      245
+    ],
+    "upscaled": [
+      1788,
+      980
+    ],
+    "crop": [
+      5,
+      5,
+      452,
+      250
+    ],
+    "bbox": [
+      1089,
+      132,
+      1620,
+      974
+    ],
+    "path": "assets/layers/S09_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P02": {
+    "source_sheet": "S09",
+    "cell": 2,
+    "native": [
+      451,
+      245
+    ],
+    "upscaled": [
+      1804,
+      980
+    ],
+    "crop": [
+      462,
+      5,
+      913,
+      250
+    ],
+    "bbox": [
+      126,
+      129,
+      625,
+      975
+    ],
+    "path": "assets/layers/S09_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P03": {
+    "source_sheet": "S09",
+    "cell": 3,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      923,
+      5,
+      1371,
+      250
+    ],
+    "bbox": [
+      502,
+      97,
+      1693,
+      972
+    ],
+    "path": "assets/layers/S09_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P04": {
+    "source_sheet": "S09",
+    "cell": 4,
+    "native": [
+      447,
+      246
+    ],
+    "upscaled": [
+      1788,
+      984
+    ],
+    "crop": [
+      5,
+      260,
+      452,
+      506
+    ],
+    "bbox": [
+      118,
+      130,
+      959,
+      972
+    ],
+    "path": "assets/layers/S09_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P05": {
+    "source_sheet": "S09",
+    "cell": 5,
+    "native": [
+      451,
+      246
+    ],
+    "upscaled": [
+      1804,
+      984
+    ],
+    "crop": [
+      462,
+      260,
+      913,
+      506
+    ],
+    "bbox": [
+      0,
+      171,
+      1669,
+      964
+    ],
+    "path": "assets/layers/S09_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P06": {
+    "source_sheet": "S09",
+    "cell": 6,
+    "native": [
+      448,
+      246
+    ],
+    "upscaled": [
+      1792,
+      984
+    ],
+    "crop": [
+      923,
+      260,
+      1371,
+      506
+    ],
+    "bbox": [
+      175,
+      129,
+      647,
+      960
+    ],
+    "path": "assets/layers/S09_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P07": {
+    "source_sheet": "S09",
+    "cell": 7,
+    "native": [
+      447,
+      247
+    ],
+    "upscaled": [
+      1788,
+      988
+    ],
+    "crop": [
+      5,
+      516,
+      452,
+      763
+    ],
+    "bbox": [
+      588,
+      70,
+      1705,
+      941
+    ],
+    "path": "assets/layers/S09_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P08": {
+    "source_sheet": "S09",
+    "cell": 8,
+    "native": [
+      451,
+      247
+    ],
+    "upscaled": [
+      1804,
+      988
+    ],
+    "crop": [
+      462,
+      516,
+      913,
+      763
+    ],
+    "bbox": [
+      166,
+      148,
+      697,
+      934
+    ],
+    "path": "assets/layers/S09_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S09_P09": {
+    "source_sheet": "S09",
+    "cell": 9,
+    "native": [
+      448,
+      247
+    ],
+    "upscaled": [
+      1792,
+      988
+    ],
+    "crop": [
+      923,
+      516,
+      1371,
+      763
+    ],
+    "bbox": [
+      1036,
+      122,
+      1673,
+      962
+    ],
+    "path": "assets/layers/S09_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P01": {
+    "source_sheet": "S10",
+    "cell": 1,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      250
+    ],
+    "bbox": [
+      217,
+      204,
+      1628,
+      963
+    ],
+    "path": "assets/layers/S10_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P02": {
+    "source_sheet": "S10",
+    "cell": 2,
+    "native": [
+      450,
+      245
+    ],
+    "upscaled": [
+      1800,
+      980
+    ],
+    "crop": [
+      463,
+      5,
+      913,
+      250
+    ],
+    "bbox": [
+      15,
+      222,
+      1704,
+      947
+    ],
+    "path": "assets/layers/S10_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "omit",
+    "reason": "Secondary figure clipped by source-panel edge.",
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P03": {
+    "source_sheet": "S10",
+    "cell": 3,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      923,
+      5,
+      1371,
+      250
+    ],
+    "bbox": [
+      281,
+      201,
+      1603,
+      972
+    ],
+    "path": "assets/layers/S10_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P04": {
+    "source_sheet": "S10",
+    "cell": 4,
+    "native": [
+      448,
+      246
+    ],
+    "upscaled": [
+      1792,
+      984
+    ],
+    "crop": [
+      5,
+      260,
+      453,
+      506
+    ],
+    "bbox": [
+      391,
+      184,
+      1654,
+      957
+    ],
+    "path": "assets/layers/S10_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P05": {
+    "source_sheet": "S10",
+    "cell": 5,
+    "native": [
+      450,
+      246
+    ],
+    "upscaled": [
+      1800,
+      984
+    ],
+    "crop": [
+      463,
+      260,
+      913,
+      506
+    ],
+    "bbox": [
+      450,
+      175,
+      1497,
+      961
+    ],
+    "path": "assets/layers/S10_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P06": {
+    "source_sheet": "S10",
+    "cell": 6,
+    "native": [
+      448,
+      246
+    ],
+    "upscaled": [
+      1792,
+      984
+    ],
+    "crop": [
+      923,
+      260,
+      1371,
+      506
+    ],
+    "bbox": [
+      204,
+      186,
+      1310,
+      951
+    ],
+    "path": "assets/layers/S10_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P07": {
+    "source_sheet": "S10",
+    "cell": 7,
+    "native": [
+      448,
+      247
+    ],
+    "upscaled": [
+      1792,
+      988
+    ],
+    "crop": [
+      5,
+      516,
+      453,
+      763
+    ],
+    "bbox": [
+      343,
+      249,
+      785,
+      910
+    ],
+    "path": "assets/layers/S10_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P08": {
+    "source_sheet": "S10",
+    "cell": 8,
+    "native": [
+      450,
+      247
+    ],
+    "upscaled": [
+      1800,
+      988
+    ],
+    "crop": [
+      463,
+      516,
+      913,
+      763
+    ],
+    "bbox": [
+      428,
+      139,
+      1380,
+      951
+    ],
+    "path": "assets/layers/S10_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S10_P09": {
+    "source_sheet": "S10",
+    "cell": 9,
+    "native": [
+      448,
+      247
+    ],
+    "upscaled": [
+      1792,
+      988
+    ],
+    "crop": [
+      923,
+      516,
+      1371,
+      763
+    ],
+    "bbox": [
+      171,
+      206,
+      879,
+      932
+    ],
+    "path": "assets/layers/S10_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P01": {
+    "source_sheet": "S11",
+    "cell": 1,
+    "native": [
+      449,
+      245
+    ],
+    "upscaled": [
+      1796,
+      980
+    ],
+    "crop": [
+      5,
+      5,
+      454,
+      250
+    ],
+    "bbox": [
+      853,
+      139,
+      1753,
+      906
+    ],
+    "path": "assets/layers/S11_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P02": {
+    "source_sheet": "S11",
+    "cell": 2,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      464,
+      5,
+      912,
+      250
+    ],
+    "bbox": [
+      143,
+      168,
+      993,
+      966
+    ],
+    "path": "assets/layers/S11_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P03": {
+    "source_sheet": "S11",
+    "cell": 3,
+    "native": [
+      449,
+      245
+    ],
+    "upscaled": [
+      1796,
+      980
+    ],
+    "crop": [
+      922,
+      5,
+      1371,
+      250
+    ],
+    "bbox": [
+      40,
+      254,
+      1049,
+      948
+    ],
+    "path": "assets/layers/S11_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P04": {
+    "source_sheet": "S11",
+    "cell": 4,
+    "native": [
+      449,
+      250
+    ],
+    "upscaled": [
+      1796,
+      1000
+    ],
+    "crop": [
+      5,
+      260,
+      454,
+      510
+    ],
+    "bbox": [
+      771,
+      243,
+      1770,
+      964
+    ],
+    "path": "assets/layers/S11_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P05": {
+    "source_sheet": "S11",
+    "cell": 5,
+    "native": [
+      448,
+      250
+    ],
+    "upscaled": [
+      1792,
+      1000
+    ],
+    "crop": [
+      464,
+      260,
+      912,
+      510
+    ],
+    "bbox": [
+      739,
+      176,
+      1759,
+      967
+    ],
+    "path": "assets/layers/S11_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P06": {
+    "source_sheet": "S11",
+    "cell": 6,
+    "native": [
+      449,
+      250
+    ],
+    "upscaled": [
+      1796,
+      1000
+    ],
+    "crop": [
+      922,
+      260,
+      1371,
+      510
+    ],
+    "bbox": [
+      46,
+      244,
+      1190,
+      960
+    ],
+    "path": "assets/layers/S11_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P07": {
+    "source_sheet": "S11",
+    "cell": 7,
+    "native": [
+      449,
+      243
+    ],
+    "upscaled": [
+      1796,
+      972
+    ],
+    "crop": [
+      5,
+      520,
+      454,
+      763
+    ],
+    "bbox": [
+      553,
+      187,
+      1774,
+      929
+    ],
+    "path": "assets/layers/S11_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P08": {
+    "source_sheet": "S11",
+    "cell": 8,
+    "native": [
+      448,
+      243
+    ],
+    "upscaled": [
+      1792,
+      972
+    ],
+    "crop": [
+      464,
+      520,
+      912,
+      763
+    ],
+    "bbox": [
+      443,
+      125,
+      1792,
+      972
+    ],
+    "path": "assets/layers/S11_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S11_P09": {
+    "source_sheet": "S11",
+    "cell": 9,
+    "native": [
+      449,
+      243
+    ],
+    "upscaled": [
+      1796,
+      972
+    ],
+    "crop": [
+      922,
+      520,
+      1371,
+      763
+    ],
+    "bbox": [
+      41,
+      170,
+      1177,
+      929
+    ],
+    "path": "assets/layers/S11_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P01": {
+    "source_sheet": "S12",
+    "cell": 1,
+    "native": [
+      449,
+      246
+    ],
+    "upscaled": [
+      1796,
+      984
+    ],
+    "crop": [
+      5,
+      5,
+      454,
+      251
+    ],
+    "bbox": [
+      192,
+      162,
+      1669,
+      984
+    ],
+    "path": "assets/layers/S12_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P02": {
+    "source_sheet": "S12",
+    "cell": 2,
+    "native": [
+      447,
+      246
+    ],
+    "upscaled": [
+      1788,
+      984
+    ],
+    "crop": [
+      464,
+      5,
+      911,
+      251
+    ],
+    "bbox": [
+      63,
+      0,
+      1788,
+      984
+    ],
+    "path": "assets/layers/S12_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P03": {
+    "source_sheet": "S12",
+    "cell": 3,
+    "native": [
+      450,
+      246
+    ],
+    "upscaled": [
+      1800,
+      984
+    ],
+    "crop": [
+      921,
+      5,
+      1371,
+      251
+    ],
+    "bbox": [
+      107,
+      175,
+      1471,
+      984
+    ],
+    "path": "assets/layers/S12_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P04": {
+    "source_sheet": "S12",
+    "cell": 4,
+    "native": [
+      449,
+      248
+    ],
+    "upscaled": [
+      1796,
+      992
+    ],
+    "crop": [
+      5,
+      261,
+      454,
+      509
+    ],
+    "bbox": [
+      288,
+      182,
+      1539,
+      978
+    ],
+    "path": "assets/layers/S12_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P05": {
+    "source_sheet": "S12",
+    "cell": 5,
+    "native": [
+      447,
+      248
+    ],
+    "upscaled": [
+      1788,
+      992
+    ],
+    "crop": [
+      464,
+      261,
+      911,
+      509
+    ],
+    "bbox": [
+      370,
+      179,
+      1622,
+      992
+    ],
+    "path": "assets/layers/S12_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P06": {
+    "source_sheet": "S12",
+    "cell": 6,
+    "native": [
+      450,
+      248
+    ],
+    "upscaled": [
+      1800,
+      992
+    ],
+    "crop": [
+      921,
+      261,
+      1371,
+      509
+    ],
+    "bbox": [
+      245,
+      153,
+      1533,
+      984
+    ],
+    "path": "assets/layers/S12_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P07": {
+    "source_sheet": "S12",
+    "cell": 7,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      5,
+      519,
+      454,
+      763
+    ],
+    "bbox": [
+      337,
+      102,
+      1492,
+      963
+    ],
+    "path": "assets/layers/S12_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P08": {
+    "source_sheet": "S12",
+    "cell": 8,
+    "native": [
+      447,
+      244
+    ],
+    "upscaled": [
+      1788,
+      976
+    ],
+    "crop": [
+      464,
+      519,
+      911,
+      763
+    ],
+    "bbox": [
+      19,
+      38,
+      1788,
+      976
+    ],
+    "path": "assets/layers/S12_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S12_P09": {
+    "source_sheet": "S12",
+    "cell": 9,
+    "native": [
+      450,
+      244
+    ],
+    "upscaled": [
+      1800,
+      976
+    ],
+    "crop": [
+      921,
+      519,
+      1371,
+      763
+    ],
+    "bbox": [
+      87,
+      91,
+      1703,
+      969
+    ],
+    "path": "assets/layers/S12_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P01": {
+    "source_sheet": "S13",
+    "cell": 1,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      250
+    ],
+    "bbox": [
+      202,
+      148,
+      1568,
+      980
+    ],
+    "path": "assets/layers/S13_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P02": {
+    "source_sheet": "S13",
+    "cell": 2,
+    "native": [
+      450,
+      245
+    ],
+    "upscaled": [
+      1800,
+      980
+    ],
+    "crop": [
+      463,
+      5,
+      913,
+      250
+    ],
+    "bbox": [
+      448,
+      133,
+      1366,
+      967
+    ],
+    "path": "assets/layers/S13_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P03": {
+    "source_sheet": "S13",
+    "cell": 3,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      923,
+      5,
+      1371,
+      250
+    ],
+    "bbox": [
+      596,
+      162,
+      1496,
+      968
+    ],
+    "path": "assets/layers/S13_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P04": {
+    "source_sheet": "S13",
+    "cell": 4,
+    "native": [
+      448,
+      248
+    ],
+    "upscaled": [
+      1792,
+      992
+    ],
+    "crop": [
+      5,
+      260,
+      453,
+      508
+    ],
+    "bbox": [
+      427,
+      214,
+      1417,
+      966
+    ],
+    "path": "assets/layers/S13_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P05": {
+    "source_sheet": "S13",
+    "cell": 5,
+    "native": [
+      450,
+      248
+    ],
+    "upscaled": [
+      1800,
+      992
+    ],
+    "crop": [
+      463,
+      260,
+      913,
+      508
+    ],
+    "bbox": [
+      734,
+      165,
+      1698,
+      976
+    ],
+    "path": "assets/layers/S13_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P06": {
+    "source_sheet": "S13",
+    "cell": 6,
+    "native": [
+      448,
+      248
+    ],
+    "upscaled": [
+      1792,
+      992
+    ],
+    "crop": [
+      923,
+      260,
+      1371,
+      508
+    ],
+    "bbox": [
+      485,
+      158,
+      1357,
+      974
+    ],
+    "path": "assets/layers/S13_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P07": {
+    "source_sheet": "S13",
+    "cell": 7,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      518,
+      453,
+      763
+    ],
+    "bbox": [
+      1004,
+      131,
+      1686,
+      893
+    ],
+    "path": "assets/layers/S13_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P08": {
+    "source_sheet": "S13",
+    "cell": 8,
+    "native": [
+      450,
+      245
+    ],
+    "upscaled": [
+      1800,
+      980
+    ],
+    "crop": [
+      463,
+      518,
+      913,
+      763
+    ],
+    "bbox": [
+      627,
+      107,
+      1442,
+      946
+    ],
+    "path": "assets/layers/S13_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S13_P09": {
+    "source_sheet": "S13",
+    "cell": 9,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      923,
+      518,
+      1371,
+      763
+    ],
+    "bbox": [
+      295,
+      130,
+      1536,
+      954
+    ],
+    "path": "assets/layers/S13_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P01": {
+    "source_sheet": "S14",
+    "cell": 1,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      249
+    ],
+    "bbox": [
+      251,
+      132,
+      548,
+      945
+    ],
+    "path": "assets/layers/S14_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P02": {
+    "source_sheet": "S14",
+    "cell": 2,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      463,
+      5,
+      912,
+      249
+    ],
+    "bbox": [
+      72,
+      154,
+      1074,
+      932
+    ],
+    "path": "assets/layers/S14_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P03": {
+    "source_sheet": "S14",
+    "cell": 3,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      922,
+      5,
+      1371,
+      249
+    ],
+    "bbox": [
+      135,
+      148,
+      1057,
+      941
+    ],
+    "path": "assets/layers/S14_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P04": {
+    "source_sheet": "S14",
+    "cell": 4,
+    "native": [
+      448,
+      248
+    ],
+    "upscaled": [
+      1792,
+      992
+    ],
+    "crop": [
+      5,
+      259,
+      453,
+      507
+    ],
+    "bbox": [
+      1148,
+      154,
+      1560,
+      952
+    ],
+    "path": "assets/layers/S14_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P05": {
+    "source_sheet": "S14",
+    "cell": 5,
+    "native": [
+      449,
+      248
+    ],
+    "upscaled": [
+      1796,
+      992
+    ],
+    "crop": [
+      463,
+      259,
+      912,
+      507
+    ],
+    "bbox": [
+      168,
+      259,
+      944,
+      946
+    ],
+    "path": "assets/layers/S14_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P06": {
+    "source_sheet": "S14",
+    "cell": 6,
+    "native": [
+      449,
+      248
+    ],
+    "upscaled": [
+      1796,
+      992
+    ],
+    "crop": [
+      922,
+      259,
+      1371,
+      507
+    ],
+    "bbox": [
+      143,
+      177,
+      1061,
+      951
+    ],
+    "path": "assets/layers/S14_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P07": {
+    "source_sheet": "S14",
+    "cell": 7,
+    "native": [
+      448,
+      246
+    ],
+    "upscaled": [
+      1792,
+      984
+    ],
+    "crop": [
+      5,
+      517,
+      453,
+      763
+    ],
+    "bbox": [
+      325,
+      192,
+      1305,
+      952
+    ],
+    "path": "assets/layers/S14_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P08": {
+    "source_sheet": "S14",
+    "cell": 8,
+    "native": [
+      449,
+      246
+    ],
+    "upscaled": [
+      1796,
+      984
+    ],
+    "crop": [
+      463,
+      517,
+      912,
+      763
+    ],
+    "bbox": [
+      758,
+      41,
+      1688,
+      966
+    ],
+    "path": "assets/layers/S14_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S14_P09": {
+    "source_sheet": "S14",
+    "cell": 9,
+    "native": [
+      449,
+      246
+    ],
+    "upscaled": [
+      1796,
+      984
+    ],
+    "crop": [
+      922,
+      517,
+      1371,
+      763
+    ],
+    "bbox": [
+      256,
+      182,
+      1093,
+      921
+    ],
+    "path": "assets/layers/S14_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P01": {
+    "source_sheet": "S15",
+    "cell": 1,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      249
+    ],
+    "bbox": [
+      872,
+      195,
+      1710,
+      954
+    ],
+    "path": "assets/layers/S15_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P02": {
+    "source_sheet": "S15",
+    "cell": 2,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      463,
+      5,
+      912,
+      249
+    ],
+    "bbox": [
+      109,
+      194,
+      965,
+      957
+    ],
+    "path": "assets/layers/S15_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P03": {
+    "source_sheet": "S15",
+    "cell": 3,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      922,
+      5,
+      1371,
+      249
+    ],
+    "bbox": [
+      188,
+      74,
+      1611,
+      976
+    ],
+    "path": "assets/layers/S15_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P04": {
+    "source_sheet": "S15",
+    "cell": 4,
+    "native": [
+      448,
+      249
+    ],
+    "upscaled": [
+      1792,
+      996
+    ],
+    "crop": [
+      5,
+      259,
+      453,
+      508
+    ],
+    "bbox": [
+      215,
+      155,
+      1607,
+      948
+    ],
+    "path": "assets/layers/S15_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P05": {
+    "source_sheet": "S15",
+    "cell": 5,
+    "native": [
+      449,
+      249
+    ],
+    "upscaled": [
+      1796,
+      996
+    ],
+    "crop": [
+      463,
+      259,
+      912,
+      508
+    ],
+    "bbox": [
+      924,
+      172,
+      1684,
+      956
+    ],
+    "path": "assets/layers/S15_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P06": {
+    "source_sheet": "S15",
+    "cell": 6,
+    "native": [
+      449,
+      249
+    ],
+    "upscaled": [
+      1796,
+      996
+    ],
+    "crop": [
+      922,
+      259,
+      1371,
+      508
+    ],
+    "bbox": [
+      156,
+      150,
+      945,
+      960
+    ],
+    "path": "assets/layers/S15_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P07": {
+    "source_sheet": "S15",
+    "cell": 7,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      518,
+      453,
+      763
+    ],
+    "bbox": [
+      497,
+      105,
+      1638,
+      922
+    ],
+    "path": "assets/layers/S15_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P08": {
+    "source_sheet": "S15",
+    "cell": 8,
+    "native": [
+      449,
+      245
+    ],
+    "upscaled": [
+      1796,
+      980
+    ],
+    "crop": [
+      463,
+      518,
+      912,
+      763
+    ],
+    "bbox": [
+      147,
+      111,
+      1600,
+      979
+    ],
+    "path": "assets/layers/S15_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S15_P09": {
+    "source_sheet": "S15",
+    "cell": 9,
+    "native": [
+      449,
+      245
+    ],
+    "upscaled": [
+      1796,
+      980
+    ],
+    "crop": [
+      922,
+      518,
+      1371,
+      763
+    ],
+    "bbox": [
+      428,
+      127,
+      1359,
+      914
+    ],
+    "path": "assets/layers/S15_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P01": {
+    "source_sheet": "S16",
+    "cell": 1,
+    "native": [
+      448,
+      247
+    ],
+    "upscaled": [
+      1792,
+      988
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      252
+    ],
+    "bbox": [
+      80,
+      125,
+      1792,
+      988
+    ],
+    "path": "assets/layers/S16_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P02": {
+    "source_sheet": "S16",
+    "cell": 2,
+    "native": [
+      450,
+      247
+    ],
+    "upscaled": [
+      1800,
+      988
+    ],
+    "crop": [
+      463,
+      5,
+      913,
+      252
+    ],
+    "bbox": [
+      45,
+      194,
+      1768,
+      986
+    ],
+    "path": "assets/layers/S16_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P03": {
+    "source_sheet": "S16",
+    "cell": 3,
+    "native": [
+      448,
+      247
+    ],
+    "upscaled": [
+      1792,
+      988
+    ],
+    "crop": [
+      923,
+      5,
+      1371,
+      252
+    ],
+    "bbox": [
+      17,
+      132,
+      1719,
+      988
+    ],
+    "path": "assets/layers/S16_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P04": {
+    "source_sheet": "S16",
+    "cell": 4,
+    "native": [
+      448,
+      247
+    ],
+    "upscaled": [
+      1792,
+      988
+    ],
+    "crop": [
+      5,
+      262,
+      453,
+      509
+    ],
+    "bbox": [
+      110,
+      23,
+      1792,
+      978
+    ],
+    "path": "assets/layers/S16_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "omit",
+    "reason": "Dense scribble crowding; alternate pressure panel is clearer.",
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P05": {
+    "source_sheet": "S16",
+    "cell": 5,
+    "native": [
+      450,
+      247
+    ],
+    "upscaled": [
+      1800,
+      988
+    ],
+    "crop": [
+      463,
+      262,
+      913,
+      509
+    ],
+    "bbox": [
+      31,
+      140,
+      1761,
+      988
+    ],
+    "path": "assets/layers/S16_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P06": {
+    "source_sheet": "S16",
+    "cell": 6,
+    "native": [
+      448,
+      247
+    ],
+    "upscaled": [
+      1792,
+      988
+    ],
+    "crop": [
+      923,
+      262,
+      1371,
+      509
+    ],
+    "bbox": [
+      35,
+      126,
+      1716,
+      988
+    ],
+    "path": "assets/layers/S16_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P07": {
+    "source_sheet": "S16",
+    "cell": 7,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      5,
+      519,
+      453,
+      763
+    ],
+    "bbox": [
+      79,
+      98,
+      1756,
+      932
+    ],
+    "path": "assets/layers/S16_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P08": {
+    "source_sheet": "S16",
+    "cell": 8,
+    "native": [
+      450,
+      244
+    ],
+    "upscaled": [
+      1800,
+      976
+    ],
+    "crop": [
+      463,
+      519,
+      913,
+      763
+    ],
+    "bbox": [
+      47,
+      42,
+      1774,
+      959
+    ],
+    "path": "assets/layers/S16_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S16_P09": {
+    "source_sheet": "S16",
+    "cell": 9,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      923,
+      519,
+      1371,
+      763
+    ],
+    "bbox": [
+      43,
+      51,
+      1697,
+      952
+    ],
+    "path": "assets/layers/S16_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P01": {
+    "source_sheet": "S17",
+    "cell": 1,
+    "native": [
+      451,
+      246
+    ],
+    "upscaled": [
+      1804,
+      984
+    ],
+    "crop": [
+      5,
+      5,
+      456,
+      251
+    ],
+    "bbox": [
+      846,
+      207,
+      1718,
+      984
+    ],
+    "path": "assets/layers/S17_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P02": {
+    "source_sheet": "S17",
+    "cell": 2,
+    "native": [
+      444,
+      246
+    ],
+    "upscaled": [
+      1776,
+      984
+    ],
+    "crop": [
+      466,
+      5,
+      910,
+      251
+    ],
+    "bbox": [
+      110,
+      211,
+      988,
+      984
+    ],
+    "path": "assets/layers/S17_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P03": {
+    "source_sheet": "S17",
+    "cell": 3,
+    "native": [
+      451,
+      246
+    ],
+    "upscaled": [
+      1804,
+      984
+    ],
+    "crop": [
+      920,
+      5,
+      1371,
+      251
+    ],
+    "bbox": [
+      726,
+      207,
+      1667,
+      984
+    ],
+    "path": "assets/layers/S17_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P04": {
+    "source_sheet": "S17",
+    "cell": 4,
+    "native": [
+      451,
+      236
+    ],
+    "upscaled": [
+      1804,
+      944
+    ],
+    "crop": [
+      5,
+      261,
+      456,
+      497
+    ],
+    "bbox": [
+      183,
+      156,
+      1090,
+      944
+    ],
+    "path": "assets/layers/S17_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P05": {
+    "source_sheet": "S17",
+    "cell": 5,
+    "native": [
+      444,
+      236
+    ],
+    "upscaled": [
+      1776,
+      944
+    ],
+    "crop": [
+      466,
+      261,
+      910,
+      497
+    ],
+    "bbox": [
+      675,
+      172,
+      1713,
+      944
+    ],
+    "path": "assets/layers/S17_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P06": {
+    "source_sheet": "S17",
+    "cell": 6,
+    "native": [
+      451,
+      236
+    ],
+    "upscaled": [
+      1804,
+      944
+    ],
+    "crop": [
+      920,
+      261,
+      1371,
+      497
+    ],
+    "bbox": [
+      131,
+      158,
+      1050,
+      944
+    ],
+    "path": "assets/layers/S17_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P07": {
+    "source_sheet": "S17",
+    "cell": 7,
+    "native": [
+      451,
+      256
+    ],
+    "upscaled": [
+      1804,
+      1024
+    ],
+    "crop": [
+      5,
+      507,
+      456,
+      763
+    ],
+    "bbox": [
+      720,
+      135,
+      1732,
+      1024
+    ],
+    "path": "assets/layers/S17_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P08": {
+    "source_sheet": "S17",
+    "cell": 8,
+    "native": [
+      444,
+      256
+    ],
+    "upscaled": [
+      1776,
+      1024
+    ],
+    "crop": [
+      466,
+      507,
+      910,
+      763
+    ],
+    "bbox": [
+      78,
+      151,
+      1296,
+      1003
+    ],
+    "path": "assets/layers/S17_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S17_P09": {
+    "source_sheet": "S17",
+    "cell": 9,
+    "native": [
+      451,
+      256
+    ],
+    "upscaled": [
+      1804,
+      1024
+    ],
+    "crop": [
+      920,
+      507,
+      1371,
+      763
+    ],
+    "bbox": [
+      802,
+      153,
+      1633,
+      975
+    ],
+    "path": "assets/layers/S17_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P01": {
+    "source_sheet": "S18",
+    "cell": 1,
+    "native": [
+      448,
+      243
+    ],
+    "upscaled": [
+      1792,
+      972
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      248
+    ],
+    "bbox": [
+      299,
+      196,
+      1470,
+      972
+    ],
+    "path": "assets/layers/S18_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P02": {
+    "source_sheet": "S18",
+    "cell": 2,
+    "native": [
+      448,
+      243
+    ],
+    "upscaled": [
+      1792,
+      972
+    ],
+    "crop": [
+      463,
+      5,
+      911,
+      248
+    ],
+    "bbox": [
+      242,
+      66,
+      1569,
+      972
+    ],
+    "path": "assets/layers/S18_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P03": {
+    "source_sheet": "S18",
+    "cell": 3,
+    "native": [
+      450,
+      243
+    ],
+    "upscaled": [
+      1800,
+      972
+    ],
+    "crop": [
+      921,
+      5,
+      1371,
+      248
+    ],
+    "bbox": [
+      422,
+      203,
+      1390,
+      972
+    ],
+    "path": "assets/layers/S18_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P04": {
+    "source_sheet": "S18",
+    "cell": 4,
+    "native": [
+      448,
+      251
+    ],
+    "upscaled": [
+      1792,
+      1004
+    ],
+    "crop": [
+      5,
+      258,
+      453,
+      509
+    ],
+    "bbox": [
+      349,
+      300,
+      1435,
+      1004
+    ],
+    "path": "assets/layers/S18_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P05": {
+    "source_sheet": "S18",
+    "cell": 5,
+    "native": [
+      448,
+      251
+    ],
+    "upscaled": [
+      1792,
+      1004
+    ],
+    "crop": [
+      463,
+      258,
+      911,
+      509
+    ],
+    "bbox": [
+      266,
+      261,
+      1572,
+      1004
+    ],
+    "path": "assets/layers/S18_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P06": {
+    "source_sheet": "S18",
+    "cell": 6,
+    "native": [
+      450,
+      251
+    ],
+    "upscaled": [
+      1800,
+      1004
+    ],
+    "crop": [
+      921,
+      258,
+      1371,
+      509
+    ],
+    "bbox": [
+      135,
+      41,
+      1694,
+      1004
+    ],
+    "path": "assets/layers/S18_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P07": {
+    "source_sheet": "S18",
+    "cell": 7,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      5,
+      519,
+      453,
+      763
+    ],
+    "bbox": [
+      199,
+      127,
+      1549,
+      940
+    ],
+    "path": "assets/layers/S18_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P08": {
+    "source_sheet": "S18",
+    "cell": 8,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      463,
+      519,
+      911,
+      763
+    ],
+    "bbox": [
+      210,
+      156,
+      1517,
+      961
+    ],
+    "path": "assets/layers/S18_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S18_P09": {
+    "source_sheet": "S18",
+    "cell": 9,
+    "native": [
+      450,
+      244
+    ],
+    "upscaled": [
+      1800,
+      976
+    ],
+    "crop": [
+      921,
+      519,
+      1371,
+      763
+    ],
+    "bbox": [
+      334,
+      202,
+      1624,
+      976
+    ],
+    "path": "assets/layers/S18_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P01": {
+    "source_sheet": "S19",
+    "cell": 1,
+    "native": [
+      448,
+      243
+    ],
+    "upscaled": [
+      1792,
+      972
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      248
+    ],
+    "bbox": [
+      983,
+      140,
+      1706,
+      947
+    ],
+    "path": "assets/layers/S19_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P02": {
+    "source_sheet": "S19",
+    "cell": 2,
+    "native": [
+      448,
+      243
+    ],
+    "upscaled": [
+      1792,
+      972
+    ],
+    "crop": [
+      463,
+      5,
+      911,
+      248
+    ],
+    "bbox": [
+      166,
+      144,
+      1269,
+      958
+    ],
+    "path": "assets/layers/S19_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P03": {
+    "source_sheet": "S19",
+    "cell": 3,
+    "native": [
+      450,
+      243
+    ],
+    "upscaled": [
+      1800,
+      972
+    ],
+    "crop": [
+      921,
+      5,
+      1371,
+      248
+    ],
+    "bbox": [
+      645,
+      135,
+      1644,
+      972
+    ],
+    "path": "assets/layers/S19_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P04": {
+    "source_sheet": "S19",
+    "cell": 4,
+    "native": [
+      448,
+      250
+    ],
+    "upscaled": [
+      1792,
+      1000
+    ],
+    "crop": [
+      5,
+      258,
+      453,
+      508
+    ],
+    "bbox": [
+      195,
+      140,
+      1091,
+      958
+    ],
+    "path": "assets/layers/S19_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P05": {
+    "source_sheet": "S19",
+    "cell": 5,
+    "native": [
+      448,
+      250
+    ],
+    "upscaled": [
+      1792,
+      1000
+    ],
+    "crop": [
+      463,
+      258,
+      911,
+      508
+    ],
+    "bbox": [
+      716,
+      151,
+      1685,
+      973
+    ],
+    "path": "assets/layers/S19_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P06": {
+    "source_sheet": "S19",
+    "cell": 6,
+    "native": [
+      450,
+      250
+    ],
+    "upscaled": [
+      1800,
+      1000
+    ],
+    "crop": [
+      921,
+      258,
+      1371,
+      508
+    ],
+    "bbox": [
+      140,
+      147,
+      1050,
+      975
+    ],
+    "path": "assets/layers/S19_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P07": {
+    "source_sheet": "S19",
+    "cell": 7,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      518,
+      453,
+      763
+    ],
+    "bbox": [
+      814,
+      184,
+      1740,
+      902
+    ],
+    "path": "assets/layers/S19_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P08": {
+    "source_sheet": "S19",
+    "cell": 8,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      463,
+      518,
+      911,
+      763
+    ],
+    "bbox": [
+      130,
+      100,
+      1738,
+      977
+    ],
+    "path": "assets/layers/S19_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S19_P09": {
+    "source_sheet": "S19",
+    "cell": 9,
+    "native": [
+      450,
+      245
+    ],
+    "upscaled": [
+      1800,
+      980
+    ],
+    "crop": [
+      921,
+      518,
+      1371,
+      763
+    ],
+    "bbox": [
+      207,
+      100,
+      1676,
+      964
+    ],
+    "path": "assets/layers/S19_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "omit",
+    "reason": "Unspecified plotted curves risk implying unsupported measurements.",
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P01": {
+    "source_sheet": "S20",
+    "cell": 1,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      249
+    ],
+    "bbox": [
+      253,
+      209,
+      1283,
+      960
+    ],
+    "path": "assets/layers/S20_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P02": {
+    "source_sheet": "S20",
+    "cell": 2,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      463,
+      5,
+      911,
+      249
+    ],
+    "bbox": [
+      770,
+      3,
+      1748,
+      969
+    ],
+    "path": "assets/layers/S20_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P03": {
+    "source_sheet": "S20",
+    "cell": 3,
+    "native": [
+      450,
+      244
+    ],
+    "upscaled": [
+      1800,
+      976
+    ],
+    "crop": [
+      921,
+      5,
+      1371,
+      249
+    ],
+    "bbox": [
+      137,
+      203,
+      1157,
+      942
+    ],
+    "path": "assets/layers/S20_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P04": {
+    "source_sheet": "S20",
+    "cell": 4,
+    "native": [
+      448,
+      249
+    ],
+    "upscaled": [
+      1792,
+      996
+    ],
+    "crop": [
+      5,
+      259,
+      453,
+      508
+    ],
+    "bbox": [
+      1094,
+      89,
+      1619,
+      974
+    ],
+    "path": "assets/layers/S20_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P05": {
+    "source_sheet": "S20",
+    "cell": 5,
+    "native": [
+      448,
+      249
+    ],
+    "upscaled": [
+      1792,
+      996
+    ],
+    "crop": [
+      463,
+      259,
+      911,
+      508
+    ],
+    "bbox": [
+      401,
+      204,
+      1366,
+      973
+    ],
+    "path": "assets/layers/S20_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P06": {
+    "source_sheet": "S20",
+    "cell": 6,
+    "native": [
+      450,
+      249
+    ],
+    "upscaled": [
+      1800,
+      996
+    ],
+    "crop": [
+      921,
+      259,
+      1371,
+      508
+    ],
+    "bbox": [
+      702,
+      170,
+      1394,
+      964
+    ],
+    "path": "assets/layers/S20_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P07": {
+    "source_sheet": "S20",
+    "cell": 7,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      5,
+      518,
+      453,
+      763
+    ],
+    "bbox": [
+      220,
+      136,
+      1618,
+      899
+    ],
+    "path": "assets/layers/S20_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P08": {
+    "source_sheet": "S20",
+    "cell": 8,
+    "native": [
+      448,
+      245
+    ],
+    "upscaled": [
+      1792,
+      980
+    ],
+    "crop": [
+      463,
+      518,
+      911,
+      763
+    ],
+    "bbox": [
+      854,
+      106,
+      1618,
+      929
+    ],
+    "path": "assets/layers/S20_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S20_P09": {
+    "source_sheet": "S20",
+    "cell": 9,
+    "native": [
+      450,
+      245
+    ],
+    "upscaled": [
+      1800,
+      980
+    ],
+    "crop": [
+      921,
+      518,
+      1371,
+      763
+    ],
+    "bbox": [
+      83,
+      160,
+      1053,
+      960
+    ],
+    "path": "assets/layers/S20_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P01": {
+    "source_sheet": "S21",
+    "cell": 1,
+    "native": [
+      448,
+      243
+    ],
+    "upscaled": [
+      1792,
+      972
+    ],
+    "crop": [
+      5,
+      5,
+      453,
+      248
+    ],
+    "bbox": [
+      890,
+      159,
+      1685,
+      936
+    ],
+    "path": "assets/layers/S21_P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "omit",
+    "reason": "Spiked object is an unnecessarily aggressive metaphor.",
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P02": {
+    "source_sheet": "S21",
+    "cell": 2,
+    "native": [
+      449,
+      243
+    ],
+    "upscaled": [
+      1796,
+      972
+    ],
+    "crop": [
+      463,
+      5,
+      912,
+      248
+    ],
+    "bbox": [
+      107,
+      154,
+      700,
+      972
+    ],
+    "path": "assets/layers/S21_P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P03": {
+    "source_sheet": "S21",
+    "cell": 3,
+    "native": [
+      449,
+      243
+    ],
+    "upscaled": [
+      1796,
+      972
+    ],
+    "crop": [
+      922,
+      5,
+      1371,
+      248
+    ],
+    "bbox": [
+      120,
+      168,
+      1688,
+      972
+    ],
+    "path": "assets/layers/S21_P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P04": {
+    "source_sheet": "S21",
+    "cell": 4,
+    "native": [
+      448,
+      251
+    ],
+    "upscaled": [
+      1792,
+      1004
+    ],
+    "crop": [
+      5,
+      258,
+      453,
+      509
+    ],
+    "bbox": [
+      0,
+      151,
+      1792,
+      1004
+    ],
+    "path": "assets/layers/S21_P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P05": {
+    "source_sheet": "S21",
+    "cell": 5,
+    "native": [
+      449,
+      251
+    ],
+    "upscaled": [
+      1796,
+      1004
+    ],
+    "crop": [
+      463,
+      258,
+      912,
+      509
+    ],
+    "bbox": [
+      763,
+      41,
+      1789,
+      1000
+    ],
+    "path": "assets/layers/S21_P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P06": {
+    "source_sheet": "S21",
+    "cell": 6,
+    "native": [
+      449,
+      251
+    ],
+    "upscaled": [
+      1796,
+      1004
+    ],
+    "crop": [
+      922,
+      258,
+      1371,
+      509
+    ],
+    "bbox": [
+      202,
+      132,
+      963,
+      1004
+    ],
+    "path": "assets/layers/S21_P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P07": {
+    "source_sheet": "S21",
+    "cell": 7,
+    "native": [
+      448,
+      244
+    ],
+    "upscaled": [
+      1792,
+      976
+    ],
+    "crop": [
+      5,
+      519,
+      453,
+      763
+    ],
+    "bbox": [
+      0,
+      102,
+      1792,
+      959
+    ],
+    "path": "assets/layers/S21_P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P08": {
+    "source_sheet": "S21",
+    "cell": 8,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      463,
+      519,
+      912,
+      763
+    ],
+    "bbox": [
+      0,
+      98,
+      1796,
+      967
+    ],
+    "path": "assets/layers/S21_P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "S21_P09": {
+    "source_sheet": "S21",
+    "cell": 9,
+    "native": [
+      449,
+      244
+    ],
+    "upscaled": [
+      1796,
+      976
+    ],
+    "crop": [
+      922,
+      519,
+      1371,
+      763
+    ],
+    "bbox": [
+      915,
+      60,
+      1714,
+      976
+    ],
+    "path": "assets/layers/S21_P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C01": {
+    "source_sheet": "K1",
+    "cell": 1,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      8,
+      8,
+      333,
+      333
+    ],
+    "bbox": [
+      396,
+      151,
+      981,
+      1300
+    ],
+    "path": "assets/kit/C01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C02": {
+    "source_sheet": "K1",
+    "cell": 2,
+    "native": [
+      326,
+      325
+    ],
+    "upscaled": [
+      1304,
+      1300
+    ],
+    "crop": [
+      349,
+      8,
+      675,
+      333
+    ],
+    "bbox": [
+      278,
+      138,
+      1068,
+      1300
+    ],
+    "path": "assets/kit/C02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C03": {
+    "source_sheet": "K1",
+    "cell": 3,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      691,
+      8,
+      1016,
+      333
+    ],
+    "bbox": [
+      420,
+      146,
+      863,
+      1300
+    ],
+    "path": "assets/kit/C03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C04": {
+    "source_sheet": "K1",
+    "cell": 4,
+    "native": [
+      325,
+      326
+    ],
+    "upscaled": [
+      1300,
+      1304
+    ],
+    "crop": [
+      8,
+      349,
+      333,
+      675
+    ],
+    "bbox": [
+      435,
+      93,
+      988,
+      1272
+    ],
+    "path": "assets/kit/C04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C05": {
+    "source_sheet": "K1",
+    "cell": 5,
+    "native": [
+      326,
+      326
+    ],
+    "upscaled": [
+      1304,
+      1304
+    ],
+    "crop": [
+      349,
+      349,
+      675,
+      675
+    ],
+    "bbox": [
+      392,
+      94,
+      961,
+      1268
+    ],
+    "path": "assets/kit/C05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C06": {
+    "source_sheet": "K1",
+    "cell": 6,
+    "native": [
+      325,
+      326
+    ],
+    "upscaled": [
+      1300,
+      1304
+    ],
+    "crop": [
+      691,
+      349,
+      1016,
+      675
+    ],
+    "bbox": [
+      419,
+      115,
+      895,
+      1284
+    ],
+    "path": "assets/kit/C06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C07": {
+    "source_sheet": "K1",
+    "cell": 7,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      8,
+      691,
+      333,
+      1016
+    ],
+    "bbox": [
+      417,
+      62,
+      1109,
+      1230
+    ],
+    "path": "assets/kit/C07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C08": {
+    "source_sheet": "K1",
+    "cell": 8,
+    "native": [
+      326,
+      325
+    ],
+    "upscaled": [
+      1304,
+      1300
+    ],
+    "crop": [
+      349,
+      691,
+      675,
+      1016
+    ],
+    "bbox": [
+      475,
+      66,
+      869,
+      1226
+    ],
+    "path": "assets/kit/C08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "C09": {
+    "source_sheet": "K1",
+    "cell": 9,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      691,
+      691,
+      1016,
+      1016
+    ],
+    "bbox": [
+      395,
+      63,
+      896,
+      1217
+    ],
+    "path": "assets/kit/C09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P01": {
+    "source_sheet": "K2",
+    "cell": 1,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      8,
+      8,
+      333,
+      333
+    ],
+    "bbox": [
+      269,
+      299,
+      1206,
+      1168
+    ],
+    "path": "assets/kit/P01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P02": {
+    "source_sheet": "K2",
+    "cell": 2,
+    "native": [
+      326,
+      325
+    ],
+    "upscaled": [
+      1304,
+      1300
+    ],
+    "crop": [
+      349,
+      8,
+      675,
+      333
+    ],
+    "bbox": [
+      374,
+      248,
+      932,
+      1218
+    ],
+    "path": "assets/kit/P02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P03": {
+    "source_sheet": "K2",
+    "cell": 3,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      691,
+      8,
+      1016,
+      333
+    ],
+    "bbox": [
+      126,
+      270,
+      1029,
+      1193
+    ],
+    "path": "assets/kit/P03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P04": {
+    "source_sheet": "K2",
+    "cell": 4,
+    "native": [
+      325,
+      326
+    ],
+    "upscaled": [
+      1300,
+      1304
+    ],
+    "crop": [
+      8,
+      349,
+      333,
+      675
+    ],
+    "bbox": [
+      178,
+      229,
+      1300,
+      1075
+    ],
+    "path": "assets/kit/P04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P05": {
+    "source_sheet": "K2",
+    "cell": 5,
+    "native": [
+      326,
+      326
+    ],
+    "upscaled": [
+      1304,
+      1304
+    ],
+    "crop": [
+      349,
+      349,
+      675,
+      675
+    ],
+    "bbox": [
+      279,
+      233,
+      1024,
+      1063
+    ],
+    "path": "assets/kit/P05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P06": {
+    "source_sheet": "K2",
+    "cell": 6,
+    "native": [
+      325,
+      326
+    ],
+    "upscaled": [
+      1300,
+      1304
+    ],
+    "crop": [
+      691,
+      349,
+      1016,
+      675
+    ],
+    "bbox": [
+      120,
+      236,
+      1034,
+      1068
+    ],
+    "path": "assets/kit/P06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P07": {
+    "source_sheet": "K2",
+    "cell": 7,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      8,
+      691,
+      333,
+      1016
+    ],
+    "bbox": [
+      290,
+      156,
+      1196,
+      985
+    ],
+    "path": "assets/kit/P07.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P08": {
+    "source_sheet": "K2",
+    "cell": 8,
+    "native": [
+      326,
+      325
+    ],
+    "upscaled": [
+      1304,
+      1300
+    ],
+    "crop": [
+      349,
+      691,
+      675,
+      1016
+    ],
+    "bbox": [
+      79,
+      103,
+      1226,
+      1023
+    ],
+    "path": "assets/kit/P08.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "P09": {
+    "source_sheet": "K2",
+    "cell": 9,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      691,
+      691,
+      1016,
+      1016
+    ],
+    "bbox": [
+      107,
+      78,
+      1101,
+      1113
+    ],
+    "path": "assets/kit/P09.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "matte extracted and enclosed pale interiors preserved"
+  },
+  "F01": {
+    "source_sheet": "K3",
+    "cell": 1,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      8,
+      8,
+      333,
+      333
+    ],
+    "bbox": [
+      113,
+      335,
+      1277,
+      977
+    ],
+    "path": "assets/kit/F01.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "luma/alpha material extracted from paper"
+  },
+  "F02": {
+    "source_sheet": "K3",
+    "cell": 2,
+    "native": [
+      326,
+      325
+    ],
+    "upscaled": [
+      1304,
+      1300
+    ],
+    "crop": [
+      349,
+      8,
+      675,
+      333
+    ],
+    "bbox": [
+      353,
+      79,
+      948,
+      1244
+    ],
+    "path": "assets/kit/F02.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "luma/alpha material extracted from paper"
+  },
+  "F03": {
+    "source_sheet": "K3",
+    "cell": 3,
+    "native": [
+      325,
+      325
+    ],
+    "upscaled": [
+      1300,
+      1300
+    ],
+    "crop": [
+      691,
+      8,
+      1016,
+      333
+    ],
+    "bbox": [
+      131,
+      84,
+      1144,
+      1167
+    ],
+    "path": "assets/kit/F03.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "luma/alpha material extracted from paper"
+  },
+  "F04": {
+    "source_sheet": "K3",
+    "cell": 4,
+    "native": [
+      325,
+      326
+    ],
+    "upscaled": [
+      1300,
+      1304
+    ],
+    "crop": [
+      8,
+      349,
+      333,
+      675
+    ],
+    "bbox": [
+      206,
+      180,
+      1106,
+      1108
+    ],
+    "path": "assets/kit/F04.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "luma/alpha material extracted from paper"
+  },
+  "F05": {
+    "source_sheet": "K3",
+    "cell": 5,
+    "native": [
+      326,
+      326
+    ],
+    "upscaled": [
+      1304,
+      1304
+    ],
+    "crop": [
+      349,
+      349,
+      675,
+      675
+    ],
+    "bbox": [
+      95,
+      166,
+      1208,
+      1139
+    ],
+    "path": "assets/kit/F05.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "luma/alpha material extracted from paper"
+  },
+  "F06": {
+    "source_sheet": "K3",
+    "cell": 6,
+    "native": [
+      325,
+      326
+    ],
+    "upscaled": [
+      1300,
+      1304
+    ],
+    "crop": [
+      691,
+      349,
+      1016,
+      675
+    ],
+    "bbox": [
+      122,
+      100,
+      1158,
+      1205
+    ],
+    "path": "assets/kit/F06.png",
+    "reconstruction": "FSRCNN 4x with 22% Lanczos blend; restrained sharpening",
+    "status": "available",
+    "reason": null,
+    "alpha": "luma/alpha material extracted from paper"
+  }
+}

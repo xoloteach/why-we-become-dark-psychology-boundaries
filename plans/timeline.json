@@ -1,0 +1,59 @@
+{
+  "vo_end": 855.090063,
+  "total": 859.1,
+  "fps": 30,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The apology trap",
+      "start": 0.0
+    },
+    {
+      "chapter": 2,
+      "title": "Conflict or control?",
+      "start": 62.38
+    },
+    {
+      "chapter": 3,
+      "title": "Gaslighting",
+      "start": 152.125
+    },
+    {
+      "chapter": 4,
+      "title": "Love-bombing",
+      "start": 264.855
+    },
+    {
+      "chapter": 5,
+      "title": "Traits, not diagnoses",
+      "start": 378.41498
+    },
+    {
+      "chapter": 6,
+      "title": "Boundaries versus control",
+      "start": 472.23
+    },
+    {
+      "chapter": 7,
+      "title": "Disappointment or pressure?",
+      "start": 562.0
+    },
+    {
+      "chapter": 8,
+      "title": "Five questions",
+      "start": 647.01
+    },
+    {
+      "chapter": 9,
+      "title": "Compassion and safety",
+      "start": 705.05
+    },
+    {
+      "chapter": 10,
+      "title": "Room to be yourself",
+      "start": 749.20496
+    }
+  ],
+  "audio_sha256": "5f6815d46f62aa6becf1ed40f132103aae20fe10ee86c104014ab65c02df92f3",
+  "source_commit": "24482a17b033efb8c7bffadc4691e8519e446c96"
+}

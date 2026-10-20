@@ -1,0 +1,3787 @@
+[
+  {
+    "id": 0,
+    "start": 0.0,
+    "end": 6.48,
+    "art": "S01_P01",
+    "kind": "chain",
+    "title": "The apology trap",
+    "labels": [
+      "Conversation",
+      "Apology"
+    ],
+    "cues": [
+      1.28,
+      3.36
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "Have you ever walked away from a conversation... and somehow ended up apologizing... even though you weren't sure what you did wrong?",
+    "script_line": 1,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 1,
+    "start": 6.48,
+    "end": 9.36,
+    "art": "S01_P04",
+    "kind": "focus",
+    "title": "You raised a concern",
+    "labels": [
+      "Your feelings"
+    ],
+    "cues": [
+      7.68
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "Maybe you tried to explain how something made you feel.",
+    "script_line": 4,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 2,
+    "start": 9.36,
+    "end": 14.195,
+    "art": "S01_P05",
+    "kind": "chain",
+    "title": "The subject changed",
+    "labels": [
+      "What happened",
+      "Your attitude"
+    ],
+    "cues": [
+      10.48,
+      13.12
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "But instead of discussing what happened... the conversation somehow became about your attitude.",
+    "script_line": 5,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 3,
+    "start": 14.195,
+    "end": 20.355,
+    "art": "S01_P07",
+    "kind": "stack",
+    "title": "Now you are the problem",
+    "labels": [
+      "Too sensitive",
+      "You misunderstood",
+      "You create problems"
+    ],
+    "cues": [
+      15.155,
+      16.595,
+      18.914999
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You were told you were too sensitive. That you misunderstood everything. That you always created problems.",
+    "script_line": 7,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 4,
+    "start": 20.355,
+    "end": 27.11,
+    "art": "S01_P08",
+    "kind": "focus",
+    "title": "You stop explaining",
+    "labels": [
+      "Silence",
+      "Exhaustion"
+    ],
+    "cues": [
+      21.154999,
+      26.195
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "And eventually... you stopped trying to explain yourself. Not because you suddenly agreed with them. But because you were exhausted.",
+    "script_line": 10,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 5,
+    "start": 27.11,
+    "end": 32.39,
+    "art": "S02_P02",
+    "kind": "stack",
+    "title": "Self-trust starts slipping",
+    "labels": [
+      "Memory",
+      "Judgment",
+      "Your feelings"
+    ],
+    "cues": [
+      28.630001,
+      29.67,
+      31.03
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You started questioning your own memory. Your own judgment. Even your right to feel upset.",
+    "script_line": 14,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 6,
+    "start": 32.39,
+    "end": 38.63,
+    "art": "S02_P04",
+    "kind": "chain",
+    "title": "Responsibility reverses",
+    "labels": [
+      "You were hurt",
+      "You make it right"
+    ],
+    "cues": [
+      33.83,
+      37.43
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "And the strangest part? The person who hurt you... somehow became the person you felt you had to make things right with.",
+    "script_line": 17,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 7,
+    "start": 38.63,
+    "end": 46.405003,
+    "art": "S02_P05",
+    "kind": "focus",
+    "title": "Not every conflict",
+    "labels": [
+      "Not every difficult conversation",
+      "Is manipulation"
+    ],
+    "cues": [
+      38.79,
+      40.63
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "Now, not every difficult conversation is manipulation. People misunderstand each other. People get defensive. People make mistakes.",
+    "script_line": 20,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 8,
+    "start": 46.405003,
+    "end": 55.74,
+    "art": "S02_P06",
+    "kind": "loop",
+    "title": "Look for the pattern",
+    "labels": [
+      "Repeated dismissal",
+      "Your feelings",
+      "Your boundaries",
+      "Your mistakes"
+    ],
+    "cues": [
+      47.845,
+      49.525,
+      51.685,
+      54.005
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "But sometimes... there is a pattern. A pattern where your feelings are constantly dismissed. Your boundaries are treated like betrayal. Your mistakes are remembered forever...",
+    "script_line": 24,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 9,
+    "start": 55.74,
+    "end": 58.7,
+    "art": "S02_P08",
+    "kind": "contrast",
+    "title": "Unequal responsibility",
+    "labels": [
+      "Their actions",
+      "No accountability"
+    ],
+    "cues": [
+      56.06,
+      57.420002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "while theirs are somehow never their responsibility.",
+    "script_line": 29,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 10,
+    "start": 58.7,
+    "end": 62.38,
+    "art": "S02_P09",
+    "kind": "focus",
+    "title": "Keeping the peace",
+    "labels": [
+      "Becoming smaller",
+      "Keeping the peace"
+    ],
+    "cues": [
+      59.9,
+      61.18
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "And slowly... you begin changing yourself just to keep the peace.",
+    "script_line": 30,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 11,
+    "start": 62.38,
+    "end": 67.58,
+    "art": "S03_P01",
+    "kind": "contrast",
+    "title": "Manipulation or boundaries?",
+    "labels": [
+      "Manipulation",
+      "Healthy boundaries"
+    ],
+    "cues": [
+      65.18,
+      66.3
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "Today, we're going to look at the difference between dark psychological manipulation and healthy boundaries.",
+    "script_line": 32,
+    "kit": [],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 12,
+    "start": 67.58,
+    "end": 72.655,
+    "art": "S03_P02",
+    "kind": "stack",
+    "title": "Recognize patterns",
+    "labels": [
+      "Gaslighting",
+      "Love-bombing",
+      "Control"
+    ],
+    "cues": [
+      68.14,
+      69.0375,
+      69.935
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "We'll explore gaslighting, love-bombing, controlling behavior, and narcissistic traits.",
+    "script_line": 33,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 13,
+    "start": 72.655,
+    "end": 82.25,
+    "art": "S03_P09",
+    "kind": "contrast",
+    "title": "Understanding, not suspicion",
+    "labels": [
+      "Disagreement ≠ abuse",
+      "Difficult ≠ diagnosed"
+    ],
+    "cues": [
+      76.895004,
+      80.815
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "More importantly... we'll look at how to recognize unhealthy patterns without assuming that every disagreement is abuse... or that every difficult person has a personality disorder.",
+    "script_line": 34,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 14,
+    "start": 82.25,
+    "end": 88.81,
+    "art": "S03_P02",
+    "kind": "focus",
+    "title": "What should healthy feel like?",
+    "labels": [
+      "Not suspicion",
+      "Understanding"
+    ],
+    "cues": [
+      83.77,
+      86.33
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "Because the goal isn't to become suspicious of everyone. It's to understand what healthy relationships should actually feel like.",
+    "script_line": 37,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 15,
+    "start": 88.81,
+    "end": 94.295,
+    "art": "S03_P03",
+    "kind": "quote",
+    "title": "Start with a concern",
+    "labels": [
+      "I did not like that"
+    ],
+    "cues": [
+      92.409996
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "Let's start with something simple. Imagine you tell someone... “I didn't like the way you spoke to me earlier.”",
+    "script_line": 39,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 16,
+    "start": 94.295,
+    "end": 97.655,
+    "art": "S03_P05",
+    "kind": "focus",
+    "title": "Uncomfortable can be healthy",
+    "labels": [
+      "Discomfort is possible"
+    ],
+    "cues": [
+      96.695
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "In a healthy relationship, the conversation might be uncomfortable.",
+    "script_line": 42,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 17,
+    "start": 97.655,
+    "end": 101.494995,
+    "art": "S03_P06",
+    "kind": "contrast",
+    "title": "Two perspectives can exist",
+    "labels": [
+      "Their meaning",
+      "Your interpretation"
+    ],
+    "cues": [
+      98.295,
+      100.215
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "They might explain what they meant. They might disagree with your interpretation.",
+    "script_line": 43,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 18,
+    "start": 101.494995,
+    "end": 109.55,
+    "art": "S03_P07",
+    "kind": "contrast",
+    "title": "Both people have feelings",
+    "labels": [
+      "Their feelings matter",
+      "Both perspectives matter"
+    ],
+    "cues": [
+      102.375,
+      104.774994
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "They might even tell you that your words hurt them, too. But ideally... both people can discuss what happened without one person having to surrender their perspective just to end the argument.",
+    "script_line": 45,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 19,
+    "start": 109.55,
+    "end": 112.67,
+    "art": "S04_P01",
+    "kind": "focus",
+    "title": "A different response",
+    "labels": [
+      "Watch what follows"
+    ],
+    "cues": [
+      110.43
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "Now imagine a different response. They immediately say...",
+    "script_line": 48,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 20,
+    "start": 112.67,
+    "end": 116.11,
+    "art": "S04_P02",
+    "kind": "quote",
+    "title": "Deflecting the concern",
+    "labels": [
+      "You make me the bad person",
+      "You are too sensitive"
+    ],
+    "cues": [
+      113.950005,
+      115.31
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "“You're always making me the bad person.” “You're too sensitive.”",
+    "script_line": 50,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 21,
+    "start": 116.11,
+    "end": 119.79,
+    "art": "S04_P03",
+    "kind": "quote",
+    "title": "Character replaces context",
+    "labels": [
+      "You remember it wrong",
+      "You should be grateful"
+    ],
+    "cues": [
+      116.270004,
+      118.11
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "“You remember everything wrong.” “You should be grateful I even put up with you.”",
+    "script_line": 52,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 22,
+    "start": 119.79,
+    "end": 124.015,
+    "art": "S04_P05",
+    "kind": "chain",
+    "title": "Where did the concern go?",
+    "labels": [
+      "Original concern",
+      "Defending yourself"
+    ],
+    "cues": [
+      120.590004,
+      122.895004
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "Suddenly, the original problem disappears. Now you're defending your character.",
+    "script_line": 54,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 23,
+    "start": 124.015,
+    "end": 128.575,
+    "art": "S04_P04",
+    "kind": "stack",
+    "title": "Defending your right to feel",
+    "labels": [
+      "Not ungrateful",
+      "Not too sensitive"
+    ],
+    "cues": [
+      125.295006,
+      127.615005
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "You're explaining why you're not ungrateful. You're trying to prove that you're not too sensitive.",
+    "script_line": 56,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 24,
+    "start": 128.575,
+    "end": 132.015,
+    "art": "S04_P07",
+    "kind": "focus",
+    "title": "Unresolved, again",
+    "labels": [
+      "The concern stays unresolved"
+    ],
+    "cues": [
+      129.615
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "And the conversation ends without addressing what upset you in the first place.",
+    "script_line": 58,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 25,
+    "start": 132.015,
+    "end": 139.26001,
+    "art": "S04_P08",
+    "kind": "chain",
+    "title": "Concern becomes defense",
+    "labels": [
+      "Raise a concern",
+      "Defend your character"
+    ],
+    "cues": [
+      133.295,
+      137.42001
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "Notice what happened. You brought up a concern. But instead of discussing the concern... you were pushed into defending yourself for having one.",
+    "script_line": 59,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 26,
+    "start": 139.26001,
+    "end": 152.125,
+    "art": "S04_P09",
+    "kind": "contrast",
+    "title": "Disagreeing is not surrender",
+    "labels": [
+      "Room to disagree",
+      "Pressure to surrender"
+    ],
+    "cues": [
+      142.70001,
+      148.62001
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "If this happens repeatedly, it can become a serious problem. Because healthy communication allows two people to disagree. Manipulative communication can turn disagreement into a way of gaining control. And understanding that difference is the first step.",
+    "script_line": 63,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 27,
+    "start": 152.125,
+    "end": 157.725,
+    "art": "S05_P01",
+    "kind": "focus",
+    "title": "What is gaslighting?",
+    "labels": [
+      "Look beyond the buzzword"
+    ],
+    "cues": [
+      152.765
+    ],
+    "dark": true,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Let's talk about gaslighting. The word gets used so often online that it can sometimes lose its meaning.",
+    "script_line": 67,
+    "kit": [],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 28,
+    "start": 157.725,
+    "end": 163.25,
+    "art": "S05_P02",
+    "kind": "contrast",
+    "title": "Different memory is not proof",
+    "labels": [
+      "Different recollections",
+      "Not automatic manipulation"
+    ],
+    "cues": [
+      159.085,
+      161.245
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Gaslighting is more than someone remembering an event differently from you. It's not every disagreement about what happened.",
+    "script_line": 69,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 29,
+    "start": 163.25,
+    "end": 174.69,
+    "art": "S05_P03",
+    "kind": "memory",
+    "title": "A pattern that undermines reality",
+    "labels": [
+      "Denial alone is not proof",
+      "Self-trust is undermined"
+    ],
+    "cues": [
+      164.45,
+      170.20999
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "And it's not simply someone denying an accusation. Gaslighting refers to a pattern of manipulation that causes someone to question their own perception of reality, memory, or judgment.",
+    "script_line": 71,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 30,
+    "start": 174.69,
+    "end": 178.46501,
+    "art": "S05_P06",
+    "kind": "clock",
+    "title": "The six-o’clock agreement",
+    "labels": [
+      "6:00",
+      "Late arrival"
+    ],
+    "cues": [
+      176.20999,
+      177.425
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": true,
+    "phrase": "Imagine you agree to meet someone at six. They arrive much later.",
+    "script_line": 73,
+    "kit": [
+      "P03",
+      "F02"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 31,
+    "start": 178.46501,
+    "end": 184.38501,
+    "art": "S05_P08",
+    "kind": "evidence",
+    "title": "The agreement is denied",
+    "labels": [
+      "The agreement is disputed",
+      "You remember clearly"
+    ],
+    "cues": [
+      179.905,
+      183.66501
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": true,
+    "phrase": "When you bring it up, they tell you that you never agreed on six in the first place. You remember the conversation clearly.",
+    "script_line": 75,
+    "kit": [
+      "P02",
+      "C07",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 32,
+    "start": 184.38501,
+    "end": 189.54,
+    "art": "S06_P02",
+    "kind": "focus",
+    "title": "One incident is not proof",
+    "labels": [
+      "Your memory is dismissed",
+      "One incident ≠ proof"
+    ],
+    "cues": [
+      185.425,
+      188.065
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "But they insist you're imagining things. That one disagreement alone doesn't prove gaslighting.",
+    "script_line": 77,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 33,
+    "start": 189.54,
+    "end": 194.98,
+    "art": "S06_P03",
+    "kind": "contrast",
+    "title": "There may be ambiguity",
+    "labels": [
+      "Unclear messages",
+      "Different recollections"
+    ],
+    "cues": [
+      190.73999,
+      194.18
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Maybe the messages were unclear. Maybe someone genuinely remembers the conversation differently.",
+    "script_line": 79,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 34,
+    "start": 194.98,
+    "end": 203.805,
+    "art": "S06_P05",
+    "kind": "loop",
+    "title": "Then it keeps happening",
+    "labels": [
+      "Recurrence",
+      "Denial",
+      "Erasure",
+      "Undermining"
+    ],
+    "cues": [
+      195.7,
+      196.9,
+      200.18,
+      202.65999
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "But imagine this keeps happening. They deny things they previously said. They insist conversations never happened. They repeatedly tell you that your memory is terrible.",
+    "script_line": 81,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 35,
+    "start": 203.805,
+    "end": 209.805,
+    "art": "S06_P06",
+    "kind": "memory",
+    "title": "Doubting your own reality",
+    "labels": [
+      "You question behavior",
+      "You are made to doubt yourself"
+    ],
+    "cues": [
+      204.525,
+      207.245
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "And whenever you question their behavior... they make you feel as though something is wrong with your ability to understand reality.",
+    "script_line": 85,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 36,
+    "start": 209.805,
+    "end": 213.885,
+    "art": "S06_P07",
+    "kind": "focus",
+    "title": "Silence replaces certainty",
+    "labels": [
+      "Speaking less",
+      "Trusting yourself less"
+    ],
+    "cues": [
+      210.685,
+      211.805
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Eventually, you start keeping quiet. You stop trusting your own recollection.",
+    "script_line": 87,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 37,
+    "start": 213.885,
+    "end": 217.19,
+    "art": "S06_P08",
+    "kind": "chain",
+    "title": "Even when you were there",
+    "labels": [
+      "Their version",
+      "Your own experience"
+    ],
+    "cues": [
+      214.36499,
+      216.36499
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "You begin asking them what happened... even when you were there.",
+    "script_line": 89,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 38,
+    "start": 217.19,
+    "end": 222.23,
+    "art": "S07_P01",
+    "kind": "contrast",
+    "title": "The important distinction",
+    "labels": [
+      "The pattern matters",
+      "Different memory"
+    ],
+    "cues": [
+      217.67,
+      220.71
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "That's the important distinction. The issue isn't simply that someone disagrees with your memory.",
+    "script_line": 91,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 39,
+    "start": 222.23,
+    "end": 228.55,
+    "art": "S07_P07",
+    "kind": "stack",
+    "title": "Repeated, not isolated",
+    "labels": [
+      "Denying",
+      "Distorting",
+      "Undermining"
+    ],
+    "cues": [
+      223.67,
+      224.39,
+      225.19
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "It's the repeated pattern of denying, distorting, or undermining your reality in a way that makes you doubt yourself.",
+    "script_line": 93,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 40,
+    "start": 228.55,
+    "end": 234.68501,
+    "art": "S07_P02",
+    "kind": "focus",
+    "title": "Step back and check",
+    "labels": [
+      "Do not assume",
+      "Look at the wider pattern"
+    ],
+    "cues": [
+      230.63,
+      233.565
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "So what can you do? First, don't assume every disagreement is gaslighting. Look at the broader pattern.",
+    "script_line": 94,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 41,
+    "start": 234.68501,
+    "end": 239.88501,
+    "art": "S07_P03",
+    "kind": "evidence",
+    "title": "Document when safe",
+    "labels": [
+      "Only when appropriate and safe",
+      "Record important agreements"
+    ],
+    "cues": [
+      235.725,
+      237.005
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": true,
+    "phrase": "Second, when it's appropriate and safe, keep track of important agreements and conversations.",
+    "script_line": 97,
+    "kit": [
+      "P04",
+      "C07",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 42,
+    "start": 239.88501,
+    "end": 243.405,
+    "art": "S07_P04",
+    "kind": "evidence",
+    "title": "Clarify the agreement",
+    "labels": [
+      "Written messages",
+      "What was agreed?"
+    ],
+    "cues": [
+      239.88501,
+      242.125
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": true,
+    "phrase": "Written messages can help you clarify what was actually agreed upon.",
+    "script_line": 98,
+    "kit": [
+      "P02",
+      "C07",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 43,
+    "start": 243.405,
+    "end": 250.95001,
+    "art": "S07_P05",
+    "kind": "focus",
+    "title": "Can they acknowledge evidence?",
+    "labels": [
+      "Acknowledge evidence",
+      "Correct a mistaken recollection"
+    ],
+    "cues": [
+      246.285,
+      248.39
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "And third... pay attention to whether the other person can acknowledge evidence. Can they say, “I remembered that differently, but I see what you're saying”?",
+    "script_line": 99,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 44,
+    "start": 250.95001,
+    "end": 257.35,
+    "art": "S07_P06",
+    "kind": "contrast",
+    "title": "Can they admit a mistake?",
+    "labels": [
+      "I was mistaken",
+      "You cannot trust yourself"
+    ],
+    "cues": [
+      251.99,
+      255.99
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Can they admit that they were mistaken? Or does every conversation become another reason you should distrust yourself?",
+    "script_line": 102,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 45,
+    "start": 257.35,
+    "end": 264.855,
+    "art": "S07_P08",
+    "kind": "stack",
+    "title": "Honesty over perfect memory",
+    "labels": [
+      "Not perfect memory",
+      "Honesty",
+      "Accountability"
+    ],
+    "cues": [
+      259.59,
+      261.17502,
+      261.975
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Because healthy relationships don't require perfect memory. They require honesty, accountability, and a willingness to correct mistakes.",
+    "script_line": 104,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 46,
+    "start": 264.855,
+    "end": 269.655,
+    "art": "S08_P01",
+    "kind": "focus",
+    "title": "Love-bombing",
+    "labels": [
+      "Watch the pattern, not just intensity"
+    ],
+    "cues": [
+      266.775
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "Now let's look at another pattern. Love-bombing. Imagine meeting someone new.",
+    "script_line": 106,
+    "kit": [],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 47,
+    "start": 269.655,
+    "end": 276.21,
+    "art": "S08_P02",
+    "kind": "stack",
+    "title": "Intense from the beginning",
+    "labels": [
+      "You are unlike anyone",
+      "Constant messages",
+      "Everything about you"
+    ],
+    "cues": [
+      271.415,
+      273.17,
+      275.09
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "Within days, they're telling you that you're unlike anyone they've ever met. They message you constantly. They want to know everything about you.",
+    "script_line": 109,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 48,
+    "start": 276.21,
+    "end": 279.65,
+    "art": "S08_P05",
+    "kind": "chain",
+    "title": "The future arrives early",
+    "labels": [
+      "Future plans",
+      "Enormous promises"
+    ],
+    "cues": [
+      277.01,
+      278.77002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "They talk about your future together. They make enormous promises.",
+    "script_line": 112,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 49,
+    "start": 279.65,
+    "end": 285.33002,
+    "art": "S08_P04",
+    "kind": "affection",
+    "title": "It can feel incredible",
+    "labels": [
+      "Gifts",
+      "Intense attention"
+    ],
+    "cues": [
+      280.29,
+      284.61002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": true,
+    "phrase": "Maybe they send gifts. Maybe they tell you they've never felt this way before. And at first... it feels incredible.",
+    "script_line": 114,
+    "kit": [
+      "P05",
+      "P08",
+      "F04"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 50,
+    "start": 285.33002,
+    "end": 290.665,
+    "art": "S08_P06",
+    "kind": "stack",
+    "title": "Seen, wanted, understood",
+    "labels": [
+      "Seen",
+      "Wanted",
+      "Understood"
+    ],
+    "cues": [
+      285.81,
+      286.69,
+      289.545
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You feel seen. You feel wanted. You feel like you've finally met someone who understands you.",
+    "script_line": 118,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 51,
+    "start": 290.665,
+    "end": 297.30502,
+    "art": "S08_P07",
+    "kind": "focus",
+    "title": "Intensity is not proof",
+    "labels": [
+      "Not automatically manipulation",
+      "People can be expressive"
+    ],
+    "cues": [
+      293.30502,
+      296.345
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "But here's the important part. Intense affection is not automatically manipulation. Some people are naturally expressive.",
+    "script_line": 121,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 52,
+    "start": 297.30502,
+    "end": 300.47,
+    "art": "S08_P08",
+    "kind": "focus",
+    "title": "Fast is not always unhealthy",
+    "labels": [
+      "Respect matters more than speed"
+    ],
+    "cues": [
+      298.98502
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "Some relationships develop quickly without becoming unhealthy.",
+    "script_line": 124,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 53,
+    "start": 300.47,
+    "end": 307.83002,
+    "art": "S08_P09",
+    "kind": "stack",
+    "title": "Watch for pressure",
+    "labels": [
+      "Rush intimacy",
+      "Bypass boundaries",
+      "Create obligation"
+    ],
+    "cues": [
+      303.19,
+      304.47,
+      306.79
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "The concern begins when overwhelming affection is used to rush intimacy, bypass your boundaries, or create pressure and obligation.",
+    "script_line": 125,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 54,
+    "start": 307.83002,
+    "end": 312.31003,
+    "art": "S09_P01",
+    "kind": "boundary",
+    "title": "I want to go slowly",
+    "labels": [
+      "Respect my pace"
+    ],
+    "cues": [
+      311.03003
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": true,
+    "phrase": "Imagine you tell this person... “I really like you, but I want to take things slowly.”",
+    "script_line": 126,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 55,
+    "start": 312.31003,
+    "end": 317.865,
+    "art": "S09_P02",
+    "kind": "quote",
+    "title": "A limit meets guilt",
+    "labels": [
+      "Your limit disappoints them",
+      "You must not care"
+    ],
+    "cues": [
+      313.67,
+      315.225
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "Instead of respecting that... they become upset. They say you must not care about them as much as they care about you.",
+    "script_line": 128,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 56,
+    "start": 317.865,
+    "end": 323.465,
+    "art": "S09_P03",
+    "kind": "affection",
+    "title": "Gifts become leverage",
+    "labels": [
+      "Everything I did for you",
+      "You should not need time"
+    ],
+    "cues": [
+      318.745,
+      322.505
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": true,
+    "phrase": "They remind you of everything they've done for you. They tell you that if you truly loved them, you wouldn't need time.",
+    "script_line": 131,
+    "kit": [
+      "P05",
+      "P08",
+      "F04"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 57,
+    "start": 323.465,
+    "end": 326.665,
+    "art": "S09_P05",
+    "kind": "boundary",
+    "title": "Your boundary becomes blame",
+    "labels": [
+      "Your limit",
+      "Reframed as harm"
+    ],
+    "cues": [
+      324.265,
+      325.785
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": true,
+    "phrase": "Suddenly... your boundary becomes evidence that you're hurting them.",
+    "script_line": 133,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 58,
+    "start": 326.665,
+    "end": 329.91,
+    "art": "S09_P07",
+    "kind": "affection",
+    "title": "A gift becomes a debt",
+    "labels": [
+      "A gift",
+      "A debt"
+    ],
+    "cues": [
+      328.025,
+      329.545
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": true,
+    "phrase": "And the affection that felt like a gift... starts feeling like a debt.",
+    "script_line": 135,
+    "kit": [
+      "P05",
+      "P08",
+      "F04"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 59,
+    "start": 329.91,
+    "end": 336.39,
+    "art": "S10_P01",
+    "kind": "warmth",
+    "title": "Warmth disappears",
+    "labels": [
+      "Warmth withdraws",
+      "Distance"
+    ],
+    "cues": [
+      332.31,
+      334.15
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": true,
+    "phrase": "Later, perhaps after a disagreement, their warmth disappears. They become distant. They withdraw attention.",
+    "script_line": 137,
+    "kit": [
+      "P06",
+      "P07",
+      "F04"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 60,
+    "start": 336.39,
+    "end": 339.43,
+    "art": "S10_P04",
+    "kind": "warmth",
+    "title": "Then affection returns",
+    "labels": [
+      "You pull away",
+      "Warmth returns"
+    ],
+    "cues": [
+      337.27,
+      338.23
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": true,
+    "phrase": "Then, when you start pulling away, the affection returns.",
+    "script_line": 140,
+    "kit": [
+      "P06",
+      "P07",
+      "F04"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 61,
+    "start": 339.43,
+    "end": 347.625,
+    "art": "S10_P05",
+    "kind": "stack",
+    "title": "The promises return",
+    "labels": [
+      "Promises",
+      "Apologies",
+      "Hope"
+    ],
+    "cues": [
+      339.91,
+      341.43,
+      343.545
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "The grand promises come back. The apologies come back. And you start hoping that the wonderful version of the relationship will return permanently.",
+    "script_line": 141,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 62,
+    "start": 347.625,
+    "end": 358.19998,
+    "art": "S10_P07",
+    "kind": "loop",
+    "title": "The push-pull is exhausting",
+    "labels": [
+      "Warmth",
+      "Withdrawal",
+      "Chasing the good moments"
+    ],
+    "cues": [
+      347.86502,
+      350.02502,
+      357.16
+    ],
+    "dark": true,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "This push and pull can become emotionally exhausting. You stop asking whether the relationship is healthy overall. Instead, you focus on getting back to the good moments.",
+    "script_line": 144,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 63,
+    "start": 358.19998,
+    "end": 364.44,
+    "art": "S10_P06",
+    "kind": "focus",
+    "title": "Do not judge only the beginning",
+    "labels": [
+      "Intensity at the beginning"
+    ],
+    "cues": [
+      363.72
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "So remember this. Don't judge a relationship only by how intensely someone pursues you in the beginning.",
+    "script_line": 147,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 64,
+    "start": 364.44,
+    "end": 366.84,
+    "art": "S10_P08",
+    "kind": "boundary",
+    "title": "Watch the response to no",
+    "labels": [
+      "What happens when you say no?"
+    ],
+    "cues": [
+      365.88
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": true,
+    "phrase": "Watch how they respond when you say no.",
+    "script_line": 149,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 65,
+    "start": 366.84,
+    "end": 369.69498,
+    "art": "S10_P09",
+    "kind": "contrast",
+    "title": "Behavior should match promises",
+    "labels": [
+      "What they promise",
+      "What they do"
+    ],
+    "cues": [
+      367.63998,
+      368.91998
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "Watch whether their promises match their behavior.",
+    "script_line": 150,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 66,
+    "start": 369.69498,
+    "end": 378.41498,
+    "art": "S10_P09",
+    "kind": "paths",
+    "title": "Genuine affection respects pace",
+    "labels": [
+      "Your pace",
+      "No pressure to surrender"
+    ],
+    "cues": [
+      370.57498,
+      375.375
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "Watch whether they respect your pace... even when it isn't what they wanted. Because genuine affection doesn't need to rush you into surrendering your boundaries.",
+    "script_line": 151,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 67,
+    "start": 378.41498,
+    "end": 387.44,
+    "art": "S11_P01",
+    "kind": "contrast",
+    "title": "Traits are not a diagnosis",
+    "labels": [
+      "Narcissistic traits",
+      "An online label"
+    ],
+    "cues": [
+      380.41498,
+      386.47998
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Now, let's talk about narcissistic traits. You've probably heard people online describe almost every selfish, rude, or difficult person as a narcissist.",
+    "script_line": 154,
+    "kit": [],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 68,
+    "start": 387.44,
+    "end": 389.52,
+    "art": "S11_P02",
+    "kind": "focus",
+    "title": "Use the term carefully",
+    "labels": [
+      "Do not diagnose from a label"
+    ],
+    "cues": [
+      387.84
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "But that's not how the term should be used.",
+    "script_line": 156,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 69,
+    "start": 389.52,
+    "end": 395.19998,
+    "art": "S11_P03",
+    "kind": "focus",
+    "title": "Selfish sometimes is human",
+    "labels": [
+      "A particular behavior",
+      "Not a clinical diagnosis"
+    ],
+    "cues": [
+      391.03998,
+      392.24
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Someone can be selfish in a particular situation without having narcissistic personality disorder.",
+    "script_line": 157,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 70,
+    "start": 395.19998,
+    "end": 402.25497,
+    "art": "S11_P04",
+    "kind": "stack",
+    "title": "Look beyond a few traits",
+    "labels": [
+      "Empathy",
+      "Defensiveness",
+      "Attention-seeking"
+    ],
+    "cues": [
+      396.16,
+      397.36,
+      398.815
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Someone can struggle with empathy, become defensive, or crave attention without meeting the criteria for a clinical diagnosis.",
+    "script_line": 158,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 71,
+    "start": 402.25497,
+    "end": 409.455,
+    "art": "S11_P06",
+    "kind": "focus",
+    "title": "Assessment needs a professional",
+    "labels": [
+      "Complex condition",
+      "Qualified professional"
+    ],
+    "cues": [
+      404.495,
+      408.095
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Narcissistic personality disorder is a complex mental health condition that can only be assessed by a qualified professional.",
+    "script_line": 159,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 72,
+    "start": 409.455,
+    "end": 415.44,
+    "art": "S11_P07",
+    "kind": "evidence",
+    "title": "Observe what actually happens",
+    "labels": [
+      "Not a few interactions",
+      "Observable behavior"
+    ],
+    "cues": [
+      411.455,
+      414.32
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": true,
+    "phrase": "So rather than diagnosing someone from a few interactions... focus on the behaviors you can actually observe.",
+    "script_line": 160,
+    "kit": [
+      "P04",
+      "C07",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 73,
+    "start": 415.44,
+    "end": 419.44,
+    "art": "S12_P01",
+    "kind": "focus",
+    "title": "Expecting special treatment",
+    "labels": [
+      "Special treatment"
+    ],
+    "cues": [
+      418.24
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "For example... Does this person consistently expect special treatment?",
+    "script_line": 162,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 74,
+    "start": 419.44,
+    "end": 423.12,
+    "art": "S12_P02",
+    "kind": "contrast",
+    "title": "Whose needs count?",
+    "labels": [
+      "Your needs",
+      "Their needs"
+    ],
+    "cues": [
+      420.63998,
+      422.48
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Do they struggle to acknowledge your needs when those needs conflict with theirs?",
+    "script_line": 164,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 75,
+    "start": 423.12,
+    "end": 427.47498,
+    "art": "S12_P03",
+    "kind": "contrast",
+    "title": "Credit without responsibility",
+    "labels": [
+      "Claim the credit",
+      "Avoid responsibility"
+    ],
+    "cues": [
+      423.44,
+      425.2
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Do they take credit for shared achievements but avoid responsibility when things go wrong?",
+    "script_line": 165,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 76,
+    "start": 427.47498,
+    "end": 432.275,
+    "art": "S12_P06",
+    "kind": "stack",
+    "title": "How is feedback received?",
+    "labels": [
+      "Humiliation",
+      "Blame",
+      "Retaliation"
+    ],
+    "cues": [
+      429.79498,
+      430.675,
+      431.235
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Do they respond to reasonable criticism with humiliation, blame, or retaliation?",
+    "script_line": 166,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 77,
+    "start": 432.275,
+    "end": 439.235,
+    "art": "S12_P07",
+    "kind": "contrast",
+    "title": "Other people matter equally",
+    "labels": [
+      "Feelings",
+      "Needs",
+      "Perspectives"
+    ],
+    "cues": [
+      435.47498,
+      436.115,
+      436.595
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "And perhaps most importantly... can they recognize that other people have feelings, needs, and perspectives that matter just as much as their own?",
+    "script_line": 167,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 78,
+    "start": 439.235,
+    "end": 446.24002,
+    "art": "S12_P08",
+    "kind": "focus",
+    "title": "One incident is not everything",
+    "labels": [
+      "One incident is not the whole person",
+      "Everyone can struggle"
+    ],
+    "cues": [
+      439.235,
+      442.4
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "One incident doesn't tell you everything about a person. Everyone can be selfish sometimes. Everyone can become defensive.",
+    "script_line": 169,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 79,
+    "start": 446.24002,
+    "end": 450.72,
+    "art": "S13_P01",
+    "kind": "focus",
+    "title": "Look at the response to feedback",
+    "labels": [
+      "The pattern",
+      "What happens when it is raised?"
+    ],
+    "cues": [
+      447.28,
+      450.0
+    ],
+    "dark": true,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "What matters is the pattern. And what happens when the pattern is brought to their attention.",
+    "script_line": 172,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 80,
+    "start": 450.72,
+    "end": 454.4,
+    "art": "S13_P02",
+    "kind": "chain",
+    "title": "Reflection without blame",
+    "labels": [
+      "Reflect",
+      "Apologize",
+      "Without blame"
+    ],
+    "cues": [
+      451.04,
+      452.24002,
+      453.44
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Can they reflect? Can they apologize without immediately blaming you?",
+    "script_line": 174,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 81,
+    "start": 454.4,
+    "end": 456.525,
+    "art": "S13_P04",
+    "kind": "focus",
+    "title": "Does change follow?",
+    "labels": [
+      "Genuine effort",
+      "Behavioral change"
+    ],
+    "cues": [
+      455.04,
+      455.92
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Can they make a genuine effort to change?",
+    "script_line": 176,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 82,
+    "start": 456.525,
+    "end": 461.245,
+    "art": "S13_P05",
+    "kind": "loop",
+    "title": "Or does blame return?",
+    "labels": [
+      "Raise the problem",
+      "Another argument",
+      "You become the problem"
+    ],
+    "cues": [
+      457.805,
+      459.165,
+      460.285
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Or does every attempt to address the problem become another argument about why you're the real problem?",
+    "script_line": 177,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 83,
+    "start": 461.245,
+    "end": 466.205,
+    "art": "S13_P09",
+    "kind": "focus",
+    "title": "No diagnosis required",
+    "labels": [
+      "No label required",
+      "You can reject harmful behavior"
+    ],
+    "cues": [
+      462.60498,
+      465.085
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "You don't need to assign someone a psychological label before deciding that a behavior is unacceptable.",
+    "script_line": 178,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 84,
+    "start": 466.205,
+    "end": 472.23,
+    "art": "S13_P08",
+    "kind": "focus",
+    "title": "You can recognize hurt",
+    "labels": [
+      "Notice the impact",
+      "Do not invent hidden motives"
+    ],
+    "cues": [
+      467.965,
+      470.76498
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "You can recognize that a relationship is hurting you... without pretending to know exactly what's happening inside the other person's mind.",
+    "script_line": 179,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 85,
+    "start": 472.23,
+    "end": 474.79,
+    "art": "S14_P01",
+    "kind": "focus",
+    "title": "What a boundary means",
+    "labels": [
+      "Your limits matter"
+    ],
+    "cues": [
+      473.03
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "Now here's where healthy boundaries become important.",
+    "script_line": 181,
+    "kit": [],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 86,
+    "start": 474.79,
+    "end": 483.91,
+    "art": "S14_P02",
+    "kind": "stack",
+    "title": "A boundary is not control",
+    "labels": [
+      "Not control",
+      "Not punishment",
+      "Not total compliance"
+    ],
+    "cues": [
+      476.47,
+      478.63,
+      481.03
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "A boundary is not a secret trick for controlling another person. It's not a way to punish someone for disappointing you. And it's not a demand that everyone behave exactly as you prefer.",
+    "script_line": 182,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 87,
+    "start": 483.91,
+    "end": 490.78497,
+    "art": "S14_P04",
+    "kind": "boundary",
+    "title": "Name what you will accept",
+    "labels": [
+      "What I will accept",
+      "What I will do"
+    ],
+    "cues": [
+      485.67,
+      487.025
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": true,
+    "phrase": "A healthy boundary explains what you are willing to accept... and what you will do to protect your own well-being if that boundary isn't respected.",
+    "script_line": 185,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 88,
+    "start": 490.78497,
+    "end": 501.1,
+    "art": "S14_P05",
+    "kind": "boundary",
+    "title": "A boundary in practice",
+    "labels": [
+      "Discuss without insults",
+      "Pause the conversation",
+      "Return when calmer"
+    ],
+    "cues": [
+      492.865,
+      498.06497,
+      499.425
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": true,
+    "phrase": "For example... You can say, “I'm willing to discuss this, but I'm not willing to be insulted. If we keep insulting each other, I'm going to end this conversation and return to it when we're calmer.”",
+    "script_line": 187,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 89,
+    "start": 501.1,
+    "end": 506.22,
+    "art": "S15_P01",
+    "kind": "contrast",
+    "title": "Feelings are still allowed",
+    "labels": [
+      "Not banning feelings",
+      "Anger is allowed"
+    ],
+    "cues": [
+      503.74,
+      504.38
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "Notice the difference. You're not saying... “You're not allowed to feel angry.” You're saying...",
+    "script_line": 190,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 90,
+    "start": 506.22,
+    "end": 510.7,
+    "art": "S15_P02",
+    "kind": "boundary",
+    "title": "You choose participation",
+    "labels": [
+      "I will not continue insults"
+    ],
+    "cues": [
+      507.82
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": true,
+    "phrase": "“You can feel angry, but I'm not going to continue a conversation where I'm being insulted.”",
+    "script_line": 194,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 91,
+    "start": 510.7,
+    "end": 516.105,
+    "art": "S15_P03",
+    "kind": "stack",
+    "title": "They keep their perspective",
+    "labels": [
+      "Their feelings",
+      "Their opinions",
+      "Their right to disagree"
+    ],
+    "cues": [
+      511.98,
+      513.5,
+      515.385
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "The other person still has their feelings. They still have their opinions. They still have the right to disagree.",
+    "script_line": 195,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 92,
+    "start": 516.105,
+    "end": 518.985,
+    "art": "S15_P05",
+    "kind": "paths",
+    "title": "Your participation is your choice",
+    "labels": [
+      "Your right to decide",
+      "What you participate in"
+    ],
+    "cues": [
+      516.825,
+      518.025
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "But you also have the right to decide what you will participate in.",
+    "script_line": 198,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 93,
+    "start": 518.985,
+    "end": 524.425,
+    "art": "S15_P06",
+    "kind": "contrast",
+    "title": "Control dictates their choices",
+    "labels": [
+      "Control",
+      "Their choices"
+    ],
+    "cues": [
+      520.665,
+      522.825
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "That's what makes a boundary different from control. Control tries to dictate another person's choices.",
+    "script_line": 199,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 94,
+    "start": 524.425,
+    "end": 526.4,
+    "art": "S15_P07",
+    "kind": "boundary",
+    "title": "A boundary clarifies yours",
+    "labels": [
+      "Your own choices"
+    ],
+    "cues": [
+      525.545
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": true,
+    "phrase": "A boundary clarifies your own.",
+    "script_line": 201,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 95,
+    "start": 526.4,
+    "end": 530.48,
+    "art": "S16_P01",
+    "kind": "focus",
+    "title": "Following through is the hard part",
+    "labels": [
+      "Not just saying it",
+      "Following through"
+    ],
+    "cues": [
+      527.44,
+      529.44
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "And sometimes... the hardest part isn't stating the boundary. It's following through.",
+    "script_line": 202,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 96,
+    "start": 530.48,
+    "end": 537.76,
+    "art": "S16_P02",
+    "kind": "boundary",
+    "title": "A limit without an exit",
+    "labels": [
+      "I will not continue",
+      "But you stay"
+    ],
+    "cues": [
+      531.28,
+      533.84
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": true,
+    "phrase": "You might say that you won't continue an insulting conversation... then remain in it for another two hours because you're afraid of upsetting the other person.",
+    "script_line": 205,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 97,
+    "start": 537.76,
+    "end": 542.34503,
+    "art": "S16_P03",
+    "kind": "quote",
+    "title": "Time to think",
+    "labels": [
+      "I need time",
+      "Repeated pressure"
+    ],
+    "cues": [
+      538.88,
+      541.52
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "You might say that you need time to think... then agree to something because they keep pressuring you.",
+    "script_line": 207,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 98,
+    "start": 542.34503,
+    "end": 549.065,
+    "art": "S16_P06",
+    "kind": "focus",
+    "title": "Relief can hide the pattern",
+    "labels": [
+      "A limit you intended",
+      "Relief is not repair"
+    ],
+    "cues": [
+      543.78503,
+      547.705
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "You might promise yourself that you won't accept a certain behavior again... then ignore it because things feel good when the conflict disappears.",
+    "script_line": 209,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 99,
+    "start": 549.065,
+    "end": 554.64,
+    "art": "S16_P07",
+    "kind": "focus",
+    "title": "Difficulty is not weakness",
+    "labels": [
+      "Not weakness",
+      "Care can complicate limits"
+    ],
+    "cues": [
+      549.22504,
+      552.745
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "This doesn't mean you're weak. Boundaries can be difficult, especially when you care about someone or depend on them.",
+    "script_line": 211,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 100,
+    "start": 554.64,
+    "end": 557.2,
+    "art": "S16_P08",
+    "kind": "focus",
+    "title": "Know your own limits",
+    "labels": [
+      "Your limits"
+    ],
+    "cues": [
+      556.56
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "But the more clearly you understand your own limits...",
+    "script_line": 213,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 101,
+    "start": 557.2,
+    "end": 562.0,
+    "art": "S16_P09",
+    "kind": "paths",
+    "title": "Choose values over pressure",
+    "labels": [
+      "Your values",
+      "Not immediate pressure"
+    ],
+    "cues": [
+      559.68,
+      560.8
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "the easier it becomes to make decisions based on your values rather than immediate pressure.",
+    "script_line": 214,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 102,
+    "start": 562.0,
+    "end": 570.77496,
+    "art": "S17_P01",
+    "kind": "stack",
+    "title": "Healthy does not mean perfect",
+    "labels": [
+      "Disappointment",
+      "Misunderstanding",
+      "Mistakes"
+    ],
+    "cues": [
+      564.96,
+      566.24,
+      569.52
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "There's another important distinction. Healthy people can still disappoint you. They can misunderstand you. They can become defensive. They can make mistakes that hurt.",
+    "script_line": 215,
+    "kit": [],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 103,
+    "start": 570.77496,
+    "end": 580.375,
+    "art": "S17_P02",
+    "kind": "contrast",
+    "title": "Repair without self-abandonment",
+    "labels": [
+      "Not conflict-free",
+      "Not self-abandonment"
+    ],
+    "cues": [
+      572.615,
+      578.935
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "A healthy relationship isn't one where nobody ever gets upset. It's one where both people can work through those moments without one person consistently having to abandon themselves.",
+    "script_line": 220,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 104,
+    "start": 580.375,
+    "end": 584.49,
+    "art": "S17_P03",
+    "kind": "quote",
+    "title": "I cannot help today",
+    "labels": [
+      "I cannot help today",
+      "I am exhausted"
+    ],
+    "cues": [
+      581.895,
+      583.735
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "Imagine telling a friend... “I can't help you with this today. I'm exhausted.”",
+    "script_line": 222,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 105,
+    "start": 584.49,
+    "end": 588.57,
+    "art": "S17_P04",
+    "kind": "focus",
+    "title": "Disappointment is allowed",
+    "labels": [
+      "They may feel disappointed",
+      "They may wish you were available"
+    ],
+    "cues": [
+      585.93,
+      587.77
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "A healthy response might be disappointment. They might wish you were available.",
+    "script_line": 224,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 106,
+    "start": 588.57,
+    "end": 592.81,
+    "art": "S17_P05",
+    "kind": "chain",
+    "title": "Respecting the answer",
+    "labels": [
+      "Another day?",
+      "Your no still stands"
+    ],
+    "cues": [
+      589.77,
+      591.45
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "They might ask if you can help another day. But they can still respect your answer.",
+    "script_line": 226,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 107,
+    "start": 592.81,
+    "end": 597.685,
+    "art": "S17_P07",
+    "kind": "quote",
+    "title": "Guilt changes the dynamic",
+    "labels": [
+      "I guess I do not matter"
+    ],
+    "cues": [
+      596.33
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "An unhealthy response might be... “Wow. I guess I know how little I matter to you.”",
+    "script_line": 228,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 108,
+    "start": 597.685,
+    "end": 601.92505,
+    "art": "S17_P08",
+    "kind": "affection",
+    "title": "The history becomes leverage",
+    "labels": [
+      "After everything I did for you"
+    ],
+    "cues": [
+      598.72504
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": true,
+    "phrase": "Or... “After everything I've done for you, this is how you treat me?”",
+    "script_line": 230,
+    "kit": [
+      "P05",
+      "P08",
+      "F04"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 109,
+    "start": 601.92505,
+    "end": 606.645,
+    "art": "S18_P01",
+    "kind": "focus",
+    "title": "The feeling is not the issue",
+    "labels": [
+      "Disappointment itself is allowed"
+    ],
+    "cues": [
+      603.525
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "The issue isn't that they feel disappointed. They're allowed to feel disappointed.",
+    "script_line": 232,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 110,
+    "start": 606.645,
+    "end": 612.92004,
+    "art": "S18_P02",
+    "kind": "chain",
+    "title": "Pressure is the issue",
+    "labels": [
+      "Guilt",
+      "Surrendering your decision"
+    ],
+    "cues": [
+      610.325,
+      612.245
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "The issue is when their disappointment becomes a tool for making you feel guilty enough to surrender your decision.",
+    "script_line": 234,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 111,
+    "start": 612.92004,
+    "end": 619.16003,
+    "art": "S18_P03",
+    "kind": "stack",
+    "title": "It can happen anywhere",
+    "labels": [
+      "Friendships",
+      "Romantic relationships",
+      "Families",
+      "Workplaces"
+    ],
+    "cues": [
+      614.12006,
+      615.16003,
+      616.92004,
+      617.96
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "And this can happen in friendships, romantic relationships, families, and workplaces.",
+    "script_line": 235,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 112,
+    "start": 619.16003,
+    "end": 627.815,
+    "art": "S18_P07",
+    "kind": "contrast",
+    "title": "Intentions may be unclear",
+    "labels": [
+      "Intentional",
+      "Learned patterns"
+    ],
+    "cues": [
+      620.12006,
+      622.28
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "Sometimes it happens intentionally. Sometimes people have learned unhealthy ways of communicating and repeat them without fully recognizing what they're doing.",
+    "script_line": 236,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 113,
+    "start": 627.815,
+    "end": 631.975,
+    "art": "S18_P08",
+    "kind": "focus",
+    "title": "Respond to the behavior",
+    "labels": [
+      "You need not prove intent",
+      "Respond to behavior"
+    ],
+    "cues": [
+      629.495,
+      631.175
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "You don't always need to determine their intentions before responding to the behavior.",
+    "script_line": 238,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 114,
+    "start": 631.975,
+    "end": 637.415,
+    "art": "S18_P09",
+    "kind": "contrast",
+    "title": "Acknowledge, do not absorb",
+    "labels": [
+      "Acknowledge their feelings",
+      "Do not carry every feeling"
+    ],
+    "cues": [
+      632.295,
+      634.535
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "You can acknowledge their feelings... without accepting responsibility for every feeling they experience.",
+    "script_line": 239,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 115,
+    "start": 637.415,
+    "end": 641.09,
+    "art": "S18_P04",
+    "kind": "contrast",
+    "title": "Care does not mean agreement",
+    "labels": [
+      "You can care",
+      "You can still decline"
+    ],
+    "cues": [
+      637.735,
+      638.935
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "You can care about someone... without agreeing to everything they ask.",
+    "script_line": 241,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 116,
+    "start": 641.09,
+    "end": 647.01,
+    "art": "S18_P05",
+    "kind": "focus",
+    "title": "Love can coexist with a limit",
+    "labels": [
+      "You can love someone",
+      "And recognize an unhealthy dynamic"
+    ],
+    "cues": [
+      641.65,
+      645.73
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "And you can love someone... while recognizing that a particular relationship dynamic is not healthy for you.",
+    "script_line": 243,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 117,
+    "start": 647.01,
+    "end": 655.505,
+    "art": "S19_P01",
+    "kind": "checklist",
+    "title": "Five questions to ask yourself",
+    "labels": [
+      "Ordinary conflict or a pattern?",
+      "Five questions"
+    ],
+    "cues": [
+      649.01,
+      654.54504
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 8,
+    "feature": true,
+    "phrase": "So how do you recognize the difference between an ordinary relationship problem and a more serious pattern of manipulation? Start by asking yourself a few questions.",
+    "script_line": 245,
+    "kit": [
+      "C08",
+      "F01"
+    ],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 118,
+    "start": 655.505,
+    "end": 661.34503,
+    "art": "S19_P02",
+    "kind": "checklist",
+    "title": "Can you safely say no?",
+    "labels": [
+      "1 / Can you say no?",
+      "Without repeated punishment or pressure"
+    ],
+    "cues": [
+      656.625,
+      658.145
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": true,
+    "phrase": "First... Can you say no without being repeatedly punished, threatened, or pressured into changing your answer?",
+    "script_line": 247,
+    "kit": [
+      "C08",
+      "F01"
+    ],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 119,
+    "start": 661.34503,
+    "end": 666.625,
+    "art": "S19_P03",
+    "kind": "checklist",
+    "title": "Can you raise a concern?",
+    "labels": [
+      "2 / Can you express concerns?",
+      "Without a character attack"
+    ],
+    "cues": [
+      662.465,
+      665.34503
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": true,
+    "phrase": "Second... Can you express a concern without the conversation always turning into an attack on your character?",
+    "script_line": 249,
+    "kit": [
+      "C08",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 120,
+    "start": 666.625,
+    "end": 672.96,
+    "art": "S19_P04",
+    "kind": "checklist",
+    "title": "Can they acknowledge impact?",
+    "labels": [
+      "3 / Can they acknowledge impact?",
+      "Even without harmful intent"
+    ],
+    "cues": [
+      668.96,
+      671.68
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 8,
+    "feature": true,
+    "phrase": "Third... When someone hurts you, can they acknowledge the impact of their behavior, even if they didn't intend to hurt you?",
+    "script_line": 251,
+    "kit": [
+      "C08",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 121,
+    "start": 672.96,
+    "end": 680.72003,
+    "art": "S19_P05",
+    "kind": "checklist",
+    "title": "Do apologies lead to change?",
+    "labels": [
+      "4 / Do apologies lead to change?",
+      "Or do the same actions return?"
+    ],
+    "cues": [
+      674.88,
+      676.56
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 8,
+    "feature": true,
+    "phrase": "Fourth... Do their apologies lead to meaningful changes? Or do the same actions keep happening, followed by the same explanations and promises?",
+    "script_line": 253,
+    "kit": [
+      "C08",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 122,
+    "start": 680.72003,
+    "end": 686.28503,
+    "art": "S19_P07",
+    "kind": "checklist",
+    "title": "Are you free to be yourself?",
+    "labels": [
+      "5 / Do you have independence?",
+      "Opinions, friendships and interests"
+    ],
+    "cues": [
+      682.28503,
+      683.885
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": true,
+    "phrase": "And finally... Do you feel free to have your own opinions, friendships, interests, and decisions?",
+    "script_line": 256,
+    "kit": [
+      "C08",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 123,
+    "start": 686.28503,
+    "end": 691.805,
+    "art": "S19_P08",
+    "kind": "paths",
+    "title": "Has your world become smaller?",
+    "labels": [
+      "Your world becomes smaller",
+      "To avoid their reaction"
+    ],
+    "cues": [
+      688.04504,
+      689.72504
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "Or have you gradually started making your world smaller... because you're afraid of how someone will react?",
+    "script_line": 258,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 124,
+    "start": 691.805,
+    "end": 698.73004,
+    "art": "S19_P01",
+    "kind": "focus",
+    "title": "No single answer is proof",
+    "labels": [
+      "No single answer proves manipulation",
+      "Look at repeated patterns"
+    ],
+    "cues": [
+      691.805,
+      695.21
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "No single answer proves that someone is manipulating you. But repeated patterns can tell you something important about the relationship.",
+    "script_line": 260,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 125,
+    "start": 698.73004,
+    "end": 705.05,
+    "art": "S19_P08",
+    "kind": "stack",
+    "title": "Pay attention to the impact",
+    "labels": [
+      "Afraid",
+      "Isolated",
+      "Constantly guilty",
+      "Unable to trust yourself"
+    ],
+    "cues": [
+      700.49,
+      701.37,
+      702.65,
+      704.41003
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "Especially when those patterns leave you feeling afraid, isolated, constantly guilty, or unable to trust your own judgment.",
+    "script_line": 262,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 126,
+    "start": 705.05,
+    "end": 710.765,
+    "art": "S20_P01",
+    "kind": "focus",
+    "title": "Do not blame yourself",
+    "labels": [
+      "If this feels familiar",
+      "Do not blame yourself"
+    ],
+    "cues": [
+      705.45,
+      708.49
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "And if you recognize yourself in these examples... please don't immediately blame yourself for not noticing sooner.",
+    "script_line": 263,
+    "kit": [],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 127,
+    "start": 710.765,
+    "end": 718.285,
+    "art": "S20_P02",
+    "kind": "warmth",
+    "title": "Good and painful can coexist",
+    "labels": [
+      "Genuine affection",
+      "Hurtful behavior"
+    ],
+    "cues": [
+      713.965,
+      716.765
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 9,
+    "feature": true,
+    "phrase": "Manipulation isn't always obvious. It can exist alongside genuine affection. Someone can be kind on Monday... and dismissive on Tuesday.",
+    "script_line": 265,
+    "kit": [
+      "P06",
+      "P07",
+      "F04"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 128,
+    "start": 718.285,
+    "end": 722.205,
+    "art": "S20_P03",
+    "kind": "contrast",
+    "title": "An apology can coexist with recurrence",
+    "labels": [
+      "A sincere apology",
+      "Repeated behavior"
+    ],
+    "cues": [
+      718.605,
+      720.525
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "They can apologize sincerely in one moment... and repeat the same behavior later.",
+    "script_line": 269,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 129,
+    "start": 722.205,
+    "end": 731.94,
+    "art": "S20_P03",
+    "kind": "memory",
+    "title": "Confusion is understandable",
+    "labels": [
+      "The good parts",
+      "The painful parts",
+      "Confusion is not foolishness"
+    ],
+    "cues": [
+      723.005,
+      725.885,
+      728.25995
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "You may remember the good parts of the relationship and struggle to reconcile them with the painful parts. That confusion doesn't mean you're foolish. It means you're trying to understand a complicated situation.",
+    "script_line": 271,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 130,
+    "start": 731.94,
+    "end": 738.42,
+    "art": "S20_P04",
+    "kind": "boundary",
+    "title": "You do not have to confront now",
+    "labels": [
+      "No immediate confrontation required",
+      "Take time to think"
+    ],
+    "cues": [
+      732.89996,
+      737.22
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 9,
+    "feature": true,
+    "phrase": "You also don't have to confront someone immediately to prove that you're strong. If you're worried about how they'll react, take time to think.",
+    "script_line": 274,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 131,
+    "start": 738.42,
+    "end": 741.285,
+    "art": "S20_P05",
+    "kind": "evidence",
+    "title": "Support and documentation",
+    "labels": [
+      "Trusted support",
+      "Document when safe"
+    ],
+    "cues": [
+      738.81995,
+      739.86
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 9,
+    "feature": true,
+    "phrase": "Talk to someone you trust. Write down what has been happening.",
+    "script_line": 276,
+    "kit": [
+      "P04",
+      "C07",
+      "F01"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 132,
+    "start": 741.285,
+    "end": 749.20496,
+    "art": "S20_P07",
+    "kind": "focus",
+    "title": "Safety comes first",
+    "labels": [
+      "If you feel unsafe",
+      "Prioritize safety",
+      "Seek appropriate support"
+    ],
+    "cues": [
+      743.20496,
+      743.925,
+      746.00494
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "If you feel controlled, threatened, or unsafe, prioritize your safety and seek appropriate support before setting boundaries that might increase the risk.",
+    "script_line": 278,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 133,
+    "start": 749.20496,
+    "end": 754.42,
+    "art": "S21_P02",
+    "kind": "focus",
+    "title": "You do not need to win",
+    "labels": [
+      "No need to win every argument",
+      "No forced confession required"
+    ],
+    "cues": [
+      750.565,
+      752.08496
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "And remember... you don't need to win every argument. You don't need to force someone to admit that they manipulated you.",
+    "script_line": 279,
+    "kit": [],
+    "transition": "directionalwipe"
+  },
+  {
+    "id": 134,
+    "start": 754.42,
+    "end": 758.5,
+    "art": "S21_P02",
+    "kind": "quote",
+    "title": "Ask a more useful question",
+    "labels": [
+      "How do I make them understand?"
+    ],
+    "cues": [
+      757.14
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Sometimes, the most useful question isn't... “How do I make this person understand?”",
+    "script_line": 282,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 135,
+    "start": 758.5,
+    "end": 762.66003,
+    "art": "S21_P06",
+    "kind": "boundary",
+    "title": "What protects your well-being?",
+    "labels": [
+      "What protects my well-being?",
+      "If the behavior continues"
+    ],
+    "cues": [
+      760.18,
+      761.78
+    ],
+    "dark": true,
+    "layout": "left",
+    "chapter": 10,
+    "feature": true,
+    "phrase": "It's... “What do I need to do to protect my well-being if this behavior continues?”",
+    "script_line": 284,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 136,
+    "start": 762.66003,
+    "end": 766.845,
+    "art": "S21_P03",
+    "kind": "focus",
+    "title": "Not manipulation in return",
+    "labels": [
+      "Not a lesson in retaliation"
+    ],
+    "cues": [
+      765.7
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Because the purpose of understanding manipulation isn't to learn how to manipulate people back.",
+    "script_line": 286,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 137,
+    "start": 766.845,
+    "end": 777.165,
+    "art": "S21_P07",
+    "kind": "memory",
+    "title": "Not endless suspicion",
+    "labels": [
+      "Not every message",
+      "Not every disagreement"
+    ],
+    "cues": [
+      768.125,
+      770.045
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "It's not to start analyzing every message... or searching for hidden meanings in every disagreement. And it's certainly not to assume that everyone who hurts your feelings is secretly trying to control you.",
+    "script_line": 287,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 138,
+    "start": 777.165,
+    "end": 787.81,
+    "art": "S21_P03",
+    "kind": "contrast",
+    "title": "Room for both people",
+    "labels": [
+      "Both people have room",
+      "Not one person's control"
+    ],
+    "cues": [
+      780.20496,
+      783.01
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "The purpose is to recognize the difference between a relationship where both people have room to be human... and one where one person's needs, feelings, or control consistently take priority over the other's.",
+    "script_line": 290,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 139,
+    "start": 787.81,
+    "end": 791.65,
+    "art": "S21_P06",
+    "kind": "chain",
+    "title": "Boundaries make room for honesty",
+    "labels": [
+      "Conflict can still exist",
+      "Honesty has room"
+    ],
+    "cues": [
+      788.53,
+      790.85
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Healthy boundaries don't eliminate conflict. They make room for honesty.",
+    "script_line": 292,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 140,
+    "start": 791.65,
+    "end": 796.925,
+    "art": "S21_P04",
+    "kind": "paths",
+    "title": "Closeness without ownership",
+    "labels": [
+      "Independence",
+      "Closeness without ownership"
+    ],
+    "cues": [
+      793.89,
+      795.325
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Healthy affection doesn't require you to abandon your independence. It allows closeness without ownership.",
+    "script_line": 294,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 141,
+    "start": 796.925,
+    "end": 807.165,
+    "art": "S21_P05",
+    "kind": "contrast",
+    "title": "Nobody has to become smaller",
+    "labels": [
+      "Both people grow",
+      "Nobody has to shrink"
+    ],
+    "cues": [
+      802.685,
+      804.845
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "And healthy relationships don't demand that you prove your loyalty by ignoring your own discomfort. They allow both people to grow... without one person having to become smaller for the other to feel powerful.",
+    "script_line": 296,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 142,
+    "start": 807.165,
+    "end": 812.10004,
+    "art": "S21_P09",
+    "kind": "focus",
+    "title": "Pause before blaming yourself",
+    "labels": [
+      "Pause",
+      "Do not assume you are the problem"
+    ],
+    "cues": [
+      808.525,
+      811.06
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "So the next time someone makes you question your feelings... pause before assuming that you're the problem.",
+    "script_line": 299,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 143,
+    "start": 812.10004,
+    "end": 818.18,
+    "art": "S07_P01",
+    "kind": "stack",
+    "title": "Look at the pattern",
+    "labels": [
+      "The pattern",
+      "Responsibility",
+      "The response to a boundary"
+    ],
+    "cues": [
+      812.5,
+      814.34,
+      817.46
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Look at the pattern. Look at the willingness to take responsibility. Look at what happens when you express a reasonable boundary.",
+    "script_line": 301,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 144,
+    "start": 818.18,
+    "end": 821.865,
+    "art": "S21_P06",
+    "kind": "boundary",
+    "title": "Compassion has limits",
+    "labels": [
+      "Compassion",
+      "Not endless availability"
+    ],
+    "cues": [
+      819.62,
+      820.66003
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": true,
+    "phrase": "And remember... you can be compassionate without being endlessly available.",
+    "script_line": 304,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 145,
+    "start": 821.865,
+    "end": 824.745,
+    "art": "S21_P07",
+    "kind": "contrast",
+    "title": "Forgiveness is not erasure",
+    "labels": [
+      "You can forgive",
+      "Without erasing what happened"
+    ],
+    "cues": [
+      822.265,
+      823.305
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "You can forgive someone without pretending nothing happened.",
+    "script_line": 306,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 146,
+    "start": 824.745,
+    "end": 829.785,
+    "art": "S21_P02",
+    "kind": "contrast",
+    "title": "Understanding is not acceptance",
+    "labels": [
+      "Understand why",
+      "Choose what you accept"
+    ],
+    "cues": [
+      825.065,
+      827.46497
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "You can understand why someone behaves a certain way... without accepting that behavior in your life.",
+    "script_line": 307,
+    "kit": [],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 147,
+    "start": 829.785,
+    "end": 836.5,
+    "art": "S21_P04",
+    "kind": "boundary",
+    "title": "Care without unlimited access",
+    "labels": [
+      "Care deeply",
+      "Not unlimited access"
+    ],
+    "cues": [
+      830.185,
+      832.745
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": true,
+    "phrase": "And you can care deeply about another person... without giving them unlimited access to your time, your choices, or your sense of self.",
+    "script_line": 309,
+    "kit": [
+      "C04",
+      "C05",
+      "F05"
+    ],
+    "transition": "ink-reveal"
+  },
+  {
+    "id": 148,
+    "start": 836.5,
+    "end": 842.42004,
+    "art": "S21_P09",
+    "kind": "focus",
+    "title": "Keep your trust in yourself",
+    "labels": [
+      "Your self-trust",
+      "Not the price of their comfort"
+    ],
+    "cues": [
+      839.22003,
+      841.62006
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Because a healthy relationship shouldn't require you to stop trusting yourself... in order to keep someone else comfortable.",
+    "script_line": 311,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 149,
+    "start": 842.42004,
+    "end": 846.5,
+    "art": "S21_P08",
+    "kind": "stack",
+    "title": "Room to speak, disagree and say no",
+    "labels": [
+      "Speak",
+      "Disagree",
+      "Say no"
+    ],
+    "cues": [
+      843.38,
+      844.42004,
+      845.7
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "You deserve room to speak. Room to disagree. Room to say no.",
+    "script_line": 313,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 150,
+    "start": 846.5,
+    "end": 850.54504,
+    "art": "S21_P09",
+    "kind": "focus",
+    "title": "Room to be yourself",
+    "labels": [
+      "Be yourself",
+      "Without constant fear"
+    ],
+    "cues": [
+      847.06,
+      848.9
+    ],
+    "dark": true,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "And room to be yourself... without constantly fearing what will happen when you are.",
+    "script_line": 316,
+    "kit": [],
+    "transition": "fadecolor"
+  },
+  {
+    "id": 151,
+    "start": 850.54504,
+    "end": 855.090063,
+    "art": "S21_P09",
+    "kind": "stack",
+    "title": "Think deeper. Live better. Become more.",
+    "labels": [
+      "Think deeper",
+      "Live better",
+      "Become more"
+    ],
+    "cues": [
+      850.54504,
+      851.74506,
+      852.54504
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Think deeper. Live better. Become more. This is Why We Become.",
+    "script_line": 318,
+    "kit": [],
+    "transition": "fadecolor"
+  }
+]

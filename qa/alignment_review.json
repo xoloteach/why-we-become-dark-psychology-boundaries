@@ -1,0 +1,56 @@
+{
+  "script_words": 2575,
+  "stt_words": 2577,
+  "sequence_match_ratio": 0.9957298136645962,
+  "provider_variants": [
+    {
+      "script": "going to",
+      "stt": "gonna",
+      "start": 62.940002,
+      "end": 63.100002,
+      "resolution": "Original script retained for captions; colloquial pronunciation/STT inflection variant.",
+      "listening_check": "NOT CHECKED"
+    },
+    {
+      "script": "loved",
+      "stt": "love",
+      "start": 321.385,
+      "end": 321.625,
+      "resolution": "Original script retained for captions; colloquial pronunciation/STT inflection variant.",
+      "listening_check": "NOT CHECKED"
+    },
+    {
+      "script": "then",
+      "stt": "and",
+      "start": 539.68,
+      "end": 540.0,
+      "resolution": "Original script retained for captions; colloquial pronunciation/STT inflection variant.",
+      "listening_check": "NOT CHECKED"
+    },
+    {
+      "script": "then",
+      "stt": "and",
+      "start": 545.78503,
+      "end": 545.945,
+      "resolution": "Original script retained for captions; colloquial pronunciation/STT inflection variant.",
+      "listening_check": "NOT CHECKED"
+    },
+    {
+      "script": "“After",
+      "stt": "if they're",
+      "start": 598.245,
+      "end": 598.72504,
+      "resolution": "Original script retained for captions; colloquial pronunciation/STT inflection variant.",
+      "listening_check": "NOT CHECKED"
+    },
+    {
+      "script": "or",
+      "stt": "",
+      "start": 659.42505,
+      "end": 659.47505,
+      "resolution": "Original script retained for captions; colloquial pronunciation/STT inflection variant.",
+      "listening_check": "NOT CHECKED"
+    }
+  ],
+  "critical_cue_note": "Exact matching and tokenization normalization reviewed; full listening not available in this environment."
+}

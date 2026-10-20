@@ -3,7 +3,7 @@
 ## Recovery restart
 Original title: Dark Psychology vs. Healthy Boundaries: How to Spot Emotional Manipulation
 
-Scope: one landscape episode source package; no thumbnail or Shorts. Full MP4 rendering remains stopped pending a fresh request.
+Scope: one landscape episode source package; no thumbnail or Shorts. Full MP4 rendering is now explicitly authorized by the user. Render from a verified checkpoint.
 
 The original user-supplied script was recovered from session event 27 and preserved verbatim. Old narration, artwork and renderer are not assumed recovered until validated.
 

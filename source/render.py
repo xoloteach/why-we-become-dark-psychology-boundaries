@@ -75,11 +75,11 @@ def asset(f,key,cx,cy,mw,mh,alpha=1,scale=1,angle=0):
 def reveal_art(f,s,t):
  r=t-s['start'];feat=s['feature'];cx=390 if feat else (1415 if s['layout']=='right' else 505);cy=641 if feat else 555;mw,mh=(640,420) if feat else (830,570)
  fade=1;pose=None
- if s['kind']=='boundary' and s['script_line'] in [189,194,205,274,284,304,309]:
+ if s['kind']=='boundary' and s['script_line'] in [187,194,205,274,284,304,309]:
   # Connected illustration gives way to an independent complete-body pose, never a limb slice.
   swap=s['cues'][-1] if len(s['cues'])>1 else s['start']+2;fade=1-ease((t-swap)/.55)
   if t>=swap:
-   u=ease((t-swap)/.7);key='C05' if s['script_line'] in [189,194,205] else 'C04';asset(f,key,cx+(u*90 if key=='C05' else 0),650,340,410,1-fade)
+   u=ease((t-swap)/.7);key='C05' if s['script_line'] in [187,194,205] else 'C04';asset(f,key,cx+(u*90 if key=='C05' else 0),650,340,410,1-fade)
  a=layer(s['art'],mw,mh);ink=ink_layer(s['art'],mw,mh);ah,aw=a.shape[:2];x=cx-aw/2+(1-spring(r/.85))*32*(1 if s['layout']=='right' else -1);y=cy-ah/2+(1-spring(r/.85))*20
  cap=round(aw*ease(r/.68));fill=ease((r-.14)/.9)
  if cap>0:blit(f,ink[:,:cap],x,y,(1-fill)*fade);blit(f,a[:,:cap],x,y,fill*fade)
@@ -204,7 +204,7 @@ def render(start,duration,out,captions=True):
  vf=f"subtitles=plans/captions.ass:fontsdir=fonts" if captions else 'null'
  # ASS runs on absolute video PTS, trim only after overlay for a QA segment.
  if start:vf=f"setpts=PTS+{start}/TB,"+vf+f",setpts=PTS-{start}/TB"
- audio='audio/final_mix.wav' if (R/'audio/final_mix.wav').exists() else 'audio/narration_master.wav'
+ audio='audio/final_mix.wav' if (R/'audio/final_mix.wav').exists() else ('audio/final_mix.flac' if (R/'audio/final_mix.flac').exists() else 'audio/narration_master.wav')
  cmd=['ffmpeg','-y','-hide_banner','-loglevel','warning','-f','rawvideo','-vcodec','rawvideo','-pix_fmt','bgr24','-s',f'{W}x{H}','-r',str(FPS),'-i','pipe:0','-ss',str(start),'-i',audio,'-map','0:v','-map','1:a','-vf',vf,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-af','apad','-t',str(n/FPS),'-movflags','+faststart',str(out)]
  p=subprocess.Popen(cmd,stdin=subprocess.PIPE);t0=time.time()
  try:

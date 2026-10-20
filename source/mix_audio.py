@@ -30,7 +30,7 @@ for s in sc:
  if s['script_line'] in [97,98,160,276]:event(s['cues'][-1],'rpg-audio/bookOpen.ogg',-32,'Documenting or acknowledging observable evidence')
  if s['script_line'] in [114,135,230]:event(s['cues'][0],'interface-sounds/drop_002.ogg',-32,'A gift enters the explanatory foreground')
  if s['script_line'] in [137,140]:event(s['cues'][-1],'interface-sounds/minimize_003.ogg',-34,'Warmth state changes, without a horror sting')
- if s['script_line'] in [189,194,205,274,284,304,309]:event(s['cues'][-1],'rpg-audio/cloth2.ogg',-32,'A complete-body pose changes with an autonomous decision')
+ if s['script_line'] in [187,194,205,274,284,304,309]:event(s['cues'][-1],'rpg-audio/cloth2.ogg',-32,'A complete-body pose changes with an autonomous decision')
  if s['script_line'] in [247,249,251,253,256]:event(s['cues'][0],'interface-sounds/click_003.ogg',-30,'One of five reflection questions receives focus')
  if s['script_line'] in [73]:event(s['cues'][0],'interface-sounds/click_001.ogg',-32,'The six o’clock agreement appears')
 cache={}
@@ -42,7 +42,7 @@ for e in events:
 np.clip(mix,-.98,.98,out=mix)
 with wave.open(str(R/'audio/mix_prenorm.wav'),'wb') as f:f.setnchannels(2);f.setsampwidth(2);f.setframerate(sr);f.writeframes((mix*32767).astype(np.int16).tobytes())
 (R/'plans/sfx_cues.json').write_text(json.dumps(sorted(events,key=lambda x:x['time']),indent=2));print('SFX events',len(events),flush=True)
-cmd=['ffmpeg','-y','-hide_banner','-i',str(R/'audio/mix_prenorm.wav'),'-af','loudnorm=I=-16:TP=-1.5:LRA=7:print_format=json','-f','null','-'];p=subprocess.run(cmd,capture_output=True,text=True);j=json.loads(p.stderr[p.stderr.rfind('{'):]);(R/'audio/mix_measurement.json').write_text(json.dumps(j,indent=2))
+cmd=['ffmpeg','-y','-hide_banner','-i',str(R/'audio/mix_prenorm.wav'),'-af','loudnorm=I=-16:TP=-1.5:LRA=7:print_format=json','-f','null','-'];p=subprocess.run(cmd,capture_output=True,text=True);j=json.JSONDecoder().raw_decode(p.stderr[p.stderr.rfind('{'):])[0];(R/'audio/mix_measurement.json').write_text(json.dumps(j,indent=2))
 af=f"loudnorm=I=-16:TP=-1.5:LRA=7:measured_I={j['input_i']}:measured_TP={j['input_tp']}:measured_LRA={j['input_lra']}:measured_thresh={j['input_thresh']}:offset={j['target_offset']}:linear=true"
 subprocess.run(['ffmpeg','-y','-v','error','-i',str(R/'audio/mix_prenorm.wav'),'-af',af,'-ar','48000','-c:a','pcm_s16le',str(R/'audio/final_mix.wav')],check=True)
 print('Final mix ready',flush=True)

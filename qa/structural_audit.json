@@ -1,0 +1,16 @@
+{
+  "scene_coverage": "PASS",
+  "scene_count": 152,
+  "art_panels_selected": 136,
+  "omitted_source_panels": 8,
+  "word_count": 2575,
+  "cue_exceptions": [],
+  "source_wording_retained": "PASS",
+  "caption_groups": 489,
+  "max_caption_width_px": 1536.8,
+  "caption_safe_width": 1640,
+  "issues": [],
+  "full_audio_listening": "NOT CHECKED \u2014 no listening-capable tool in this session",
+  "full_video_playback": "NOT CHECKED \u2014 sampled frame inspection does not establish full playback",
+  "public_final_release": "BLOCKED pending listening and playback approval; review deliverables may be shared privately"
+}
