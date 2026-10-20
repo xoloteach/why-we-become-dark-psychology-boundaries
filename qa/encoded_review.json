@@ -2,7 +2,7 @@
   "initial_run": 39428102043,
   "initial_commit": "64f252d48a31d5b2e5906e86de1672b5dc9c0565",
   "inspection": "All 152 settled encoded layouts plus time-separated states/endcard inspected on 14 contact sheets.",
-  "technical": "PASS",
+  "technical": "PASS: 1920x1080 H264 yuv420p, 30fps, AAC, 859.1s, -16.03 LUFS, -3.53 dBTP",
   "initial_visual": "FAIL; repaired before delivery",
   "findings": [
     {
@@ -24,6 +24,11 @@
   "other_sampled_layouts": "No material overlap, clipping, subtitle-lane or pale-face-mask defect observed",
   "full_listening": "NOT CHECKED",
   "full_playback": "NOT CHECKED",
-  "corrected_encoded_verification": "PENDING",
-  "corrected_source_stills": "PASS: scenes 62/82 loops close to actual first node; scene 96 retains seated pose"
+  "corrected_encoded_verification": "PASS",
+  "corrected_source_stills": "PASS: scenes 62/82 loops close to actual first node; scene 96 retains seated pose",
+  "corrected_run": 39431445352,
+  "corrected_commit": "fc4ccb2a9cb6e014fb4552f356d47dee0dcd929c",
+  "corrected_review_scope": "Affected scenes 62, 82, 96, their time-separated entry states and final end card inspected from actual v3 encoded frames. Earlier full 152-layout inspection applies to unchanged layouts.",
+  "corrected_sampled_frames": 177,
+  "full_file_decode": "PASS: ffmpeg decoded entire MP4 to null with exit 0 and no errors"
 }
