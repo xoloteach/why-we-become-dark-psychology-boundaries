@@ -5,7 +5,7 @@
   "artwork": "21 original contact sheets + 3 animation kit sheets + canonical character + end card recovered",
   "narration": "complete; lossless original and mastered mix backed up at next checkpoint",
   "renderer": "runtime benchmark and sampled layout review passed; full encoded output validation pending",
-  "full_mp4": "authorized; persistent render workflow ready",
+  "full_mp4": "first persistent run stopped before render: hosted runner lacked FFmpeg; dependency installation added",
   "thumbnail": "excluded",
   "shorts": "excluded",
   "rule": "verify each checkpoint remotely before next major stage",
