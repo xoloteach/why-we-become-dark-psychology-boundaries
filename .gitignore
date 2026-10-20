@@ -7,3 +7,6 @@ __pycache__/
 node_modules/
 .cache/
 *.log
+*.wav
+audio/concat.txt
+audio/*.tmp.mp3
