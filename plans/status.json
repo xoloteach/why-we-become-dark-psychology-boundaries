@@ -1,0 +1,12 @@
+{
+  "phase": "recovery restart",
+  "script": "recovered from user message event 27",
+  "source_backup": "awaiting first verified push",
+  "artwork": "recovery pending",
+  "narration": "missing; regeneration pending provider access",
+  "renderer": "not restored",
+  "full_mp4": "stopped by user",
+  "thumbnail": "excluded",
+  "shorts": "excluded",
+  "rule": "verify each checkpoint remotely before next major stage"
+}
