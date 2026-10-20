@@ -13,6 +13,11 @@ for line in text.splitlines():
  cur.append(line)
 if cur:chunks.append('\n'.join(cur))
 manifest={'script_sha256':digest,'model':'flux-cole-en','endpoint':'/v2/speak','chunks':[{'id':i,'text':s,'sha256':hashlib.sha256(s.encode()).hexdigest()} for i,s in enumerate(chunks)]}
+old_manifest=A/'synthesis_manifest.json'
+if old_manifest.exists() and list(A.glob('raw_*.mp3')):
+ old=json.loads(old_manifest.read_text())
+ if old.get('script_sha256')!=digest or old.get('chunks')!=manifest['chunks']:
+  raise RuntimeError('Existing narration belongs to a different script/chunk map; preserve it and use a new version directory')
 (A/'synthesis_manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
 def status(stage,**kw):
  p={'stage':stage,'model':'flux-cole-en','script_sha256':digest,**kw};(A/'status.json').write_text(json.dumps(p,indent=2)+'\n');print(json.dumps(p),flush=True)
