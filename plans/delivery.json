@@ -1,0 +1,23 @@
+{
+  "review_master": true,
+  "release_url": "https://github.com/xoloteach/why-we-become-dark-psychology-boundaries/releases/tag/review-v3-run-39431445352",
+  "release_tag": "review-v3-run-39431445352",
+  "release_id": 418453499,
+  "asset_id": 659453171,
+  "render_run": "https://github.com/xoloteach/why-we-become-dark-psychology-boundaries/actions/runs/39431445352",
+  "reviewed_commit": "fc4ccb2a9cb6e014fb4552f356d47dee0dcd929c",
+  "sha256": "b62009a69f681ba1cb884dba4591cde4739a119c25a034a86d9c071ecf06e923",
+  "bytes": 105618100,
+  "duration_seconds": 859.1,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "technical": "PASS",
+  "sampled_visual_review": "PASS",
+  "full_listening": "NOT CHECKED",
+  "full_playback": "NOT CHECKED",
+  "release_restore_sha256_verified": true,
+  "repository_private": true
+}

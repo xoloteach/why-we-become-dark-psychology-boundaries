@@ -1,14 +1,17 @@
 {
-  "phase": "render inputs passed preflight",
+  "phase": "review master delivered; durable private versioned release verified",
   "script": "recovered from user message event 27",
   "source_backup": "remote checkpoints verified; see Git history and audio/status.json",
   "artwork": "21 original contact sheets + 3 animation kit sheets + canonical character + end card recovered",
-  "narration": "complete; lossless original and mastered mix backed up at next checkpoint",
-  "renderer": "runtime benchmark and sampled layout review passed; full encoded output validation pending",
-  "full_mp4": "first persistent run stopped before render: hosted runner lacked FFmpeg; dependency installation added",
+  "narration": "complete; regenerated Deepgram Cole narration, lossless master and mastered mix committed",
+  "renderer": "corrected v3 build complete; technical and sampled encoded visual QA PASS",
+  "full_mp4": "859.1 seconds, 1920x1080, 30fps, H264/AAC; private GitHub release download SHA-256 verified",
   "thumbnail": "excluded",
   "shorts": "excluded",
   "rule": "verify each checkpoint remotely before next major stage",
-  "visual_plan": "original provisional plan recovered; not aligned to new audio",
-  "dependencies": "fonts, neural-upscale model, isolated OpenCV-contrib and licensed SFX restored; runtime/visual checks pending"
+  "visual_plan": "152 narration-driven scenes aligned; 489 word-timed caption groups",
+  "dependencies": "fonts, neural-upscale model, OpenCV-contrib and licensed CC0 SFX restored and tested",
+  "full_audio_listening": "NOT CHECKED",
+  "full_video_playback": "NOT CHECKED",
+  "release": "https://github.com/xoloteach/why-we-become-dark-psychology-boundaries/releases/tag/review-v3-run-39431445352"
 }
