@@ -75,11 +75,11 @@ def asset(f,key,cx,cy,mw,mh,alpha=1,scale=1,angle=0):
 def reveal_art(f,s,t):
  r=t-s['start'];feat=s['feature'];cx=390 if feat else (1415 if s['layout']=='right' else 505);cy=641 if feat else 555;mw,mh=(640,420) if feat else (830,570)
  fade=1;pose=None
- if s['kind']=='boundary' and s['script_line'] in [187,194,205,274,284,304,309]:
+ if s['kind']=='boundary' and s['script_line'] in [187,194,274,284,304,309]:
   # Connected illustration gives way to an independent complete-body pose, never a limb slice.
   swap=s['cues'][-1] if len(s['cues'])>1 else s['start']+2;fade=1-ease((t-swap)/.55)
   if t>=swap:
-   u=ease((t-swap)/.7);key='C05' if s['script_line'] in [187,194,205] else 'C04';asset(f,key,cx+(u*90 if key=='C05' else 0),650,340,410,1-fade)
+   u=ease((t-swap)/.7);key='C05' if s['script_line'] in [187,194] else 'C04';asset(f,key,cx+(u*90 if key=='C05' else 0),650,340,410,1-fade)
  a=layer(s['art'],mw,mh);ink=ink_layer(s['art'],mw,mh);ah,aw=a.shape[:2];x=cx-aw/2+(1-spring(r/.85))*32*(1 if s['layout']=='right' else -1);y=cy-ah/2+(1-spring(r/.85))*20
  cap=round(aw*ease(r/.68));fill=ease((r-.14)/.9)
  if cap>0:blit(f,ink[:,:cap],x,y,(1-fill)*fade);blit(f,a[:,:cap],x,y,fill*fade)
@@ -120,6 +120,9 @@ def diagram(f,s,t,x,y,w=790,h=310):
    a=rev[i];xx,yy=pos[i]
    if a>0:rect(f,xx+(1-a)*15,yy,cw,hh,RUST if i==cur else soft);text(f,labs[i],xx+cw/2,yy+20,28,WHITE if i==cur else fg,int(cw-34),alpha=a,center=True)
   links=[[(x+cw+6,y+50),(x+w-cw-12,y+50)],[(x+w-cw/2,y+105),(x+w-cw/2,y+181)],[(x+w-cw-7,y+242),(x+cw+13,y+242)],[(x+cw/2,y+187),(x+cw/2,y+113)]]
+  # Close smaller loops against the actual visible first node, not an empty fourth slot.
+  if count==3:links[2]=[(x+w-cw-7,y+242),(x+cw/2,y+242),(x+cw/2,y+113)]
+  elif count==2:links[1]=[(x+w-cw/2,y+105),(x+w-cw/2,y+242),(x+cw/2,y+242),(x+cw/2,y+113)]
   for i in range(count):
    j=(i+1)%count
    if rev[i]>.88 and rev[j]>.88:path(f,links[i],RUST,4,ease((t-max(cue[i],cue[j])-.33)/.6),True)

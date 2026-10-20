@@ -2,8 +2,9 @@
   "run_id": 39428102043,
   "url": "https://github.com/xoloteach/why-we-become-dark-psychology-boundaries/actions/runs/39428102043",
   "reviewed_commit": "64f252d48a31d5b2e5906e86de1672b5dc9c0565",
-  "status": "queued",
+  "status": "completed",
   "output": "episode-v2-review.mp4",
   "workflow": "render-mp4.yml",
-  "artifact_retention_days": 14
+  "artifact_retention_days": 14,
+  "conclusion": "success"
 }

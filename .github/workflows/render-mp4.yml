@@ -34,11 +34,11 @@ jobs:
       - name: Render full captioned episode
         run: |
           set -euo pipefail
-          python source/render.py --out delivery/episode-v2-review.mp4 2>&1 | tee qa/render.log
+          python source/render.py --out delivery/episode-v3-review.mp4 2>&1 | tee qa/render.log
       - name: Validate encoded MP4 and extract inspection frames
         run: |
           set -euo pipefail
-          python source/qa_master.py delivery/episode-v2-review.mp4
+          python source/qa_master.py delivery/episode-v3-review.mp4
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -46,7 +46,7 @@ jobs:
           retention-days: 14
           compression-level: 0
           path: |
-            delivery/episode-v2-review.mp4
+            delivery/episode-v3-review.mp4
             delivery/build-manifest.json
             delivery/captions.srt
             delivery/seo.md

@@ -1,0 +1,29 @@
+{
+  "initial_run": 39428102043,
+  "initial_commit": "64f252d48a31d5b2e5906e86de1672b5dc9c0565",
+  "inspection": "All 152 settled encoded layouts plus time-separated states/endcard inspected on 14 contact sheets.",
+  "technical": "PASS",
+  "initial_visual": "FAIL; repaired before delivery",
+  "findings": [
+    {
+      "scene": 62,
+      "issue": "Three-node loop return arrow pointed toward an empty fourth slot",
+      "fix": "Route return via elbow back to the visible first node"
+    },
+    {
+      "scene": 82,
+      "issue": "Same three-node-loop return geometry",
+      "fix": "Same renderer correction"
+    },
+    {
+      "scene": 96,
+      "issue": "Step-away pose contradicted narration about remaining in an argument",
+      "fix": "Keep original seated illustration; remove unsupported exit pose swap"
+    }
+  ],
+  "other_sampled_layouts": "No material overlap, clipping, subtitle-lane or pale-face-mask defect observed",
+  "full_listening": "NOT CHECKED",
+  "full_playback": "NOT CHECKED",
+  "corrected_encoded_verification": "PENDING",
+  "corrected_source_stills": "PASS: scenes 62/82 loops close to actual first node; scene 96 retains seated pose"
+}

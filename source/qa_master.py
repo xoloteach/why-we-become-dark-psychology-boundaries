@@ -10,7 +10,7 @@ samples=[]
 for s in sc:
  t=max(s['start']+.1,min(s['end']-.12,max(s['start']+.9,(max(s['cues'])+.65 if s['cues'] else s['start']+.9))));samples.append({'scene':s['id'],'time':t,'kind':s['kind']})
 # Time-separated states prove actual movement at selected pivots, not just source layouts.
-for line in [73,125,187,247,278]:
+for line in [73,125,144,177,187,205,247,278]:
  s=next(x for x in sc if x['script_line']==line)
  for dt in [.15,.65,1.25]:samples.append({'scene':s['id'],'time':min(s['end']-.08,s['start']+dt),'kind':'motion-state'})
 samples.append({'scene':'endcard','time':dur-1,'kind':'endcard'})
